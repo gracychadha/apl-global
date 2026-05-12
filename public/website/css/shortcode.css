@@ -1922,9 +1922,7 @@
     -ms-transform: translateX(0) translateY(-50%);
     transform: translateX(0) translateY(-50%);
 }
-.site-footer .pbmit-footer-copyright-text-area a{
-	text-decoration: underline !important;
-}
+
 /** footer Style 1 **/
 .footer-style-1{
 	background-image: url(../images/homepage-1/bg/footer-bg.png);
@@ -2054,12 +2052,8 @@
 .footer-style-2 .pbmit-footer-text-area{
 	padding: 15px 0 100px 0;
 }
-.footer-style-2 .pbmit-footer-copyright-text-area a{
-	color: var(--pbmit-global-color);
-}
-.footer-style-2 .pbmit-social-links{
-	text-align: right;
-}
+
+
 .footer-style-2 .pbmit-social-links li:not(:last-child){
 	padding-right: 5px;
 }
