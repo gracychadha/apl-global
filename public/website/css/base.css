@@ -389,15 +389,15 @@ INDEX:
 /*----------------------------------------*/
 
 .section-lg{
-	padding-top: 115px;
-	padding-bottom: 160px;
+	padding-top: 80px;
+	padding-bottom: 80px;
 }
 .section-lgx{
 	padding-top: 140px;
 	padding-bottom: 90px;
 }
 .section-lgt{
-	padding-top: 130px;
+	padding-top: 90px;
 }
 .section-md{
 	padding: 110px 20px 80px 20px;

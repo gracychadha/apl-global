@@ -1,6 +1,6 @@
 <footer class="footer-style-2 site-footer pbmit-bg-color-light">
     <div class="pbmit-footer-big-area">
-        <div class="container-fluid">
+        <div class="container">
             <div class="row align-items-center">
                 <div class="col-md-6 pbmit-footer-left">
                     <h3 class="pbmit-title">Subscribe to our newsletter</h3>

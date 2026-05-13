@@ -23,7 +23,7 @@
 /*----------------------------------------*/
 /** Homepage 01 **/
 .marquee_one{
-	padding-top: 65px;
+	padding-top: 25px;
 }
 .service_one{
 	overflow: hidden;
@@ -34,7 +34,7 @@
     margin-bottom: 2px;
 }
 .about-us_one{
-	padding: 210px 0px 155px 0px;
+	padding: 100px 0;
 	overflow: hidden;
 }
 .about-one_imgbox{
@@ -110,7 +110,7 @@
 	padding: 0 30px;
 }
 .flip-box-section_one{
-	padding: 175px 0 145px 0;
+	padding: 100px 0 100px 0;
 }
 .flip-box-section_one .pbmit-col_wrapper:nth-child(2){
 	background-color: var(--pbmit-global-color);
@@ -120,13 +120,13 @@
 	background-color: var(--pbmit-light-color);
 }
 .fid-section_one{
-	padding-bottom: 180px;
+	padding-bottom: 100px;
 }
 .team-one-left_col{
-	padding-left: 160px;
+	padding-left: 120px;
 }
 .pricing_one{
-	padding: 255px 15px 220px 15px;
+	padding: 80px 15px 110px 15px;
 	background-image: url(../images/homepage-1/bg/pricing-table-bg.png);
     background-position: 38% 28%;
     background-repeat: no-repeat;
@@ -255,12 +255,13 @@
 }
 .about-us-two_content .pbmit-heading_desc{
 	color: #333333;
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 500;
     line-height: 30px;
+	text-align: justify;
 }
 .about-us-two_btn{
-	padding-top: 50px;
+	padding-top: 0px;
 }
 .about-us-two_btn .pbmit-btn{
 	padding: 13px 48px 13px 30px;
@@ -323,7 +324,7 @@
     width: auto;
     z-index: -1;
     overflow: hidden;
-	margin: 0px -70px 0px -70px;
+	/* margin: 0px -70px 0px -70px; */
 	background-color: var(--pbmit-light-color);
 }
 .accordion-two_box{
@@ -345,7 +346,7 @@
     animation-iteration-count: infinite;
 }
 .portfolio_two{
-	padding: 115px 40px 0 40px;
+	padding: 0px 100px 100px 105px;
 }
 .fid-section_two{
 	padding: 120px 0px 195px 0px;
@@ -438,7 +439,7 @@
 	color: var(--pbmit-global-color);
 }
 .about-us_three{
-	padding-top: 190px;
+	padding-top: 100px;
 }
 .about-us-three_img{
 	text-align: right;
@@ -454,7 +455,8 @@
 	padding-top: 18px;
 }
 .ihbox-section_three{
-	padding-top: 195px;
+	padding-top: 100px;
+	padding-bottom: 100px;
 }
 .process-section_three{
 	padding-top: 170px;
@@ -511,7 +513,7 @@
 	background-color: var(--pbmit-blackish-color);
 }
 .progress_three{
-	padding: 170px 0px 110px 0px;
+	padding: 100px 0px 100px 0px;
 }
 .progress-three_right{
 	margin: -25px -41px 0px 0px;
@@ -936,7 +938,7 @@
 	border: 2px solid var(--pbmit-blackish-color);
 }
 .blog_section{
-	padding: 100px 0;
+	padding: 0 0 60px 0;
 }
 .our-blog_btn{
 	padding-top: 25px;

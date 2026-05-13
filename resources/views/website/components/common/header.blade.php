@@ -1,12 +1,12 @@
 <header class="site-header header-style-1">
     <div class="pbmit-header-overlay">
         <div class="site-header-menu">
-            <div class="container-fluid">
+            <div class="container p-0">
                 <div class="pbmit-header-content d-flex align-items-center justify-content-between">
                     <div class="pbmit-logo-area">
                         <div class="site-branding pbmit-logo-area">
                             <h1 class="site-title">
-                                <a href="index.html">
+                                <a href="{{ route('home') }}" rel="home">
                                     <img class="logo-img" src="{{ asset('website/images/apl-global.svg') }}"
                                         alt="Logistbiz">
                                 </a>

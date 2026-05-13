@@ -424,27 +424,27 @@
 	/*-------------------------------------
     Stretched Div
     -------------------------------------*/ 	
-	var document_width = $(document).width();
-	function pbmit_col_stretched(){
-		$('.pbmit-col-stretched-yes').each(function() {
-			var this_ele = $(this);
-			var window_width = jQuery(window).width();
-			var main_width = $('.container').width();
-			var extra_width = ((window_width - main_width) / 2);  
-			if (window_width < 1200){
-				extra_width = 0;
-			}
-			if (this_ele.hasClass('pbmit-col-right')) { 
-				$('.pbmit-col-stretched-right', this_ele).css('margin-right', '-' + extra_width + 'px'); 
-			} else { 
-				$('.pbmit-col-stretched-left', this_ele).css('margin-left', '-' + extra_width + 'px'); 
-			}
-		});
-	}
-	$(window).resize(function(){
-		pbmit_col_stretched();
-	});
-	pbmit_col_stretched();
+	// var document_width = $(document).width();
+	// function pbmit_col_stretched(){
+	// 	$('.pbmit-col-stretched-yes').each(function() {
+	// 		var this_ele = $(this);
+	// 		var window_width = jQuery(window).width();
+	// 		var main_width = $('.container').width();
+	// 		var extra_width = ((window_width - main_width) / 2);  
+	// 		if (window_width < 1200){
+	// 			extra_width = 0;
+	// 		}
+	// 		if (this_ele.hasClass('pbmit-col-right')) { 
+	// 			$('.pbmit-col-stretched-right', this_ele).css('margin-right', '-' + extra_width + 'px'); 
+	// 		} else { 
+	// 			$('.pbmit-col-stretched-left', this_ele).css('margin-left', '-' + extra_width + 'px'); 
+	// 		}
+	// 	});
+	// }
+	// $(window).resize(function(){
+	// 	pbmit_col_stretched();
+	// });
+	// pbmit_col_stretched();
 
   /*-------------------------------------
   Circle Progressbar
