@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-
+use App\Http\Controllers\ContactLeadController;
 
 Route::get('/', function () {
     return view('website.views.welcome');
@@ -66,3 +66,7 @@ Route::get('/terms-conditions', function () {
 // Route::get('/blog-details/{id}', function ($id) {
 //     return view('website.views.blog-details', compact('id'));
 // })->name('blog-details');
+
+// CRUD for Contact Leads
+Route::post('/contact-us-submit', [ContactLeadController::class, 'store'])
+    ->name('contact.store');

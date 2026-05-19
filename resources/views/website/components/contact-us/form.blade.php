@@ -212,36 +212,94 @@
                         <div class="pbmit-heading-subheading animation-style2">
                             <h4 class="">Send us a message</h4>
                         </div>
-                        <form class="contact-form" method="post" id="contact-form" action="send.php">
+                        <form class="contact-form" method="POST" id="contact-form"
+                            action="{{ route('contact.store') }}">
+                            @csrf
+
                             <div class="row">
-                                <div class="col-sm-6">
-                                    <input type="text" class="form-control" placeholder="Name" name="name" required="">
+
+                                <!-- Success Message -->
+                                @if(session('success'))
+                                    <div class="col-12">
+                                        <div class="alert alert-success">
+                                            {{ session('success') }}
+                                        </div>
+                                    </div>
+                                @endif
+
+                                <!-- Name -->
+                                <div class="col-sm-6 mb-3">
+                                    <input type="text" class="form-control @error('name') is-invalid @enderror"
+                                        placeholder="Name" name="name" value="{{ old('name') }}" required>
+
+                                    @error('name')
+                                        <small class="text-danger">{{ $message }}</small>
+                                    @enderror
                                 </div>
-                                <div class="col-sm-6">
-                                    <input type="email" class="form-control" placeholder="Email" name="email"
-                                        required="">
+
+                                <!-- Email -->
+                                <div class="col-sm-6 mb-3">
+                                    <input type="email" class="form-control @error('email') is-invalid @enderror"
+                                        placeholder="Email" name="email" value="{{ old('email') }}" required>
+
+                                    @error('email')
+                                        <small class="text-danger">{{ $message }}</small>
+                                    @enderror
                                 </div>
-                                <div class="col-sm-6">
-                                    <input type="tel" class="form-control" placeholder="Phone" name="phone" required="">
+
+                                <!-- Phone -->
+                                <div class="col-sm-6 mb-3">
+                                    <input type="tel" class="form-control @error('phone') is-invalid @enderror"
+                                        placeholder="+91XXXXXXXXXX" name="phone" value="{{ old('phone') }}" required>
+
+                                    @error('phone')
+                                        <small class="text-danger">{{ $message }}</small>
+                                    @enderror
                                 </div>
-                                <div class="col-sm-6">
-                                    <input type="text" class="form-control" placeholder="Subject" name="subject"
-                                        required="">
+
+                                <!-- Subject -->
+                                <div class="col-sm-6 mb-3">
+                                    <input type="text" class="form-control @error('subject') is-invalid @enderror"
+                                        placeholder="Subject" name="subject" value="{{ old('subject') }}">
+
+                                    @error('subject')
+                                        <small class="text-danger">{{ $message }}</small>
+                                    @enderror
                                 </div>
+
+                                <!-- Message -->
+                                <div class="col-sm-12 mb-3">
+                                    <textarea name="message" cols="40" rows="6"
+                                        class="form-control @error('message') is-invalid @enderror"
+                                        placeholder="Message">{{ old('message') }}</textarea>
+
+                                    @error('message')
+                                        <small class="text-danger">{{ $message }}</small>
+                                    @enderror
+                                </div>
+
+                                <!-- Google reCAPTCHA v3 -->
+                                <input type="hidden" name="g-recaptcha-response" id="g-recaptcha-response">
+
+                                @error('captcha')
+                                    <div class="col-12">
+                                        <small class="text-danger">{{ $message }}</small>
+                                    </div>
+                                @enderror
+
+                                <!-- Submit Button -->
                                 <div class="col-sm-12">
-                                    <textarea name="message" cols="40" rows="10" class="form-control"
-                                        placeholder="Message" required=""></textarea>
-                                </div>
-                                <div class="col-sm-12">
-                                    <button class="pbmit-btn">
+                                    <button type="submit" class="pbmit-btn">
                                         <i
                                             class="form-btn-loader fa fa-circle-o-notch fa-spin fa-fw margin-bottom d-none"></i>
                                         <span class="pbmit-button-text">Get in touch</span>
                                     </button>
                                 </div>
-                                <div class="col-md-12 col-lg-12 message-status"></div>
+
                             </div>
                         </form>
+
+
                     </div>
                 </div>
             </div>
