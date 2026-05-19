@@ -24,11 +24,11 @@
                             <h4 class="pbmit-fid-inner">
                                 <span class="pbmit-fid-before"></span>
                                 <span class="pbmit-number-rotate numinate" data-appear-animation="animateDigits"
-                                    data-from="0" data-to="70" data-interval="5" data-before="" data-before-style=""
-                                    data-after="" data-after-style="">70</span>
-                                <span class="pbmit-fid"></span>
+                                    data-from="0" data-to="8845" data-interval="5" data-before="" data-before-style=""
+                                    data-after="" data-after-style="">8845</span>
+                                <span class="pbmit-fid">M</span>
                             </h4>
-                            <h3 class="pbmit-fid-title">Skill Trainers</h3>
+                            <h3 class="pbmit-fid-title">Miles Driven</h3>
                         </div>
                     </div>
                 </div>
@@ -40,11 +40,11 @@
                             <h4 class="pbmit-fid-inner">
                                 <span class="pbmit-fid-before"></span>
                                 <span class="pbmit-number-rotate numinate" data-appear-animation="animateDigits"
-                                    data-from="0" data-to="12" data-interval="5" data-before="" data-before-style=""
-                                    data-after="" data-after-style="">12</span>
-                                <span class="pbmit-fid"></span>
+                                    data-from="0" data-to="3214" data-interval="5" data-before="" data-before-style=""
+                                    data-after="" data-after-style="">3214</span>
+                                <span class="pbmit-fid">M</span>
                             </h4>
-                            <h3 class="pbmit-fid-title">Award Winning</h3>
+                            <h3 class="pbmit-fid-title">Clients Worldwide</h3>
                         </div>
                     </div>
                 </div>
@@ -56,15 +56,16 @@
                             <h4 class="pbmit-fid-inner">
                                 <span class="pbmit-fid-before"></span>
                                 <span class="pbmit-number-rotate numinate" data-appear-animation="animateDigits"
-                                    data-from="0" data-to="450" data-interval="5" data-before="" data-before-style=""
-                                    data-after="" data-after-style="">450</span>
-                                <span class="pbmit-fid"></span>
+                                    data-from="0" data-to="5154" data-interval="5" data-before="" data-before-style=""
+                                    data-after="" data-after-style="">5154</span>
+                                <span class="pbmit-fid">M</span>
                             </h4>
-                            <h3 class="pbmit-fid-title">Satisfied Customers </h3>
+                            <h3 class="pbmit-fid-title">Delivered Goods </h3>
                         </div>
                     </div>
                 </div>
             </div>
+
         </div>
     </div>
 </section>

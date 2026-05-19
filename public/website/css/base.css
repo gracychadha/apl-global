@@ -13,8 +13,8 @@ INDEX:
     10 - Search Box
 ******************************/
 
-@import url('../../css2');
-@import url('../../css2-1');
+/* @import url('../../css2');
+@import url('../../css2-1'); */
  :root {
      --pbmit-global-color: #0b4bd3;
      --pbmit-secondary-color: #ff5001;

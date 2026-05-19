@@ -12,24 +12,33 @@
 				<div class="about-us-two_content">
 					<div class="pbmit-heading-subheading">
 						<h4 class="pbmit-subtitle">About Us</h4>
-						<h2 class="pbmit-title">Shipments delivered on time with no hassle.</h2>
+						<h2 class="pbmit-title">Our aim is to make your dealings with us effortless.
+						</h2>
 						<p class="pbmit-heading_desc">
-							Post jobs, find candidates, and manage your talent pipeline with AngelList's complete hiring
-							toolkit.
-							Post jobs, find candidates, and manage your talent pipeline with AngelList's complete hiring
-							toolkit.
-							Post jobs, find candidates, and manage your talent pipeline with AngelList's complete hiring
-							toolkit.
-							Post jobs, find candidates, and manage your talent pipeline with AngelList's complete hiring
-							toolkit.
-							Post jobs, find candidates, and manage your talent pipeline with AngelList's complete hiring
-							toolkit.
-							
-</p>
+							As international freight forwarders, our mission is to provide world-class logistic service
+							to exporters and importers. We treat each and every shipment as a unique challenge and
+							opportunity; identifying and providing the optimal solution for our customers specific
+							international transportation needs.
+
+							At APL Logistics, we are very aware of the critical importance of each shipment and how much
+							it could mean to the daily operations of your business. We
+							bear in mind the gravity of trust you place in us and strive to move your cargo swiftly and
+							efficiently straight to the destination.
+
+							Our experienced team of professionals uses the best resources and the latest technologies to
+							transport your shipment across the globe seamlessly, carefully
+							and consistently.
+
+							We have a host of services that will sync smoothly with your operations and carry your goods
+							ON TIME, ON BUDGET and ON VALUE! Challenge us! You will only make us better.
+
+
+
+						</p>
 					</div>
-					
+
 					<div class="about-us-two_btn">
-						<a class="pbmit-btn" href="contact-us.html">Get Quote</a>
+						<a class="pbmit-btn" href="{{ route('contact-us') }}">Get Quote</a>
 					</div>
 				</div>
 			</div>

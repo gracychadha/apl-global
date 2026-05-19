@@ -4,15 +4,16 @@
             <div class="col-md-12 col-xl-6">
                 <div class="pbmit-heading-subheading">
                     <h4 class="pbmit-subtitle">Introduction</h4>
-                    <h2 class="pbmit-title">Exceptional quality that can’t be beaten.</h2>
+                    <h2 class="pbmit-title">Reliable Logistics Solutions With Global Reach</h2>
+
                     <div class="pbmit-heading_desc">
-                        Lorem ipsum dolor consectetur adipiscing elit Imperdiet arcu tellus ultricies sem at diam justo
-                        rhoncus lacinia lacus porta.
+                        APL Logistics provides fast, secure, and efficient transportation services tailored to meet
+                        modern supply chain and cargo delivery needs worldwide.
                     </div>
                 </div>
                 <div class="progressbar">
                     <div>
-                        <span class="progress-label">Road Frieght</span>
+                       <span class="progress-label">Road Freight</span>
                         <div class="progress progress-lg progress-percent-bg">
                             <div class="progress-bar aos aos-init" data-aos="slide-right" data-aos-delay="200"
                                 data-aos-duration="1000" data-aos-easing="ease-in-out" role="progressbar"
@@ -55,7 +56,8 @@
             </div>
             <div class="col-md-12 col-xl-6">
                 <div class="progress-three_right">
-                    <img src="{{ asset('website/images/homepage-3/progressbar-right-img.png') }}" class="img-fluid" alt="">
+                    <img src="{{ asset('website/images/homepage-3/progressbar-right-img.png') }}" class="img-fluid"
+                        alt="">
                 </div>
             </div>
         </div>

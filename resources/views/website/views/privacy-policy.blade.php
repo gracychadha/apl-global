@@ -1,5 +1,5 @@
 @extends('website.layout.app')
-@section('title', 'Contact Us - APL GLOBAL LOGISTICS')
+@section('title', 'Privacy Policy - APL GLOBAL LOGISTICS')
 @section('content')
     <div class="pbmit-title-bar-wrapper">
         <div class="container">
@@ -7,7 +7,7 @@
                 <div class="pbmit-title-bar-content-inner">
                     <div class="pbmit-tbar">
                         <div class="pbmit-tbar-inner">
-                            <h1 class="pbmit-tbar-title">Contact Us</h1>
+                            <h1 class="pbmit-tbar-title">Privacy Policy</h1>
                         </div>
                     </div>
                     <div class="pbmit-breadcrumb">
@@ -16,14 +16,14 @@
                             <span class="sep">
                                 <i class="pbmit-base-icon-angle-right"></i>
                             </span>
-                            <span><span class="post-root post post-post current-item">Contact Us</span></span>
+                            <span><span class="post-root post post-post current-item">Privacy Policy</span></span>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <!-- Title Bar End-->
-@include('website.components.contact-us.form')
-   
+
+    @include('website.components.privacy-policy.details')
+
 @endsection

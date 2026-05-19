@@ -758,8 +758,8 @@
 /*----------------------------------------*/
 /** Style 1 **/
 .pbminfotech-ele-fid-style-1 .pbmit-fid-inner {
-	font-size:55px;
-	line-height: 55px;
+	font-size:35px;
+	line-height: 30px;
 	margin-bottom: 0;
 	display: flex;
 }
@@ -775,16 +775,16 @@
 	color: var(--pbmit-global-color);
 }
 .pbminfotech-ele-fid-style-1 .pbmit-number-rotate{
-	font-size: 140px;
-	line-height: 140px;
+	font-size: 80px;
+	line-height: 85px;
 	display: inline-block;
 	position: relative;
 	color: var(--pbmit-global-color);
 }
 /** Style 2 **/
 .pbminfotech-ele-fid-style-2 .pbmit-fid-inner {
-	font-size:60px;
-	line-height: 60px;
+	font-size:35px;
+	line-height: 30px;
 	display: flex;
 	margin-bottom: 0;
 }
@@ -796,8 +796,8 @@
 	letter-spacing: 0;
 }
 .pbminfotech-ele-fid-style-2 .pbmit-number-rotate{
-	font-size: 140px;
-	line-height: 140px;
+	font-size: 80px;
+	line-height: 85px;
 	font-weight: 600;
 	display: inline-block;
 	position: relative;
@@ -1293,6 +1293,7 @@
     line-height: 32px;
     margin-bottom: 0;
 	letter-spacing: 0px;
+	text-align: justify;
 }
 .pbmit-blog-style-1 .pbmit-featured-wrapper {
 	position: relative;
@@ -1657,6 +1658,7 @@
 }
 .pbmit-testimonial-style-2 .pbminfotech-testimonial-text p{
 	margin-bottom: 0;
+	text-align: justify;
 }
 .pbmit-testimonial-style-2 .pbminfotech-box-star-ratings{
 	color: #feb437;
@@ -2050,7 +2052,7 @@
 	margin-bottom: 0;
 }
 .footer-style-2 .pbmit-footer-text-area{
-	padding: 15px 0 100px 0;
+	padding: 15px 0 15px 0;
 }
 
 
@@ -2414,6 +2416,7 @@
 }
 .accordion-body{
 	padding: 0 25px 23px 0;
+	text-align: justify;
 }
 .accordion-button:not(.collapsed){
 	box-shadow: none;

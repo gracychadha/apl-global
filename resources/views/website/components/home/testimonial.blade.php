@@ -15,7 +15,7 @@
             <div class="col-md-12 col-xl-6">
                 <div class="pbmit-heading-subheading">
                     <h4 class="pbmit-subtitle">Testimonials</h4>
-                    <h2 class="pbmit-title">What our happy clients say about?</h2>
+                    <h2 class="pbmit-title">What Our Clients Say About Us</h2>
                 </div>
                 <div class="testimonial-one_arrow swiper-btn-custom d-flex flex-row-reverse"></div>
                 <div class="swiper-slider" data-arrows-class="testimonial-one_arrow" data-loop="true"
@@ -28,8 +28,10 @@
                                 <div class="pbminfotech-post-item">
                                     <div class="pbminfotech-box-desc">
                                         <blockquote class="pbminfotech-testimonial-text">
-                                            <p>“It was really great working with Logistbiz team and I am happy I was
-                                                introduced to this team! It’s not easy to work on a website some”
+                                            <p>
+                                                “APL Logistics provided excellent freight services with timely delivery
+                                                and complete cargo safety. Their professional team made the entire
+                                                shipping process smooth and hassle-free.”
                                             </p>
                                         </blockquote>
                                     </div>
@@ -43,8 +45,8 @@
                                             </div>
                                         </div>
                                         <div class="pbmit-auther-content">
-                                            <h3 class="pbminfotech-box-title">Porter Victoria</h3>
-                                            <div class="pbminfotech-testimonial-detail">Ceo &amp; Founder</div>
+                                            <h3 class="pbminfotech-box-title">Michael Anderson</h3>
+                                            <div class="pbminfotech-testimonial-detail">Import Export Manager</div>
                                         </div>
                                     </div>
                                 </div>
@@ -56,8 +58,10 @@
                                 <div class="pbminfotech-post-item">
                                     <div class="pbminfotech-box-desc">
                                         <blockquote class="pbminfotech-testimonial-text">
-                                            <p>“It was really great working with Logistbiz team and I am happy I was
-                                                introduced to this team! It’s not easy to work on a website some”
+                                            <p>
+                                                “We have been working with APL Logistics for years and their reliable
+                                                transportation services and customer support have always exceeded our
+                                                expectations.”
                                             </p>
                                         </blockquote>
                                     </div>
@@ -71,8 +75,8 @@
                                             </div>
                                         </div>
                                         <div class="pbmit-auther-content">
-                                            <h3 class="pbminfotech-box-title">David Wrner</h3>
-                                            <div class="pbminfotech-testimonial-detail">Ceo & Founder</div>
+                                            <h3 class="pbminfotech-box-title">David Wilson</h3>
+                                            <div class="pbminfotech-testimonial-detail">Supply Chain Director</div>
                                         </div>
                                     </div>
                                 </div>
@@ -84,8 +88,9 @@
                                 <div class="pbminfotech-post-item">
                                     <div class="pbminfotech-box-desc">
                                         <blockquote class="pbminfotech-testimonial-text">
-                                            <p>“It was really great working with Logistbiz team and I am happy I was
-                                                introduced to this team! It’s not easy to work on a website some”
+                                            <p>
+                                                “Their global logistics network and on-time delivery services helped our
+                                                business manage international shipments efficiently and securely.”
                                             </p>
                                         </blockquote>
                                     </div>
@@ -99,8 +104,8 @@
                                             </div>
                                         </div>
                                         <div class="pbmit-auther-content">
-                                            <h3 class="pbminfotech-box-title">John Martin</h3>
-                                            <div class="pbminfotech-testimonial-detail">Ceo & Founder</div>
+                                            <h3 class="pbminfotech-box-title">Sarah Johnson</h3>
+                                            <div class="pbminfotech-testimonial-detail">Operations Head</div>
                                         </div>
                                     </div>
                                 </div>

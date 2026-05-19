@@ -7,7 +7,7 @@
     <title>@yield('title')</title>
 
     <!-- Favicon -->
-    <link rel="shortcut icon" type="image/x-icon" href="{{ asset('website/images/fav.svg') }}">
+    <link rel="shortcut icon" type="image/x-icon" href="{{ asset('website/images/favicon-apl.ico') }}">
     <!-- CSS
          ============================================ -->
     <!-- Bootstrap CSS -->

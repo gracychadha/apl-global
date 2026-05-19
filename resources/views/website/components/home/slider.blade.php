@@ -39,8 +39,8 @@
                         data-text="w:normal;s:90,70,53,34;l:90,70,53,36;fw:700;" data-frame_0="x:175%;o:1;"
                         data-frame_0_mask="u:t;x:-100%;" data-frame_1="e:power3.out;st:1360;sp:1000;sR:1360;"
                         data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;sR:6640;"
-                        style="z-index:9;font-family:'Space Grotesk';text-transform:capitalize;">the new logistic
-                        <br> revolutions.
+                        style="z-index:9;font-family:'Space Grotesk';text-transform:capitalize;">Safe &amp; Reliable
+                        <br> Cargo Solutions.
                     </rs-layer><!--
 
                                         --><rs-layer id="slider-4-slide-4-layer-4" data-type="text"
@@ -50,8 +50,8 @@
                         data-dim="w:877px,767px,582px,425px;h:79px,69px,52px,auto;" data-frame_0="x:175%;o:1;"
                         data-frame_0_mask="u:t;x:-100%;" data-frame_1="e:power3.out;st:1770;sp:1000;sR:1770;"
                         data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;sR:6230;"
-                        style="z-index:10;font-family:'Schibsted Grotesk';">It was popularized in the 1960s with the
-                        release of<br> Letterset sheets containing.
+                        style="z-index:10;font-family:'Schibsted Grotesk';">Providing flexible, improved service levels,
+                        and accelerated delivery. <br>Reduced direct and indirect costs with much less complexity.
                     </rs-layer><!--
 
                                         --><rs-layer id="slider-4-slide-4-layer-6" data-type="image" data-rsp_ch="on"
@@ -98,8 +98,8 @@
                         data-text="w:normal;s:90,70,53,34;l:90,70,53,36;fw:700;" data-frame_0="x:175%;o:1;"
                         data-frame_0_mask="u:t;x:-100%;" data-frame_1="e:power3.out;st:1360;sp:1000;sR:1360;"
                         data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;sR:6640;"
-                        style="z-index:9;font-family:'Space Grotesk';text-transform:capitalize;">the new logistic
-                        <br> revolutions.
+                        style="z-index:9;font-family:'Space Grotesk';text-transform:capitalize;">Air Freight That
+                        <br> Saves Your Time!
                     </rs-layer><!--
 
                                         --><rs-layer id="slider-4-slide-11-layer-4" data-type="text"
@@ -109,8 +109,9 @@
                         data-dim="w:877px,767px,582px,439px;h:79px,69px,52px,auto;" data-frame_0="x:175%;o:1;"
                         data-frame_0_mask="u:t;x:-100%;" data-frame_1="e:power3.out;st:1770;sp:1000;sR:1770;"
                         data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;sR:6230;"
-                        style="z-index:10;font-family:'Schibsted Grotesk';">It was popularized in the 1960s with the
-                        release of<br> Letterset sheets containing.
+                        style="z-index:10;font-family:'Schibsted Grotesk';">Providing flexible, improved service levels,
+                        and accelerated delivery. <br>
+                        Reduced direct and indirect costs and much less complexity.
                     </rs-layer><!--
 
                                         --><rs-layer id="slider-4-slide-11-layer-6" data-type="image" data-rsp_ch="on"
@@ -157,8 +158,8 @@
                         data-text="w:normal;s:90,70,53,34;l:90,70,53,36;fw:700;" data-frame_0="x:175%;o:1;"
                         data-frame_0_mask="u:t;x:-100%;" data-frame_1="e:power3.out;st:1360;sp:1000;sR:1360;"
                         data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;sR:6640;"
-                        style="z-index:9;font-family:'Space Grotesk';text-transform:capitalize;">the new logistic
-                        <br> revolutions.
+                        style="z-index:9;font-family:'Space Grotesk';text-transform:capitalize;">Innovative Sea
+                        <br> Transportation!
                     </rs-layer><!--
 
                                         --><rs-layer id="slider-4-slide-12-layer-4" data-type="text"
@@ -168,8 +169,9 @@
                         data-dim="w:877px,767px,582px,445px;h:79px,69px,52px,auto;" data-frame_0="x:175%;o:1;"
                         data-frame_0_mask="u:t;x:-100%;" data-frame_1="e:power3.out;st:1770;sp:1000;sR:1770;"
                         data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;sR:6230;"
-                        style="z-index:10;font-family:'Schibsted Grotesk';">It was popularized in the 1960s with the
-                        release of<br> Letterset sheets containing.
+                        style="z-index:10;font-family:'Schibsted Grotesk';">Providing flexible, improved service levels,
+                        and accelerated delivery. <br>
+                        Reduced direct and indirect costs and much less complexity.
                     </rs-layer><!--
 
                                         --><rs-layer id="slider-4-slide-12-layer-6" data-type="image" data-rsp_ch="on"

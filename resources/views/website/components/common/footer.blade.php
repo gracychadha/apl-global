@@ -40,12 +40,12 @@
                         <h2 class="widget-title">Who We Are</h2>
                         <div class="textwidget">
                             <ul>
-                                <li><a href="#">About Us</a></li>
-                                <li><a href="#">Meet Our Team</a></li>
-                                <li><a href="#">News & Media</a></li>
-                                <li><a href="#">Case Studies</a></li>
-                                <li><a href="#">Contact Us</a></li>
-                                <li><a href="#">Work With Us</a></li>
+                                <li><a href="{{ route('about-us') }}">About Us</a></li>
+                                <li><a href="{{ route('our-team') }}">Meet Our Team</a></li>
+                                <li><a href="{{ route('our-blogs') }}">News & Media</a></li>
+                                <li><a href="{{ route('gallery') }}">Our Gallery</a></li>
+                                <li><a href="{{ route('contact-us') }}">Contact Us</a></li>
+                                <li><a href="{{ route('career') }}">Work With Us</a></li>
 
                             </ul>
                         </div>
@@ -56,13 +56,12 @@
                         <h2 class="widget-title">What We Do</h2>
                         <div class="textwidget">
                             <ul>
-                                <li><a href="#">Air Freight</a></li>
-                                <li><a href="#">Ocean Freight</a></li>
-                                <li><a href="#">Road Freight</a></li>
-                                <li><a href="#">Warehousing</a></li>
-                                <li><a href="#">Packaging</a></li>
-                                <li><a href="#">Customs Brokerage</a></li>
-                                <li><a href="#">Door to Door Service</a></li>
+                                <li><a href="{{ route('air-freight') }}">Air Freight</a></li>
+                                <li><a href="{{ route('ocean-freight') }}">Ocean Freight</a></li>
+                                <li><a href="{{ route('road-freight') }}">Road Freight</a></li>
+                                <li><a href="{{ route('warehousing') }}">Warehousing</a></li>
+                                <li><a href="{{ route('packaging') }}">Packaging</a></li>
+                                <li><a href="{{ route('customs-brokerage') }}">Customs Brokerage</a></li>
                             </ul>
                         </div>
                     </div>
@@ -113,23 +112,19 @@
                         </div>
                     </div>
                     <div class="col-md-4">
-                        <!-- <ul class="pbmit-social-links">
-                            <li class="pbmit-social-li pbmit-social-facebook">
-                                <a href="#" target="_blank">
-                                    <span><i class="pbmit-base-icon-facebook-f"></i></span>
+                        <ul class="d-flex justify-content-end pbmit-footer-menu ">
+                            <li class="me-2">
+                                <a href="{{ route('privacy-policy') }}">
+                                    <span>Privacy Policy</span>
+                                </a>
+                            </li>|
+                            <li class="ms-2" >
+                                <a href="{{ route('terms-conditions') }}">
+                                    <span>Terms and Conditions</span>
                                 </a>
                             </li>
-                            <li class="pbmit-social-li pbmit-social-twitter">
-                                <a href="#" target="_blank">
-                                    <span><i class="pbmit-base-icon-twitter-1"></i></span>
-                                </a>
-                            </li>
-                            <li class="pbmit-social-li pbmit-social-instagram">
-                                <a href="#" target="_blank">
-                                    <span><i class="pbmit-base-icon-instagram"></i></span>
-                                </a>
-                            </li>
-                        </ul> -->
+                           
+                        </ul>
                     </div>
                 </div>
             </div>

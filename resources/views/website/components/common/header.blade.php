@@ -48,12 +48,12 @@
                                         <li class="dropdown">
                                             <a href="#">Our Services</a>
                                             <ul>
-                                                <li><a href="{{ route('services') }}">Air Frieght</a></li>
-                                                <li><a href="{{ route('services') }}">Ocean Frieght</a></li>
-                                                <li><a href="{{ route('services') }}">Road Frieght</a></li>
-                                                <li><a href="{{ route('services') }}">Warehousing</a></li>
-                                                <li><a href="{{ route('services') }}">Packaging</a></li>
-                                                <li><a href="{{ route('services') }}">Customs Brokerage</a></li>
+                                                <li><a href="{{ route('air-freight') }}">Air Frieght</a></li>
+                                                <li><a href="{{ route('ocean-freight') }}">Ocean Frieght</a></li>
+                                                <li><a href="{{ route('road-freight') }}">Road Frieght</a></li>
+                                                <li><a href="{{ route('warehousing') }}">Warehousing</a></li>
+                                                <li><a href="{{ route('packaging') }}">Packaging</a></li>
+                                                <li><a href="{{ route('customs-brokerage') }}">Customs Brokerage</a></li>
                                             </ul>
                                         </li>
                                         <li><a href="{{ route('gallery') }}">Our Gallery</a> </li>
@@ -69,7 +69,7 @@
                             <a href="#"><i class="pbmit-base-icon-search-1"></i></a>
                         </div>
                         <div class="pbmit-button-box">
-                            <a class="pbmit-btn" href="#">Track & Trace</a>
+                            <a class="pbmit-btn" href="{{ route('track') }}">Track & Trace</a>
                         </div>
                     </div>
                 </div>

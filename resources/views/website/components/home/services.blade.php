@@ -5,7 +5,7 @@
                 <article class="pbmit-service-style-1">
                     <div class="pbminfotech-post-item">
                         <div class="pbmit-service-img-wrapper"
-                            style="background-image: url('{{ asset('website/images/homepage-1/service/service-01.jpg') }}')">
+                            style="background-image: url('{{ asset("website/images/homepage-1/service/service-01.jpg") }}')">
                             <div class="pbmit-featured-img-wrapper">
                                 <div class="pbmit-featured-wrapper">
                                     <img src="{{ asset('website/images/homepage-1/service/service-01.jpg') }}"
@@ -32,7 +32,7 @@
                 <article class="pbmit-service-style-1">
                     <div class="pbminfotech-post-item">
                         <div class="pbmit-service-img-wrapper"
-                            style="background-image: url('{{ asset('website/images/homepage-1/service/service-02.jpg') }}')">
+                            style="background-image: url('{{ asset("website/images/homepage-1/service/service-02.jpg") }}')">
                             <div class="pbmit-featured-img-wrapper">
                                 <div class="pbmit-featured-wrapper">
                                     <img src="{{ asset('website/images/homepage-1/service/service-02.jpg') }}"
@@ -43,7 +43,7 @@
                         <div class="pbminfotech-box-content">
                             <div class="pbminfotech-box-number">02</div>
                             <h3 class="pbmit-service-title">
-                                <a href="service-details.html">Train Freight</a>
+                                <a href="service-details.html">Packaging</a>
                             </h3>
                             <div class="pbmit-svg-btn">
                                 <a class="btn-arrow" href="service-details.html">
@@ -70,7 +70,7 @@
                         <div class="pbminfotech-box-content">
                             <div class="pbminfotech-box-number">03</div>
                             <h3 class="pbmit-service-title">
-                                <a href="service-details.html">Sea Freight</a>
+                                <a href="service-details.html">Ocean Freight</a>
                             </h3>
                             <div class="pbmit-svg-btn">
                                 <a class="btn-arrow" href="service-details.html">
@@ -86,7 +86,7 @@
                 <article class="pbmit-service-style-1">
                     <div class="pbminfotech-post-item">
                         <div class="pbmit-service-img-wrapper"
-                            style="background-image: url('{{ asset('website/images/homepage-1/service/service-04.jpg') }}')">
+                            style="background-image: url('{{ asset("website/images/homepage-1/service/service-04.jpg") }}')">
                             <div class="pbmit-featured-img-wrapper">
                                 <div class="pbmit-featured-wrapper">
                                     <img src="{{ asset('website/images/homepage-1/service/service-04.jpg') }}"
@@ -113,7 +113,7 @@
                 <article class="pbmit-service-style-1">
                     <div class="pbminfotech-post-item">
                         <div class="pbmit-service-img-wrapper"
-                            style="background-image: url('{{ asset('website/images/homepage-1/service/service-05.jpg') }}')">
+                            style="background-image: url('{{ asset("website/images/homepage-1/service/service-05.jpg") }}')">
                             <div class="pbmit-featured-img-wrapper">
                                 <div class="pbmit-featured-wrapper">
                                     <img src="{{ asset('website/images/homepage-1/service/service-05.jpg') }}"
@@ -124,7 +124,7 @@
                         <div class="pbminfotech-box-content">
                             <div class="pbminfotech-box-number">05</div>
                             <h3 class="pbmit-service-title">
-                                <a href="service-details.html">Stow Ability</a>
+                                <a href="service-details.html">Warehousing</a>
                             </h3>
                             <div class="pbmit-svg-btn">
                                 <a class="btn-arrow" href="service-details.html">

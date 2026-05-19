@@ -1,13 +1,14 @@
 @extends('website.layout.app')
-@section('title', 'Contact Us - APL GLOBAL LOGISTICS')
+@section('title', 'Blog Details - APL GLOBAL LOGISTICS')
 @section('content')
+    <!-- Title Bar -->
     <div class="pbmit-title-bar-wrapper">
         <div class="container">
             <div class="pbmit-title-bar-content">
                 <div class="pbmit-title-bar-content-inner">
                     <div class="pbmit-tbar">
                         <div class="pbmit-tbar-inner">
-                            <h1 class="pbmit-tbar-title">Contact Us</h1>
+                            <h1 class="pbmit-tbar-title">Blog Details</h1>
                         </div>
                     </div>
                     <div class="pbmit-breadcrumb">
@@ -16,7 +17,7 @@
                             <span class="sep">
                                 <i class="pbmit-base-icon-angle-right"></i>
                             </span>
-                            <span><span class="post-root post post-post current-item">Contact Us</span></span>
+                            <span><span class="post-root post post-post current-item">Blog Details</span></span>
                         </div>
                     </div>
                 </div>
@@ -24,6 +25,18 @@
         </div>
     </div>
     <!-- Title Bar End-->
-@include('website.components.contact-us.form')
-   
+    <!-- Blog Single Details -->
+    <section class="site_content blog-details">
+        <div class="container">
+            <div class="row">
+                @include('website.components.blogs.details')
+                @include('website.components.blogs.sidebar')
+
+            </div>
+        </div>
+    </section>
+
+
+
+
 @endsection

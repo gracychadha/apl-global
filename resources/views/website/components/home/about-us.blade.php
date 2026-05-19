@@ -11,10 +11,11 @@
             <div class="col-md-12 col-xl-6">
                 <div class="pbmit-heading-subheading">
                     <h4 class="pbmit-subtitle">About Us</h4>
-                    <h2 class="pbmit-title">Shipments delivered on time with no hassle.</h2>
+                    <h2 class="pbmit-title">Fast & Reliable Logistics Solutions</h2>
                     <div class="pbmit-heading_desc">
-                        Post jobs, find candidates, and manage your talent pipeline with AngelList's complete hiring
-                        toolkit.
+                        At APL Logistics, we provide reliable and efficient international freight solutions tailored to
+                        every shipment. Our team is committed to delivering cargo safely, quickly, and seamlessly,
+                        ensuring smooth transportation for importers and exporters worldwide.
                     </div>
                 </div>
                 <div class="pbmit-ihbox-style-9">
@@ -27,9 +28,8 @@
                             </div>
                         </div>
                         <div class="pbmit-ihbox-contents">
-                            <h2 class="pbmit-element-title">Branches AcrossThe World 25+</h2>
-                            <div class="pbmit-heading-desc">We historically build meaningful relationships with
-                                customers.</div>
+                            <h2 class="pbmit-element-title">Our Mission</h2>
+                            <div class="pbmit-heading-desc">To deliver reliable, efficient, and cost-effective logistics solutions that ensure safe and timely cargo transportation worldwide.</div>
                         </div>
                     </div>
                 </div>
@@ -43,14 +43,13 @@
                             </div>
                         </div>
                         <div class="pbmit-ihbox-contents">
-                            <h2 class="pbmit-element-title">2.9K+ Parcel Delivered By Team</h2>
-                            <div class="pbmit-heading-desc">We historically build meaningful relationships with
-                                customers.</div>
+                            <h2 class="pbmit-element-title">Our Vision</h2>
+                            <div class="pbmit-heading-desc">To become a trusted global logistics partner by providing innovative freight solutions and exceptional customer service.</div>
                         </div>
                     </div>
                 </div>
                 <div class="about-us-three_btn">
-                    <a class="pbmit-btn" href="contact-us.html">Get Quote</a>
+                    <a class="pbmit-btn" href="{{ route('contact-us') }}">Get Quote</a>
                 </div>
             </div>
         </div>

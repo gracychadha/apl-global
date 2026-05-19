@@ -1,5 +1,5 @@
 @extends('website.layout.app')
-@section('title', 'About Us')
+@section('title', 'About Us - APL GLOBAL LOGISTICS')
 @section('content')
 
     @include('website.components.about-us.banner')

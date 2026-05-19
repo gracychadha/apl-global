@@ -4,7 +4,8 @@
             <div class="col-md-12 col-xl-6 pbmit-col_wrapper">
                 <div class="pbmit-heading-subheading animation-style2">
                     <h4 class="pbmit-subtitle">Awards</h4>
-                    <h2 class="pbmit-title">Nominated as fashion designer of the year worldwide.</h2>
+                    <h2 class="pbmit-title">Digital Freight That
+                        Saves Your Time!</h2>
                 </div>
             </div>
             <div class="col-md-6 col-xl-3 pbmit-col_wrapper">

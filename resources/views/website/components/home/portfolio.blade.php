@@ -2,7 +2,7 @@
     <div class="container">
         <div class="pbmit-heading-subheading text-center">
             <h4 class="pbmit-subtitle">Projects</h4>
-            <h2 class="pbmit-title">Our complete project</h2>
+            <h2 class="pbmit-title">Our Successful Logistics Projects</h2>
         </div>
     </div>
     <div class="container-fluid">
@@ -22,10 +22,10 @@
                             <div class="pbminfotech-box-content">
                                 <div class="pbminfotech-titlebox">
                                     <div class="pbmit-port-cat">
-                                        <a href="portfolio-grid-col-2.html" rel="tag">Distribution</a>
+                                        <a href="#" rel="tag">Distribution</a>
                                     </div>
                                     <h3 class="pbmit-portfolio-title">
-                                        <a href="single-detail-style-1.html">Indian Logistic Hubs</a>
+                                        <a href="#">Global Supply Chain Management</a>
                                     </h3>
                                 </div>
                             </div>
@@ -45,10 +45,10 @@
                             <div class="pbminfotech-box-content">
                                 <div class="pbminfotech-titlebox">
                                     <div class="pbmit-port-cat">
-                                        <a href="portfolio-grid-col-2.html" rel="tag">Logistics</a>
+                                        <a href="#" rel="tag">Logistics</a>
                                     </div>
                                     <h3 class="pbmit-portfolio-title">
-                                        <a href="single-detail-style-1.html">Online Grocery Sales</a>
+                                        <a href="#">International Cargo Transportation</a>
                                     </h3>
                                 </div>
                             </div>
@@ -68,10 +68,10 @@
                             <div class="pbminfotech-box-content">
                                 <div class="pbminfotech-titlebox">
                                     <div class="pbmit-port-cat">
-                                        <a href="portfolio-grid-col-2.html" rel="tag">Analystics</a>
+                                        <a href="#" rel="tag">Warehousing</a>
                                     </div>
                                     <h3 class="pbmit-portfolio-title">
-                                        <a href="single-detail-style-1.html">Tribal Information</a>
+                                        <a href="#">Smart Storage & Distribution</a>
                                     </h3>
                                 </div>
                             </div>

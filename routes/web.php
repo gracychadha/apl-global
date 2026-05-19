@@ -27,3 +27,42 @@ Route::get('/career', function () {
 Route::get('/contact-us', function () {
     return view('website.views.contact-us');
 })->name('contact-us');
+Route::get('/our-team', function () {
+    return view('website.views.our-team');
+})->name('our-team');
+Route::get('/air-freight', function () {
+    return view('website.views.air-freight');
+})->name('air-freight');
+Route::get('/ocean-freight', function () {
+    return view('website.views.ocean-freight');
+})->name('ocean-freight');
+Route::get('/road-freight', function () {
+    return view('website.views.road-freight');
+})->name('road-freight');
+Route::get('/warehousing', function () {
+    return view('website.views.warehousing');
+})->name('warehousing');
+Route::get('/packaging', function () {
+    return view('website.views.packaging');
+})->name('packaging');
+Route::get('/customs-brokerage', function () {
+    return view('website.views.customs-brokerage');
+})->name('customs-brokerage');
+Route::get('/track', function () {
+    return view('website.views.track');
+})->name('track');
+Route::get('/our-blogs', function () {
+    return view('website.views.our-blogs');
+})->name('our-blogs');
+Route::get('/blog-details', function () {
+    return view('website.views.blog-details');
+})->name('blog-details');
+Route::get('/privacy-policy', function () {
+    return view('website.views.privacy-policy');
+})->name('privacy-policy');
+Route::get('/terms-conditions', function () {
+    return view('website.views.terms-condition');
+})->name('terms-conditions');
+// Route::get('/blog-details/{id}', function ($id) {
+//     return view('website.views.blog-details', compact('id'));
+// })->name('blog-details');

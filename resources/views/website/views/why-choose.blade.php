@@ -1,5 +1,5 @@
 @extends('website.layout.app')
-@section('title', 'Why Choose Us')
+@section('title', 'Why Choose Us - APL GLOBAL LOGISTICS')
 @section('content')
 
     <!-- Title Bar End-->
