@@ -6,14 +6,26 @@
                     <h3 class="pbmit-title">Subscribe to our newsletter</h3>
                 </div>
                 <div class="col-md-6">
-                    <form>
+                    <form action="{{ route('subscribe.store') }}" method="POST">
+                        @csrf
+
                         <div class="pbmit-footer-newsletter">
-                            <input type="email" name="EMAIL" placeholder="Your email address" required="">
-                            <button class="pbmit-btn" type="submit" value="Sign up">
+                            <input type="email" name="email" placeholder="Your email address" value="{{ old('email') }}"
+                                required>
+
+                            <button class="pbmit-btn" type="submit">
                                 <span class="pbmit-button-text">Get Started</span>
                             </button>
                         </div>
+
+                        @error('email')
+                            <small style="color:red;">
+                                {{ $message }}
+                            </small>
+                        @enderror
                     </form>
+
+                 
                 </div>
             </div>
         </div>
@@ -118,12 +130,12 @@
                                     <span>Privacy Policy</span>
                                 </a>
                             </li>|
-                            <li class="ms-2" >
+                            <li class="ms-2">
                                 <a href="{{ route('terms-conditions') }}">
                                     <span>Terms and Conditions</span>
                                 </a>
                             </li>
-                           
+
                         </ul>
                     </div>
                 </div>

@@ -2,7 +2,10 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\ContactLeadController;
+use App\Http\Controllers\SubscriberController;
 
+Route::post('/subscribe', [SubscriberController::class, 'store'])
+    ->name('subscribe.store');
 Route::get('/', function () {
     return view('website.views.welcome');
 })->name('home');
