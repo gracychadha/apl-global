@@ -65,9 +65,9 @@
                         </nav>
                     </div>
                     <div class="pbmit-right-box d-flex align-items-center">
-                        <div class="pbmit-header-search-btn">
+                        <!-- <div class="pbmit-header-search-btn">
                             <a href="#"><i class="pbmit-base-icon-search-1"></i></a>
-                        </div>
+                        </div> -->
                         <div class="pbmit-button-box">
                             <a class="pbmit-btn" href="{{ route('track') }}">Track & Trace</a>
                         </div>
