@@ -22,10 +22,10 @@
                             <div class="pbminfotech-box-content">
                                 <div class="pbminfotech-titlebox">
                                     <div class="pbmit-port-cat">
-                                        <a href="#" rel="tag">Distribution</a>
+                                        <a href="#" rel="tag">Analytics, Optimization</a>
                                     </div>
                                     <h3 class="pbmit-portfolio-title">
-                                        <a href="#">Global Supply Chain Management</a>
+                                        <a href="#">Predictive Route Optimization</a>
                                     </h3>
                                 </div>
                             </div>
@@ -45,10 +45,10 @@
                             <div class="pbminfotech-box-content">
                                 <div class="pbminfotech-titlebox">
                                     <div class="pbmit-port-cat">
-                                        <a href="#" rel="tag">Logistics</a>
+                                        <a href="#" rel="tag">Distribution, Warehousing</a>
                                     </div>
                                     <h3 class="pbmit-portfolio-title">
-                                        <a href="#">International Cargo Transportation</a>
+                                        <a href="#">Smart Warehouse Inventory Management</a>
                                     </h3>
                                 </div>
                             </div>
@@ -68,10 +68,10 @@
                             <div class="pbminfotech-box-content">
                                 <div class="pbminfotech-titlebox">
                                     <div class="pbmit-port-cat">
-                                        <a href="#" rel="tag">Warehousing</a>
+                                        <a href="#" rel="tag">Analytics, Logistics</a>
                                     </div>
                                     <h3 class="pbmit-portfolio-title">
-                                        <a href="#">Smart Storage & Distribution</a>
+                                        <a href="#">Cost-Effective Manufacturing Solutions</a>
                                     </h3>
                                 </div>
                             </div>

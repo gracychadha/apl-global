@@ -16,7 +16,7 @@
                                 <div class="pbmit-ihbox-image-wrap">
                                     <div class="pbmit-ihbox-hover-wrapper">
                                         <div class="pbmit-ihbox-icon-type-image">
-                                            <img src="{{ asset('website/images/homepage-3/ihbox/img-01.jpg') }}" class="imf-fluid" alt="">
+                                            <img src="{{ asset('website/images/upload/real-time-tracking.png') }}" class="imf-fluid" alt="">
                                         </div>
                                     </div>
                                     <div class="pbmit-ihbox-icon">
@@ -41,7 +41,7 @@
                                 <div class="pbmit-ihbox-image-wrap">
                                     <div class="pbmit-ihbox-hover-wrapper">
                                         <div class="pbmit-ihbox-icon-type-image">
-                                            <img src="{{ asset('website/images/homepage-3/ihbox/img-02.jpg') }}" class="imf-fluid" alt="">
+                                            <img src="{{ asset('website/images/upload/easy-payment.png') }}" class="imf-fluid" alt="">
                                         </div>
                                     </div>
                                     <div class="pbmit-ihbox-icon">
@@ -70,7 +70,7 @@
                         <div class="pbmit-ihbox-image-wrap">
                             <div class="pbmit-ihbox-hover-wrapper">
                                 <div class="pbmit-ihbox-icon-type-image">
-                                    <img src="{{ asset('website/images/homepage-3/ihbox/img-03.jpg') }}" class="imf-fluid" alt="">
+                                    <img src="{{ asset('website/images/upload/warehouse-storage.png') }}" class="imf-fluid" alt="">
                                 </div>
                             </div>
                             <div class="pbmit-ihbox-icon">
@@ -95,7 +95,7 @@
                         <div class="pbmit-ihbox-image-wrap">
                             <div class="pbmit-ihbox-hover-wrapper">
                                 <div class="pbmit-ihbox-icon-type-image">
-                                    <img src="{{ asset('website/images/homepage-3/ihbox/img-04.jpg') }}" class="imf-fluid" alt="">
+                                    <img src="{{ asset('website/images/upload/fast delivery.png') }}" class="imf-fluid" alt="">
                                 </div>
                             </div>
                             <div class="pbmit-ihbox-icon">
@@ -120,7 +120,7 @@
                         <div class="pbmit-ihbox-image-wrap">
                             <div class="pbmit-ihbox-hover-wrapper">
                                 <div class="pbmit-ihbox-icon-type-image">
-                                    <img src="{{ asset('website/images/homepage-3/ihbox/img-05.jpg') }}" class="imf-fluid" alt="">
+                                    <img src="{{ asset('website/images/upload/security.png') }}" class="imf-fluid" alt="">
                                 </div>
                             </div>
                             <div class="pbmit-ihbox-icon">
@@ -145,7 +145,7 @@
                         <div class="pbmit-ihbox-image-wrap">
                             <div class="pbmit-ihbox-hover-wrapper">
                                 <div class="pbmit-ihbox-icon-type-image">
-                                    <img src="{{ asset('website/images/homepage-3/ihbox/img-06.jpg') }}" class="imf-fluid" alt="">
+                                    <img src="{{ asset('website/images/upload/transparent-pricing.png') }}" class="imf-fluid" alt="">
                                 </div>
                             </div>
                             <div class="pbmit-ihbox-icon">

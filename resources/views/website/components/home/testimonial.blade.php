@@ -39,7 +39,7 @@
                                         <div class="pbminfotech-box-img">
                                             <div class="pbmit-featured-img-wrapper">
                                                 <div class="pbmit-featured-wrapper">
-                                                    <img src="{{ asset('website/images/homepage-1/testimonial/testimonial-01.png') }}"
+                                                    <img src="{{ asset('website/images/upload/male-testimonial.png') }}"
                                                         alt="">
                                                 </div>
                                             </div>
@@ -69,7 +69,7 @@
                                         <div class="pbminfotech-box-img">
                                             <div class="pbmit-featured-img-wrapper">
                                                 <div class="pbmit-featured-wrapper">
-                                                    <img src="{{ asset('website/images/homepage-1/testimonial/testimonial-02.png') }}"
+                                                    <img src="{{ asset('website/images/upload/male-testimonial.png') }}"
                                                         alt="">
                                                 </div>
                                             </div>
@@ -98,7 +98,7 @@
                                         <div class="pbminfotech-box-img">
                                             <div class="pbmit-featured-img-wrapper">
                                                 <div class="pbmit-featured-wrapper">
-                                                    <img src="{{ asset('website/images/homepage-1/testimonial/testimonial-03.png') }}"
+                                                    <img src="{{ asset('website/images/upload/female-testimonial.png') }}"
                                                         alt="">
                                                 </div>
                                             </div>

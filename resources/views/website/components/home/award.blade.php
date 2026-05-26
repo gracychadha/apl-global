@@ -14,14 +14,14 @@
                         <div class="pbmit-iconbox">
                             <div class="pbmit-flip-box-image">
                                 <div class="pbmit-flip-box-image-wrapper pbmit-flip-box-icon-type-image">
-                                    <img src="{{ asset('website/images/homepage-1/flip-box/award-01.png') }}" alt="">
+                                    <img src="{{ asset('website/images/upload/award-01.png') }}" alt="">
                                 </div>
                             </div>
                         </div>
                         <div class="pbmit-flip-box-contents">
                             <div class="pbmit-flipbox-inner">
                                 <h2 class="pbmit-element-title">
-                                    Stand out Performer
+                                    Business Excellence
                                 </h2>
                             </div>
                         </div>
@@ -34,14 +34,14 @@
                         <div class="pbmit-iconbox">
                             <div class="pbmit-flip-box-image">
                                 <div class="pbmit-flip-box-image-wrapper pbmit-flip-box-icon-type-image">
-                                    <img src="{{ asset('website/images/homepage-1/flip-box/fbox5.png') }}" alt="">
+                                    <img src="{{ asset('website/images/upload/award-02.png') }}" alt="">
                                 </div>
                             </div>
                         </div>
                         <div class="pbmit-flip-box-contents">
                             <div class="pbmit-flipbox-inner">
                                 <h2 class="pbmit-element-title">
-                                    The Growth Booster
+                                    Expertimg Expertise
                                 </h2>
                             </div>
                         </div>
@@ -55,14 +55,14 @@
                         <div class="pbmit-iconbox">
                             <div class="pbmit-flip-box-image">
                                 <div class="pbmit-flip-box-image-wrapper pbmit-flip-box-icon-type-image">
-                                    <img src="{{ asset('website/images/homepage-1/flip-box/award-02.png') }}" alt="">
+                                    <img src="{{ asset('website/images/upload/award-03.png') }}" alt="">
                                 </div>
                             </div>
                         </div>
                         <div class="pbmit-flip-box-contents">
                             <div class="pbmit-flipbox-inner">
                                 <h2 class="pbmit-element-title">
-                                    Star Employee
+                                    Business Excellence
                                 </h2>
                             </div>
                         </div>
@@ -75,14 +75,14 @@
                         <div class="pbmit-iconbox">
                             <div class="pbmit-flip-box-image">
                                 <div class="pbmit-flip-box-image-wrapper pbmit-flip-box-icon-type-image">
-                                    <img src="{{ asset('website/images/homepage-1/flip-box/fbox3.png') }}" alt="">
+                                    <img src="{{ asset('website/images/upload/award-01.png') }}" alt="">
                                 </div>
                             </div>
                         </div>
                         <div class="pbmit-flip-box-contents">
                             <div class="pbmit-flipbox-inner">
                                 <h2 class="pbmit-element-title">
-                                    The Alpha
+                                    Expertimg Expertise
                                 </h2>
                             </div>
                         </div>
@@ -95,14 +95,14 @@
                         <div class="pbmit-iconbox">
                             <div class="pbmit-flip-box-image">
                                 <div class="pbmit-flip-box-image-wrapper pbmit-flip-box-icon-type-image">
-                                    <img src="{{ asset('website/images/homepage-1/flip-box/fbox4.png') }}" alt="">
+                                    <img src="{{ asset('website/images/upload/award-02.png') }}" alt="">
                                 </div>
                             </div>
                         </div>
                         <div class="pbmit-flip-box-contents">
                             <div class="pbmit-flipbox-inner">
                                 <h2 class="pbmit-element-title">
-                                    Front Runner
+                                    Leading Excellence
                                 </h2>
                             </div>
                         </div>

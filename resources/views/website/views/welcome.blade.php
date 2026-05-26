@@ -14,10 +14,10 @@
 
     <!-- Service Start -->
     @include('website.components.home.services')
- <!-- why choose -->
-    @include('website.components.home.why-choose')  
+    <!-- why choose -->
+    @include('website.components.home.why-choose')
     @include('website.components.home.what-we-do')
-   
+
 
     <!-- Flip Box Start -->
     @include('website.components.home.award')
@@ -25,14 +25,14 @@
     <!-- Fid Start -->
     @include('website.components.home.counter')
 
-  
+
 
     <!-- portfolio -->
     @include('website.components.home.portfolio')
     <!-- Testimonial Start -->
     @include('website.components.home.testimonial')
 
-@include('website.components.home.blog-section')
+    @include('website.components.home.blog-section')
 
 
 @endsection

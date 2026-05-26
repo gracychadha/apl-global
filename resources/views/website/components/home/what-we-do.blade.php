@@ -88,7 +88,7 @@
 				</div>
 				<div class="col-md-12 col-xl-6">
 					<div class="accordion-two-right_img">
-						<img src="{{ asset('website/images/homepage-2/faq-right-img.png') }}" alt="">
+						<img src="{{ asset('website/images/upload/what-we-do.png') }}" alt="">
 					</div>
 				</div>
 			</div>
