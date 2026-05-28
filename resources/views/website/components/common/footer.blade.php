@@ -33,7 +33,7 @@
     <div class="pbmit-footer-widget-area">
         <div class="container">
             <div class="row">
-                <div class="pbmit-footer-widget-col-1 col-md-6 col-lg-3">
+                <div class="pbmit-footer-widget-col-1 col-md-12 col-lg-3">
                     <div class="widget">
                         <img src="{{ asset('website/images/apl-global.svg') }}" alt="img">
                         <div class="textwidget">
@@ -47,7 +47,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="pbmit-footer-widget-col-3 col-md-6 col-lg-3">
+                <div class="pbmit-footer-widget-col-3 col-md-12 col-lg-3">
                     <div class="widget">
                         <h2 class="widget-title">Who We Are</h2>
                         <div class="textwidget">
@@ -63,7 +63,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="pbmit-footer-widget-col-3 col-md-6 col-lg-3">
+                <div class="pbmit-footer-widget-col-3 col-md-12 col-lg-3">
                     <div class="widget">
                         <h2 class="widget-title">What We Do</h2>
                         <div class="textwidget">
@@ -78,7 +78,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="pbmit-footer-widget-col-3 col-md-6 col-lg-3">
+                <div class="pbmit-footer-widget-col-3 col-md-12 col-lg-3">
                     <div class="widget">
                         <h2 class="widget-title">Contact Us </h2>
                         <div class="textwidget">
