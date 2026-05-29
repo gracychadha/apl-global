@@ -81,7 +81,7 @@
                     <div class="widget">
                         <h2 class="widget-title">Contact Us </h2>
                         <div class="textwidget">
-                            <div class="pbmit-contact-widget-phone">+971 4 2949439</div>
+                            <div class="pbmit-contact-widget-phone">+971 56 759 0009</div>
                             <div><a href="mailto:info@aplgloballogistic.com"
                                     target="_blank">[info@aplgloballogistic.com]</a>
                             </div>

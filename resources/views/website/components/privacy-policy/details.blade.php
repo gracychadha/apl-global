@@ -6,7 +6,7 @@
                 <div class="privacy-policy-content">
                     <div class="pbmit-heading-subheading text-center">
                         <h4 class="pbmit-subtitle">Privacy Policy</h4>
-                        <h2 class="pbmit-title">Your Privacy , Our Promise</h2>
+                        <h2 class="pbmit-title">Your Privacy, Our Promise</h2>
                     </div>
 
                     <p class="privacy-policy-para">
