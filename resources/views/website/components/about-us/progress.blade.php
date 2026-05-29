@@ -56,7 +56,7 @@
             </div>
             <div class="col-md-12 col-xl-6">
                 <div class="progress-three_right">
-                    <img src="{{ asset('website/images/homepage-3/progressbar-right-img.png') }}" class="img-fluid"
+                    <img src="{{ asset('website/images/upload/about-introduction.png') }}" class="img-fluid"
                         alt="">
                 </div>
             </div>

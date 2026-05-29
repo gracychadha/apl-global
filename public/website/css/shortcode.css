@@ -623,6 +623,7 @@
 }
 .pbmit-team-style-1 .pbmit-featured-wrapper img {
     width: 100%;
+	border: 2px solid #fff;
 }
 .pbmit-team-style-1 .pbmit-featured-wrapper::before {
 	position: absolute;

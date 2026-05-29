@@ -8,7 +8,7 @@
                         <div class="pbmit-featured-container">
                             <div class="pbmit-featured-img-wrapper">
                                 <div class="pbmit-featured-wrapper">
-                                    <img src="{{ asset('website/images/blog/blog-01s.jpg') }}" class="img-fluid" alt="">
+                                    <img src="{{ asset('website/images/upload/blog-main.png') }}" class="img-fluid" alt="">
                                 </div>
                             </div>
                             <div class="pbmit-meta-date-wrapper pbmit-meta-line">

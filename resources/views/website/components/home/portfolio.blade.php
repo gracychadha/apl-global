@@ -15,7 +15,7 @@
                         <div class="pbminfotech-post-content">
                             <div class="pbmit-featured-img-wrapper">
                                 <div class="pbmit-featured-wrapper">
-                                    <img src="{{ asset('website/images/homepage-2/portfolio/portfolio-01.jpg') }}"
+                                    <img src="{{ asset('website/images/upload/project-02.png') }}"
                                         class="img-fluid" alt="">
                                 </div>
                             </div>
@@ -38,7 +38,7 @@
                         <div class="pbminfotech-post-content">
                             <div class="pbmit-featured-img-wrapper">
                                 <div class="pbmit-featured-wrapper">
-                                    <img src="{{ asset('website/images/homepage-2/portfolio/portfolio-02.jpg') }}"
+                                    <img src="{{ asset('website/images/upload/project-03.png') }}"
                                         class="img-fluid" alt="">
                                 </div>
                             </div>
@@ -61,7 +61,7 @@
                         <div class="pbminfotech-post-content">
                             <div class="pbmit-featured-img-wrapper">
                                 <div class="pbmit-featured-wrapper">
-                                    <img src="{{ asset('website/images/homepage-2/portfolio/portfolio-03.jpg') }}"
+                                    <img src="{{ asset('website/images/upload/project-01.png') }}"
                                         class="img-fluid" alt="">
                                 </div>
                             </div>

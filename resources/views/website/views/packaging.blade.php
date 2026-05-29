@@ -32,7 +32,7 @@
                     @include('website.components.service.sidebar')
                     <div class="col-lg-9 service-right-col order-1">
                         <div class="pbmit-service-feature-image">
-                            <img src="{{ asset('website/images/services/service-02.jpg') }}" class="img-fluid" alt="">
+                            <img src="{{ asset('website/images/upload/packaging-main.png') }}" class="img-fluid" alt="">
                         </div>
                         <div class="pbmit-entry-content">
                             <h4 class="pbmit_title">Professional Packaging Solutions For Safe Cargo Handling</h4>
@@ -115,13 +115,13 @@
                                 <div class="row">
                                     <div class="col-md-6">
                                         <div class="pbmit-animation-style1">
-                                            <img src="{{ asset('website/images/services/service-single-01.png') }}"
+                                            <img src="{{ asset('website/images/upload/packaging-detail-01.png') }}"
                                                 class="img-fluid" alt="">
                                         </div>
                                     </div>
                                     <div class="col-md-6">
                                         <div class="pbmit-animation-style2">
-                                            <img src="{{ asset('website/images/services/service-single-02.png') }}"
+                                            <img src="{{ asset('website/images/upload/packaging-detail-02.png') }}"
                                                 class="img-fluid" alt="">
                                         </div>
                                     </div>

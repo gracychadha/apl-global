@@ -6,7 +6,7 @@
             <ul class="recent-post-list">
                 <li class="recent-post-list-li">
                     <a class="recent-post-thum" href="{{ route('blog-details') }}">
-                        <img src="{{ asset('website/images/recent-post/blog-01.jpg') }}" class="img-fluid" alt="">
+                        <img src="{{ asset('website/images/upload/blog-main.png') }}" class="img-fluid" alt="">
                     </a>
                     <div class="pbmit-rpw-content">
                         <span class="pbmit-rpw-title">

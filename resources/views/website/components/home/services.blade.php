@@ -5,10 +5,10 @@
                 <article class="pbmit-service-style-1">
                     <div class="pbminfotech-post-item">
                         <div class="pbmit-service-img-wrapper"
-                            style="background-image: url('{{ asset("website/images/homepage-1/service/service-01.jpg") }}')">
+                            style="background-image: url('{{ asset("website/images/upload/air-main.png") }}')">
                             <div class="pbmit-featured-img-wrapper">
                                 <div class="pbmit-featured-wrapper">
-                                    <img src="{{ asset('website/images/homepage-1/service/service-01.jpg') }}"
+                                    <img src="{{ asset('website/images/upload/air-main.png') }}"
                                         class="img-fluid" alt="">
                                 </div>
                             </div>
@@ -16,26 +16,26 @@
                         <div class="pbminfotech-box-content">
                             <div class="pbminfotech-box-number">01</div>
                             <h3 class="pbmit-service-title">
-                                <a href="service-details.html">Air Freight</a>
+                                <a href="#">Air Freight</a>
                             </h3>
                             <div class="pbmit-svg-btn">
-                                <a class="btn-arrow" href="service-details.html">
+                                <a class="btn-arrow" href="#">
                                     <i class="pbmit-base-icon-right-arrow-2"></i>
                                 </a>
                             </div>
                         </div>
                         <div class="pbminfotech-icon-box">
-                            <img src="{{ asset('website/images/homepage-1/service/service-01.jpg') }}" alt="">
+                            <img src="{{ asset('website/images/upload/air-main.png') }}" alt="">
                         </div>
                     </div>
                 </article>
                 <article class="pbmit-service-style-1">
                     <div class="pbminfotech-post-item">
                         <div class="pbmit-service-img-wrapper"
-                            style="background-image: url('{{ asset("website/images/homepage-1/service/service-02.jpg") }}')">
+                            style="background-image: url('{{ asset("website/images/upload/packaging-main.png") }}')">
                             <div class="pbmit-featured-img-wrapper">
                                 <div class="pbmit-featured-wrapper">
-                                    <img src="{{ asset('website/images/homepage-1/service/service-02.jpg') }}"
+                                    <img src="{{ asset('website/images/upload/packaging-main.png') }}"
                                         class="img-fluid" alt="">
                                 </div>
                             </div>
@@ -43,26 +43,26 @@
                         <div class="pbminfotech-box-content">
                             <div class="pbminfotech-box-number">02</div>
                             <h3 class="pbmit-service-title">
-                                <a href="service-details.html">Packaging</a>
+                                <a href="#">Packaging</a>
                             </h3>
                             <div class="pbmit-svg-btn">
-                                <a class="btn-arrow" href="service-details.html">
+                                <a class="btn-arrow" href="#">
                                     <i class="pbmit-base-icon-right-arrow-2"></i>
                                 </a>
                             </div>
                         </div>
                         <div class="pbminfotech-icon-box">
-                            <img src="{{ asset('website/images/homepage-1/service/service-02.jpg') }}" alt="">
+                            <img src="{{ asset('website/images/upload/packaging-main.png') }}" alt="">
                         </div>
                     </div>
                 </article>
                 <article class="pbmit-service-style-1">
                     <div class="pbminfotech-post-item">
                         <div class="pbmit-service-img-wrapper"
-                            style="background-image: url('{{ asset('website/images/homepage-1/service/service-03.jpg') }}')">
+                            style="background-image: url('{{ asset('website/images/upload/ocean-main.png') }}')">
                             <div class="pbmit-featured-img-wrapper">
                                 <div class="pbmit-featured-wrapper">
-                                    <img src="{{ asset('website/images/homepage-1/service/service-03.jpg') }}"
+                                    <img src="{{ asset('website/images/upload/ocean-main.png') }}"
                                         class="img-fluid" alt="">
                                 </div>
                             </div>
@@ -70,26 +70,26 @@
                         <div class="pbminfotech-box-content">
                             <div class="pbminfotech-box-number">03</div>
                             <h3 class="pbmit-service-title">
-                                <a href="service-details.html">Ocean Freight</a>
+                                <a href="#">Ocean Freight</a>
                             </h3>
                             <div class="pbmit-svg-btn">
-                                <a class="btn-arrow" href="service-details.html">
+                                <a class="btn-arrow" href="#">
                                     <i class="pbmit-base-icon-right-arrow-2"></i>
                                 </a>
                             </div>
                         </div>
                         <div class="pbminfotech-icon-box">
-                            <img src="{{ asset('website/images/homepage-1/service/service-03.jpg') }}" alt="">
+                            <img src="{{ asset('website/images/upload/ocean-main.png') }}" alt="">
                         </div>
                     </div>
                 </article>
                 <article class="pbmit-service-style-1">
                     <div class="pbminfotech-post-item">
                         <div class="pbmit-service-img-wrapper"
-                            style="background-image: url('{{ asset("website/images/homepage-1/service/service-04.jpg") }}')">
+                            style="background-image: url('{{ asset("website/images/upload/road-main.png") }}')">
                             <div class="pbmit-featured-img-wrapper">
                                 <div class="pbmit-featured-wrapper">
-                                    <img src="{{ asset('website/images/homepage-1/service/service-04.jpg') }}"
+                                    <img src="{{ asset('website/images/upload/road-main.png') }}"
                                         class="img-fluid" alt="">
                                 </div>
                             </div>
@@ -97,26 +97,26 @@
                         <div class="pbminfotech-box-content">
                             <div class="pbminfotech-box-number">04</div>
                             <h3 class="pbmit-service-title">
-                                <a href="service-details.html">Road Freight</a>
+                                <a href="#">Road Freight</a>
                             </h3>
                             <div class="pbmit-svg-btn">
-                                <a class="btn-arrow" href="service-details.html">
+                                <a class="btn-arrow" href="#">
                                     <i class="pbmit-base-icon-right-arrow-2"></i>
                                 </a>
                             </div>
                         </div>
                         <div class="pbminfotech-icon-box">
-                            <img src="{{ asset('website/images/homepage-1/service/service-04.jpg') }}" alt="">
+                            <img src="{{ asset('website/images/upload/road-main.png') }}" alt="">
                         </div>
                     </div>
                 </article>
                 <article class="pbmit-service-style-1">
                     <div class="pbminfotech-post-item">
                         <div class="pbmit-service-img-wrapper"
-                            style="background-image: url('{{ asset("website/images/homepage-1/service/service-05.jpg") }}')">
+                            style="background-image: url('{{ asset("website/images/upload/warehousing.png") }}')">
                             <div class="pbmit-featured-img-wrapper">
                                 <div class="pbmit-featured-wrapper">
-                                    <img src="{{ asset('website/images/homepage-1/service/service-05.jpg') }}"
+                                    <img src="{{ asset('website/images/upload/warehousing.png') }}"
                                         class="img-fluid" alt="">
                                 </div>
                             </div>
@@ -124,16 +124,16 @@
                         <div class="pbminfotech-box-content">
                             <div class="pbminfotech-box-number">05</div>
                             <h3 class="pbmit-service-title">
-                                <a href="service-details.html">Warehousing</a>
+                                <a href="#">Warehousing</a>
                             </h3>
                             <div class="pbmit-svg-btn">
-                                <a class="btn-arrow" href="service-details.html">
+                                <a class="btn-arrow" href="#">
                                     <i class="pbmit-base-icon-right-arrow-2"></i>
                                 </a>
                             </div>
                         </div>
                         <div class="pbminfotech-icon-box">
-                            <img src="{{ asset('website/images/homepage-1/service/service-05.jpg') }}" alt="">
+                            <img src="{{ asset('website/images/upload/warehousing.png') }}" alt="">
                         </div>
                     </div>
                 </article>

@@ -4,7 +4,7 @@
             <div class="col-md-12 col-xl-6">
                 <div class="pbmit-col-stretched-left" style="margin-left: 0;">
                     <div class="about-us-three_img">
-                        <img src="{{ asset('website/images/upload/about-us.png') }}" class="img-fluid" alt="">
+                        <img src="{{ asset('website/images/upload/home-about-us.png') }}" class="img-fluid" alt="">
                     </div>
                 </div>
             </div>

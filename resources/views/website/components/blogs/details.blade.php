@@ -5,7 +5,7 @@
                 <div class="post blog-classic">
                     <div class="pbmit-featured-img-wrapper">
                         <div class="pbmit-featured-wrapper">
-                            <img src="{{ asset('website/images/blog/blog-07b.jpg') }}" class="img-fluid" alt="">
+                            <img src="{{ asset('website/images/upload/blog-main.png') }}" class="img-fluid" alt="">
                         </div>
                     </div>
                     <div class="pbmit-blog-classic-inner">
@@ -50,13 +50,13 @@
                             <div class="pbmit-block-columns row">
                                 <div class="pbmit-block-column col-md-12 col-xl-6">
                                     <figure>
-                                        <img src="{{ asset('website/images/blog/blog-single-01.jpg') }}"
+                                        <img src="{{ asset('website/images/upload/blog-detail-01.png') }}"
                                             class="img-fluid w-100" alt="">
                                     </figure>
                                 </div>
                                 <div class="pbmit-block-column col-md-12 col-xl-6">
                                     <figure>
-                                        <img src="{{ asset('website/images/blog/blog-single-01.jpg') }}"
+                                        <img src="{{ asset('website/images/upload/blog-detail-02.png') }}"
                                             class="img-fluid w-100" alt="">
                                     </figure>
                                 </div>

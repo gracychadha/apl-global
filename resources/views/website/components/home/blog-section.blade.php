@@ -13,7 +13,7 @@
                 </div>
             </div>
         </div>
-        <div class="swiper-slider" data-autoplay="false" data-loop="true" data-dots="false" data-arrows="false"
+        <div class="swiper-slider" data-autoplay="false" data-loop="false" data-dots="false" data-arrows="false"
             data-columns="3" data-margin="30" data-effect="slide">
             <div class="swiper-wrapper">
                 <div class="swiper-slide">
@@ -24,7 +24,7 @@
                                 <div class="pbmit-featured-container">
                                     <div class="pbmit-featured-img-wrapper">
                                         <div class="pbmit-featured-wrapper">
-                                            <img src="{{ asset('website/images/blog/blog-01s.jpg') }}" class="img-fluid"
+                                            <img src="{{ asset('website/images/upload/blog-main.png') }}" class="img-fluid"
                                                 alt="">
                                         </div>
                                     </div>
@@ -48,68 +48,7 @@
                         </div>
                     </article>
                 </div>
-                <div class="swiper-slide">
-                    <!-- Slide2 -->
-                    <article class="pbmit-blog-style-1">
-                        <div class="post-item">
-                            <div class="pbminfotech-box-content">
-                                <div class="pbmit-featured-container">
-                                    <div class="pbmit-featured-img-wrapper">
-                                        <div class="pbmit-featured-wrapper">
-                                            <img src="{{ asset('website/images/blog/blog-02s.jpg') }}" class="img-fluid"
-                                                alt="">
-                                        </div>
-                                    </div>
-                                    <div class="pbmit-meta-date-wrapper pbmit-meta-line">
-                                        <div class="pbmit-meta-date">
-                                            <span class="pbmit-day-wrap">26</span>
-                                            <span class="pbmit-date-wrap">March 2019</span>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="pbmit-content-wrapper">
-                                    <h3 class="pbmit-post-title">
-                                        <a href="{{ route('our-blogs') }}">How an efficient warehouse operation could save you a sale</a>
-                                    </h3>
-                                </div>
-                                <a class="pbmit-button" href="{{ route('our-blogs') }}">
-                                    <span class="pbmit-button-wrapper">Read More</span>
-                                </a>
-                            </div>
-                        </div>
-                    </article>
-                </div>
-                <div class="swiper-slide">
-                    <!-- Slide3 -->
-                    <article class="pbmit-blog-style-1">
-                        <div class="post-item">
-                            <div class="pbminfotech-box-content">
-                                <div class="pbmit-featured-container">
-                                    <div class="pbmit-featured-img-wrapper">
-                                        <div class="pbmit-featured-wrapper">
-                                            <img src="{{ asset('website/images/blog/blog-03s.jpg') }}" class="img-fluid"
-                                                alt="">
-                                        </div>
-                                    </div>
-                                    <div class="pbmit-meta-date-wrapper pbmit-meta-line">
-                                        <div class="pbmit-meta-date">
-                                            <span class="pbmit-day-wrap">16</span>
-                                            <span class="pbmit-date-wrap">June 2018</span>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="pbmit-content-wrapper">
-                                    <h3 class="pbmit-post-title">
-                                        <a href="{{ route('our-blogs') }}">Double Diamond Slots</a>
-                                    </h3>
-                                </div>
-                                <a class="pbmit-button" href="{{ route('our-blogs') }}">
-                                    <span class="pbmit-button-wrapper">Read More</span>
-                                </a>
-                            </div>
-                        </div>
-                    </article>
-                </div>
+              
              
             </div>
         </div>
