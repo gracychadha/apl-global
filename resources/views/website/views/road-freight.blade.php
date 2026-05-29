@@ -35,7 +35,7 @@
                             <img src="{{ asset('website/images/upload/road-main.png') }}" class="img-fluid" alt="">
                         </div>
                         <div class="pbmit-entry-content">
-                            <h4 class="pbmit_title">Road Freight Delivering Safe & Timely Transportation</h4>
+                            <h4 class="pbmit_title">Safe & Reliable Road Freight Solutions</h4>
 
                             <p text-align="justify">
                                 APL Logistics provides reliable road freight services designed to ensure smooth and
@@ -130,7 +130,7 @@
                                 <h4 class="pbmit_title">Frequently Asked Questions</h4>
 
                                 <p>
-                                    Find answers to common questions about our road freight services, transportation
+                                    Find answers to commonly asked questions about our road freight services, transportation
                                     process, cargo safety, and delivery solutions.
                                 </p>
                                 <div class="accordion" id="accordionExample1">

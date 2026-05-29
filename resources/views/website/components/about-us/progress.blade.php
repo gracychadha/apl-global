@@ -4,7 +4,7 @@
             <div class="col-md-12 col-xl-6">
                 <div class="pbmit-heading-subheading">
                     <h4 class="pbmit-subtitle">Introduction</h4>
-                    <h2 class="pbmit-title">Reliable Logistics Solutions With Global Reach</h2>
+                    <h2 class="pbmit-title">Reliable Logistics Solutions with Global Reach</h2>
 
                     <div class="pbmit-heading_desc">
                         APL Logistics provides fast, secure, and efficient transportation services tailored to meet
@@ -24,7 +24,7 @@
                     </div>
                 </div>
                 <div class="progressbar">
-                    <span class="progress-label">Air Frieght</span>
+                    <span class="progress-label">Air Freight</span>
                     <div class="progress progress-lg progress-percent-bg">
                         <div class="progress-bar aos aos-init" data-aos="slide-right" data-aos-delay="200"
                             data-aos-duration="1000" data-aos-easing="ease-in-out" role="progressbar" aria-valuenow="85"
@@ -34,7 +34,7 @@
                     </div>
                 </div>
                 <div class="progressbar">
-                    <span class="progress-label">Ocean Frieght</span>
+                    <span class="progress-label">Ocean Freight</span>
                     <div class="progress progress-lg progress-percent-bg">
                         <div class="progress-bar aos aos-init" data-aos="slide-right" data-aos-delay="200"
                             data-aos-duration="1000" data-aos-easing="ease-in-out" role="progressbar" aria-valuenow="95"
@@ -44,7 +44,7 @@
                     </div>
                 </div>
                 <div class="progressbar">
-                    <span class="progress-label">Train Frieght</span>
+                    <span class="progress-label">Train Freight</span>
                     <div class="progress progress-lg progress-percent-bg">
                         <div class="progress-bar aos aos-init" data-aos="slide-right" data-aos-delay="200"
                             data-aos-duration="1000" data-aos-easing="ease-in-out" role="progressbar" aria-valuenow="75"

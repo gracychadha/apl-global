@@ -35,7 +35,7 @@
                             <img src="{{ asset('website/images/upload/air-main.png') }}" class="img-fluid" alt="">
                         </div>
                         <div class="pbmit-entry-content">
-                            <h4 class="pbmit_title">Air Freight Delivering Fast & Secure Cargo Solutions</h4>
+                            <h4 class="pbmit_title">Fast & Secure Air Freight Solutions</h4>
 
                             <p text-align="justify">
                                 APL Logistics provides reliable and time-sensitive air freight services for businesses
@@ -129,7 +129,8 @@
                                 <h4 class="pbmit_title">Frequently Asked Questions</h4>
 
                                 <p>
-                                    Find answers to common questions about our air freight services, shipment process,
+                                    Find answers to commonly asked questions about our air freight services, shipment
+                                    process,
                                     delivery timelines, and cargo handling solutions.
                                 </p>
                                 <div class="accordion" id="accordionExample1">
@@ -153,7 +154,7 @@
                                         <div id="collapseOne1" class="accordion-collapse collapse show"
                                             aria-labelledby="headingOne1" data-bs-parent="#accordionExample1">
                                             <div class="accordion-body">
-                                                Air freight is one of the fastest shipping methods, and delivery timelines
+                                                Air freight is one of the fastest shipping methods. Delivery timelines
                                                 depend on the destination, customs process, and shipment type.
                                             </div>
                                         </div>

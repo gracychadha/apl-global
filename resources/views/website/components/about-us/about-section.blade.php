@@ -12,25 +12,19 @@
 				<div class="about-us-two_content">
 					<div class="pbmit-heading-subheading">
 						<h4 class="pbmit-subtitle">About Us</h4>
-						<h2 class="pbmit-title">Our aim is to make your dealings with us effortless.
+						<h2 class="pbmit-title">Our Aim is to Make Your Logistics Experience Effortless
 						</h2>
 						<p class="pbmit-heading_desc">
-							As international freight forwarders, our mission is to provide world-class logistic service
-							to exporters and importers. We treat each and every shipment as a unique challenge and
-							opportunity; identifying and providing the optimal solution for our customers specific
-							international transportation needs.
-
-							At APL Logistics, we are very aware of the critical importance of each shipment and how much
-							it could mean to the daily operations of your business. We
-							bear in mind the gravity of trust you place in us and strive to move your cargo swiftly and
-							efficiently straight to the destination.
-
-							Our experienced team of professionals uses the best resources and the latest technologies to
-							transport your shipment across the globe seamlessly, carefully
-							and consistently.
-
-							We have a host of services that will sync smoothly with your operations and carry your goods
-							ON TIME, ON BUDGET and ON VALUE! Challenge us! You will only make us better.
+							As international freight forwarders, our mission is to provide world-class logistics
+							services to exporters and importers. We treat every shipment as a unique challenge and
+							opportunity by identifying and providing the best solutions for our customers’ international
+							transportation needs.
+							<br>
+							At APL Logistics, we understand the critical importance of every shipment and its impact on
+							daily business operations. Our experienced team uses advanced resources and the latest
+							technologies to move your cargo swiftly, safely, and efficiently across the globe.
+							We deliver seamless logistics solutions that help businesses transport goods on time, on
+							budget, and with exceptional value.
 
 
 

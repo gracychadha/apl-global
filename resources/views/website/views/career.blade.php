@@ -7,7 +7,7 @@
                 <div class="pbmit-title-bar-content-inner">
                     <div class="pbmit-tbar">
                         <div class="pbmit-tbar-inner">
-                            <h1 class="pbmit-tbar-title"> Career</h1>
+                            <h1 class="pbmit-tbar-title"> Careers</h1>
                         </div>
                     </div>
                     <div class="pbmit-breadcrumb">
@@ -16,7 +16,7 @@
                             <span class="sep">
                                 <i class="pbmit-base-icon-angle-right"></i>
                             </span>
-                            <span><span class="post-root post post-post current-item"> Career</span></span>
+                            <span><span class="post-root post post-post current-item"> Careers</span></span>
                         </div>
                     </div>
                 </div>

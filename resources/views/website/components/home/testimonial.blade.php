@@ -14,7 +14,7 @@
             </div>
             <div class="col-md-12 col-xl-6">
                 <div class="pbmit-heading-subheading">
-                    <h4 class="pbmit-subtitle">Testimonials</h4>
+                    <h4 class="pbmit-subtitle">Our Testimonials</h4>
                     <h2 class="pbmit-title">What Our Clients Say About Us</h2>
                 </div>
                 <div class="testimonial-one_arrow swiper-btn-custom d-flex flex-row-reverse"></div>

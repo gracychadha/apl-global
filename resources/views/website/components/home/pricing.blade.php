@@ -2,7 +2,7 @@
     <div class="container">
         <div class="pbmit-heading-subheading text-center">
             <h4 class="pbmit-subtitle">Pricing Table</h4>
-            <h2 class="pbmit-title">Choose right plan for logistic</h2>
+            <h2 class="pbmit-title">Flexible Pricing Plans for Your Logistics Needs</h2>
         </div>
         <div class="pbmit-ptable-cols pbminfotech-ele-ptable-style-1">
             <div class="row">
@@ -12,7 +12,7 @@
                             <div class="pbmit-heading-wrapper">
                                 <h3 class="pbminfotech-ptable-heading">Basic</h3>
                                 <div class="pbminfotech-sep"></div>
-                                <div class="pbminfotech-ptable-desc">For Normally Check up Plan</div>
+                                <div class="pbminfotech-ptable-desc">For Standard Logistics Needs</div>
                             </div>
                             <div class="pbmit-ptable-icon">
                                 <div class="pbmit-ptable-icon-wrapper">
@@ -27,15 +27,20 @@
                                 <div class="pbminfotech-ptable-symbol">$</div>
                                 <div class="pbminfotech-ptable-price">190</div>
                             </div>
-                            <div class="pbminfotech-ptable-frequency">M</div>
+                            <div class="pbminfotech-ptable-frequency">Month</div>
                         </div>
                         <div class="pbmit-ptable-inner">
                             <div class="pbmit-ptable-lines-w">
-                                <div class="pbmit-ptable-line">Advanced Analytics</div>
-                                <div class="pbmit-ptable-line">Change Management</div>
-                                <div class="pbmit-ptable-line">Corporate Finance</div>
-                                <div class="pbmit-ptable-line">Strategy &amp; Marketing</div>
-                                <div class="pbmit-ptable-line">Information Technology</div>
+                                <div class="pbmit-ptable-line">
+                                    Shipment Tracking</div>
+                                <div class="pbmit-ptable-line">
+                                    Standard Delivery Support</div>
+                                <div class="pbmit-ptable-line">
+                                    Basic Cargo Handling</div>
+                                <div class="pbmit-ptable-line">
+                                    Secure Transportation</div>
+                                <div class="pbmit-ptable-line">
+                                    Email Support</div>
                             </div>
                         </div>
                         <div class="pbminfotech-ptable-btn pbmit-svg-btn">
@@ -50,7 +55,7 @@
                             <div class="pbmit-heading-wrapper">
                                 <h3 class="pbminfotech-ptable-heading">Premium</h3>
                                 <div class="pbminfotech-sep"></div>
-                                <div class="pbminfotech-ptable-desc">For Normally Check up Plan</div>
+                                <div class="pbminfotech-ptable-desc">For Growing Business Needs</div>
                             </div>
                             <div class="pbmit-ptable-icon">
                                 <div class="pbmit-ptable-icon-wrapper">
@@ -65,15 +70,20 @@
                                 <div class="pbminfotech-ptable-symbol">$</div>
                                 <div class="pbminfotech-ptable-price">290</div>
                             </div>
-                            <div class="pbminfotech-ptable-frequency">M</div>
+                            <div class="pbminfotech-ptable-frequency">Month</div>
                         </div>
                         <div class="pbmit-ptable-inner">
                             <div class="pbmit-ptable-lines-w">
-                                <div class="pbmit-ptable-line">Advanced Analytics</div>
-                                <div class="pbmit-ptable-line">Change Management</div>
-                                <div class="pbmit-ptable-line">Corporate Finance</div>
-                                <div class="pbmit-ptable-line">Strategy &amp; Marketing</div>
-                                <div class="pbmit-ptable-line">Information Technology</div>
+                                <div class="pbmit-ptable-line">Advanced Analytics
+                                </div>
+                                <div class="pbmit-ptable-line">
+                                    Priority Freight Service</div>
+                                <div class="pbmit-ptable-line">
+                                    Route Optimization</div>
+                                <div class="pbmit-ptable-line">
+                                    Warehouse Support</div>
+                                <div class="pbmit-ptable-line">
+                                    24/7 Customer Support</div>
                             </div>
                         </div>
                         <div class="pbminfotech-ptable-btn pbmit-svg-btn">
@@ -87,7 +97,7 @@
                             <div class="pbmit-heading-wrapper">
                                 <h3 class="pbminfotech-ptable-heading">Advanced</h3>
                                 <div class="pbminfotech-sep"></div>
-                                <div class="pbminfotech-ptable-desc">For Normally Check up Plan</div>
+                                <div class="pbminfotech-ptable-desc">For Enterprise Shipping Needs</div>
                             </div>
                             <div class="pbmit-ptable-icon">
                                 <div class="pbmit-ptable-icon-wrapper">
@@ -102,15 +112,19 @@
                                 <div class="pbminfotech-ptable-symbol">$</div>
                                 <div class="pbminfotech-ptable-price">390</div>
                             </div>
-                            <div class="pbminfotech-ptable-frequency">M</div>
+                            <div class="pbminfotech-ptable-frequency">Month</div>
                         </div>
                         <div class="pbmit-ptable-inner">
                             <div class="pbmit-ptable-lines-w">
-                                <div class="pbmit-ptable-line">Advanced Analytics</div>
-                                <div class="pbmit-ptable-line">Change Management</div>
-                                <div class="pbmit-ptable-line">Corporate Finance</div>
-                                <div class="pbmit-ptable-line">Strategy &amp; Marketing</div>
-                                <div class="pbmit-ptable-line">Information Technology</div>
+                                <div class="pbmit-ptable-line">Complete Logistics Management</div>
+                                <div class="pbmit-ptable-line">
+                                    Global Freight Solutions</div>
+                                <div class="pbmit-ptable-line">
+                                    Dedicated Support Team</div>
+                                <div class="pbmit-ptable-line">
+                                    Supply Chain Optimization</div>
+                                <div class="pbmit-ptable-line">
+                                    Custom Shipping Solutions</div>
                             </div>
                         </div>
                         <div class="pbminfotech-ptable-btn pbmit-svg-btn">
@@ -131,7 +145,7 @@
                                 </path>
                             </defs>
                             <text font-size="15" font-family="Prompt,sans-serif" font-weight="400">
-                                <textPath startOffset="0" xlink:href="#txt-path">Best price plan - Best price plan -
+                                <textPath startOffset="0" xlink:href="#txt-path">Best price plan-Best price plan-
                                 </textPath>
                             </text>
                         </svg>

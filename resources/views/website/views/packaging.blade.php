@@ -35,7 +35,7 @@
                             <img src="{{ asset('website/images/upload/packaging-main.png') }}" class="img-fluid" alt="">
                         </div>
                         <div class="pbmit-entry-content">
-                            <h4 class="pbmit_title">Professional Packaging Solutions For Safe Cargo Handling</h4>
+                            <h4 class="pbmit_title">Professional Packaging Solutions for Safe Cargo Handling</h4>
 
                             <p text-align="justify">
                                 APL Logistics offers reliable packaging solutions designed to protect goods during storage
@@ -131,7 +131,8 @@
                                 <h4 class="pbmit_title">Frequently Asked Questions</h4>
 
                                 <p>
-                                    Find answers to common questions about our packaging services, cargo protection methods,
+                                    Find answers to commonly asked questions about our packaging services, cargo protection
+                                    methods,
                                     and shipping safety solutions.
                                 </p>
                                 <div class="accordion" id="accordionExample1">

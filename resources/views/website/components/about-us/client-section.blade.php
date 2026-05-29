@@ -1,7 +1,7 @@
 <section>
 	<div class="container">
 		<div class="client-two_heading">
-			<h2>150+ most trusted companies globally</h2>
+			<h2>Trusted by 150+ Companies Globally</h2>
 		</div>
 		<div class="client-two_box">
 			<div class="row justify-content-center">

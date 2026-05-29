@@ -35,7 +35,7 @@
                             <img src="{{ asset('website/images/upload/ocean-main.png') }}" class="img-fluid" alt="">
                         </div>
                         <div class="pbmit-entry-content">
-                            <h4 class="pbmit_title">Ocean Freight Delivering Global Shipping Solutions</h4>
+                            <h4 class="pbmit_title">Reliable Ocean Freight Solutions for Global Shipping</h4>
 
                             <p text-align="justify">
                                 APL Logistics offers reliable and cost-effective ocean freight services for international
@@ -130,7 +130,8 @@
                                 <h4 class="pbmit_title">Frequently Asked Questions</h4>
 
                                 <p>
-                                    Find answers to common questions about our air freight services, shipment process,
+                                    Find answers to commonly asked questions about our air freight services, shipment
+                                    process,
                                     delivery timelines, and cargo handling solutions.
                                 </p>
                                 <div class="accordion" id="accordionExample1">

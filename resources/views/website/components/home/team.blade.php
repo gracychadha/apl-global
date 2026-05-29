@@ -25,8 +25,8 @@
                                     </path>
                                 </defs>
                                 <text font-size="15" font-family="Prompt,sans-serif" font-weight="400">
-                                    <textPath startOffset="0" xlink:href="#txt-path">See All member - See All member
-                                        - See All member -</textPath>
+                                    <textPath startOffset="0" xlink:href="#txt-path">See All the member - To See All the member
+                                        -</textPath>
                                 </text>
                             </svg>
                         </div>

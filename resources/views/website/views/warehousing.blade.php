@@ -7,7 +7,7 @@
                 <div class="pbmit-title-bar-content-inner">
                     <div class="pbmit-tbar">
                         <div class="pbmit-tbar-inner">
-                            <h1 class="pbmit-tbar-title"> Warhousing </h1>
+                            <h1 class="pbmit-tbar-title"> Warehousing </h1>
                         </div>
                     </div>
                     <div class="pbmit-breadcrumb">
@@ -16,7 +16,7 @@
                             <span class="sep">
                                 <i class="pbmit-base-icon-angle-right"></i>
                             </span>
-                            <span><span class="post-root post post-post current-item"> Warhousing</span></span>
+                            <span><span class="post-root post post-post current-item"> Warehousing</span></span>
                         </div>
                     </div>
                 </div>
@@ -129,7 +129,8 @@
                                 <h4 class="pbmit_title">Frequently Asked Questions</h4>
 
                                 <p>
-                                    Find answers to common questions about our warehousing services, inventory management,
+                                    Find answers to commonly asked questions about our warehousing services, inventory
+                                    management,
                                     storage facilities, and cargo handling solutions.
                                 </p>
                                 <div class="accordion" id="accordionExample1">

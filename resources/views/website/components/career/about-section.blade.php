@@ -14,18 +14,16 @@
                         <h4 class="pbmit-subtitle">Careers</h4>
 
                         <h2 class="pbmit-title">
-                            Build Your Career With APL Logistics
+                            Build Your Career with APL Logistics
                         </h2>
                         <p class="pbmit-heading_desc">
-                            Join APL Logistics and become part of a dynamic team dedicated to delivering reliable
+                            Join APL Logistics and become a part of a dynamic team dedicated to delivering reliable
                             logistics and transportation solutions worldwide. We offer a professional work environment,
                             growth opportunities, and a culture that values teamwork, innovation, and customer
-                            satisfaction.
-
-                            Whether you are experienced in logistics operations, customer support, transportation, or
-                            supply chain management, we provide the platform to enhance your skills and grow your career
-                            in the fast-moving logistics industry.
-                        </p>    
+                            satisfaction. Whether you are experienced in logistics operations, customer support,
+                            transportation, or supply chain management, we provide the platform to enhance your skills
+                            and grow your career in the fast-moving logistics industry.
+                        </p>
                     </div>
 
                     <div class="about-us-two_btn">

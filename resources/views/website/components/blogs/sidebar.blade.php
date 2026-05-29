@@ -21,7 +21,7 @@
 
             </ul>
         </aside>
-        <aside class="widget widget-tag-cloud">
+        <!-- <aside class="widget widget-tag-cloud">
             <h3 class="widget-title">Tag Cloud</h3>
             <div class="tagcloud">
                 <a href="{{ route('our-blogs') }}" class="tag-cloud-link">Cargo</a>
@@ -30,7 +30,7 @@
                 <a href="{{ route('our-blogs') }}" class="tag-cloud-link">Industry</a>
                 <a href="{{ route('our-blogs') }}" class="tag-cloud-link">Machinery</a>
             </div>
-        </aside>
+        </aside> -->
         <aside class="widget pbmit-service-ad">
             <div class="textwidget custom-html-widget">
                 <div class="pbmit-service-ads">

@@ -3,8 +3,8 @@
         <div class="row">
             <div class="col-md-12 col-lg-6">
                 <div class="pbmit-heading-subheading">
-                    <h4 class="pbmit-subtitle">Our Blog</h4>
-                    <h2 class="pbmit-title">Our Fresh Blogs</h2>
+                    <h4 class="pbmit-subtitle">Our Blogs</h4>
+                    <h2 class="pbmit-title">Latest News & Blogs</h2>
                 </div>
             </div>
             <div class="col-md-12 col-lg-6">

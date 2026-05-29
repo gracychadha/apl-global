@@ -71,7 +71,7 @@
                                         <a href="#" rel="tag">Analytics, Logistics</a>
                                     </div>
                                     <h3 class="pbmit-portfolio-title">
-                                        <a href="#">Cost-Effective Manufacturing Solutions</a>
+                                        <a href="#">Cost-Effective Logistics Solutions</a>
                                     </h3>
                                 </div>
                             </div>

@@ -12,8 +12,7 @@
                 <div class="about-us-two_content">
                     <div class="pbmit-heading-subheading">
                         <h4 class="pbmit-subtitle">Why Choose Us</h4>
-                        <h2 class="pbmit-title">Logistic & Transport
-                            Solutions Saves Your Time!</h2>
+                        <h2 class="pbmit-title">Smart Logistics Solutions That Save Your Time</h2>
                         <p class="pbmit-heading_desc">
                             APL Logistics is a trusted logistics and freight service provider offering complete
                             transportation and cargo solutions across the globe. We specialize in secure shipping,

@@ -3,7 +3,7 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-md-6 pbmit-footer-left">
-                    <h3 class="pbmit-title">Subscribe to our newsletter</h3>
+                    <h3 class="pbmit-title">Subscribe to Our Newsletter</h3>
                 </div>
                 <div class="col-md-6">
                     <form action="{{ route('subscribe.store') }}" method="POST">
@@ -25,7 +25,7 @@
                         @enderror
                     </form>
 
-                 
+
                 </div>
             </div>
         </div>
@@ -39,9 +39,8 @@
                         <div class="textwidget">
                             <div class="pbmit-contact-widget-address">
                                 <p align="justify"> At APL Logistics, we are very aware of the critical importance of
-                                    each shipment and
-                                    how
-                                    much it could mean to the daily operations of your business.</p>
+                                    each shipment and how much it could mean to the daily operations of your business.
+                                </p>
                             </div>
 
                         </div>
@@ -92,17 +91,13 @@
                         <div class="textwidget">
                             <ul class="pbmit-social-links">
                                 <li class="pbmit-social-li pbmit-social-facebook">
-                                    <a href="#" target="_blank">
+                                    <a href="https://www.facebook.com/aplgloballogistic/" target="_blank">
                                         <span><i class="pbmit-base-icon-facebook-f"></i></span>
                                     </a>
                                 </li>
-                                <li class="pbmit-social-li pbmit-social-twitter">
-                                    <a href="#" target="_blank">
-                                        <span><i class="pbmit-base-icon-twitter-1"></i></span>
-                                    </a>
-                                </li>
+                                
                                 <li class="pbmit-social-li pbmit-social-instagram">
-                                    <a href="#" target="_blank">
+                                    <a href="https://www.instagram.com/apl_global_logistics/?hl=en" target="_blank">
                                         <span><i class="pbmit-base-icon-instagram"></i></span>
                                     </a>
                                 </li>
@@ -119,7 +114,7 @@
                 <div class="row align-items-center">
                     <div class="col-md-8">
                         <div class="pbmit-footer-copyright-text-area"> &copy; <?php echo date('Y'); ?>
-                            <a href="{{ route('home') }}">Apl Global Logistics </a>, Designed and Developed by <a
+                            <a href="{{ route('home') }}">Apl Global Logistics </a>| Designed and Developed by <a
                                 href="https://vibrantick.in/" target="_blank">Vibrantick Infotech Solutions</a>.
                         </div>
                     </div>

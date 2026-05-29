@@ -15,7 +15,7 @@
                                 </div>
                             </div>
                             <div class="pbmit-ihbox-contents">
-                                <h2 class="pbmit-element-title">Call us 24/7</h2>
+                                <h2 class="pbmit-element-title">24/7 Call Support</h2>
                                 <div class="pbmit-heading-desc">+971 56 7590009 <br> +971 4 2949439</div>
                             </div>
                         </div>
@@ -32,7 +32,7 @@
                                 </div>
                             </div>
                             <div class="pbmit-ihbox-contents">
-                                <h2 class="pbmit-element-title">Mail us 24/7</h2>
+                                <h2 class="pbmit-element-title">24/7 Mail Support</h2>
                                 <div class="pbmit-heading-desc"><a href="mailto:info@aplgloballogistic.com"
                                         class="__cf_email__">info@aplgloballogistic.com</a>
 
@@ -52,8 +52,8 @@
                                 </div>
                             </div>
                             <div class="pbmit-ihbox-contents">
-                                <h2 class="pbmit-element-title">Opening Hours</h2>
-                                <div class="pbmit-heading-desc">9:00AM - 12:00 PM</div>
+                                <h2 class="pbmit-element-title">Working Hours</h2>
+                                <div class="pbmit-heading-desc">10:00AM - 12:00 AM</div>
                             </div>
                         </div>
                     </div>
@@ -71,10 +71,9 @@
                     <div class="contact-form_leftbox">
                         <div class="pbmit-heading-subheading">
                             <h4 class="pbmit-subtitle">Get in touch</h4>
-                            <h2 class="pbmit-title">Chat with our support team to learn more</h2>
+                            <h2 class="pbmit-title">Chat with Our Support Team to Learn More</h2>
                             <div class="pbmit-heading_desc">
-                                We provide professional services to clients in a particular area of expertise. We have a
-                                team of experts in various fields who can offer advice on a project or problem.
+                                We deliver professional solutions tailored to our clients’ needs, backed by a skilled team of experts who provide guidance and support across various areas of expertise.
                             </div>
                         </div>
                         <div class="swiper-slider" data-loop="true" data-autoplay="false" data-dots="false"
@@ -109,7 +108,7 @@
 
                                                                 <li>
                                                                     <i class="demo-icon pbmit-base-icon-clock"></i>
-                                                                    Mon - Sat : 9:00 AM - 12:00 PM
+                                                                    Mon - Sat : 10:00 AM - 12:00 AM
                                                                 </li>
                                                             </ul>
                                                         </div>
@@ -210,7 +209,7 @@
                 <div class="col-md-12 col-xl-6">
                     <div class="contact-form_main">
                         <div class="pbmit-heading-subheading animation-style2">
-                            <h4 class="">Send us a message</h4>
+                            <h4 class="">Send Us a Message</h4>
                         </div>
                         <form class="contact-form" method="POST" id="contact-form"
                             action="{{ route('contact.store') }}">

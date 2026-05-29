@@ -32,10 +32,11 @@
                     @include('website.components.service.sidebar')
                     <div class="col-lg-9 service-right-col order-1">
                         <div class="pbmit-service-feature-image">
-                            <img src="{{ asset('website/images/upload/customs-brokerage-main.png') }}" class="img-fluid" alt="">
+                            <img src="{{ asset('website/images/upload/customs-brokerage-main.png') }}" class="img-fluid"
+                                alt="">
                         </div>
                         <div class="pbmit-entry-content">
-                            <h4 class="pbmit_title">Customs Brokerage Solutions For Smooth Global Trade</h4>
+                            <h4 class="pbmit_title">Customs Brokerage Solutions for Smooth Global Trade</h4>
 
                             <p text-align="justify">
                                 APL Logistics provides professional customs brokerage services to ensure fast, smooth, and
@@ -129,7 +130,7 @@
                                 <h4 class="pbmit_title">Frequently Asked Questions</h4>
 
                                 <p>
-                                    Find answers to common questions about our customs brokerage services, shipment
+                                    Find answers to commonly asked questions about our customs brokerage services, shipment
                                     clearance process, and international trade support solutions.
                                 </p>
                                 <div class="accordion" id="accordionExample1">
