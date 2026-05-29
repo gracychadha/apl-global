@@ -3,8 +3,8 @@
         <div class="row">
             <div class="col-md-12 col-xl-6">
                 <div class="pbmit-heading-subheading">
-                    <h4 class="pbmit-subtitle">Why choose us</h4>
-                    <h2 class="pbmit-title">Reliable Logistics Solutions For Your Business</h2>
+                    <h4 class="pbmit-subtitle">Why Choose Us</h4>
+                    <h2 class="pbmit-title">Your Trusted Partner for Global Logistics</h2>
                 </div>
                 <a class="pbmit-btn pbmit-btn-outline" href="{{ route('contact-us') }}">Get Quote</a>
             </div>
@@ -30,7 +30,7 @@
                                 </div>
                                 <div class="pbmit-ihbox-contents">
                                     <h2 class="pbmit-element-title">Real-Time Tracking</h2>
-                                    <div class="pbmit-heading-desc">Track your shipments anytime with complete transparency and live updates.</div>
+                                    <div class="pbmit-heading-desc">Track your shipments anytime with live updates and complete transparency .</div>
                                 </div>
                             </div>
                         </div>
@@ -107,8 +107,8 @@
                             </div>
                         </div>
                         <div class="pbmit-ihbox-contents">
-                            <h2 class="pbmit-element-title">Fast & Efficient Delivery</h2>
-                            <div class="pbmit-heading-desc">We ensure timely transportation and delivery across domestic and international routes.
+                            <h2 class="pbmit-element-title">Fast & Efficient Deliveries</h2>
+                            <div class="pbmit-heading-desc">We ensure timely transportation and deliveries across domestic and international routes.
                             </div>
                         </div>
                     </div>
@@ -132,7 +132,7 @@
                             </div>
                         </div>
                         <div class="pbmit-ihbox-contents">
-                            <h2 class="pbmit-element-title">Security For Cargo</h2>
+                            <h2 class="pbmit-element-title">Security for Cargo</h2>
                             <div class="pbmit-heading-desc">Advanced safety measures to keep your shipments protected throughout transit.
                             </div>
                         </div>
@@ -157,7 +157,7 @@
                             </div>
                         </div>
                         <div class="pbmit-ihbox-contents">
-                            <h2 class="pbmit-element-title">Easy Payment Method</h2>
+                            <h2 class="pbmit-element-title">Easy Payment Methods</h2>
                             <div class="pbmit-heading-desc">Simple and flexible payment options designed for customer convenience.
                             </div>
                         </div>

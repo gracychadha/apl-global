@@ -2,16 +2,26 @@
     <aside class="service-sidebar">
         <aside class="widget post-list">
             <div class="all-post-list">
+                @php
+                    $services = [
+                        'air-freight' => 'Air Freight',
+                        'ocean-freight' => 'Ocean Freight',
+                        'road-freight' => 'Road Freight',
+                        'warehousing' => 'Warehousing',
+                        'packaging' => 'Packaging',
+                        'customs-brokerage' => 'Customs Brokerage',
+                    ];
+                @endphp
+
                 <ul>
-                    <li class="post-active"><a href="{{ route('air-freight') }}"> Air Freight </a></li>
-                    <li><a href="{{ route('ocean-freight') }}"> Ocean Freight </a></li>
-                    <li><a href="{{ route('road-freight') }}"> Road Freight </a></li>
-                    <li><a href="{{ route('warehousing') }}"> Warehousing </a></li>
-                    <li><a href="{{ route('packaging') }}"> Packaging </a></li>
-                    <li><a href="{{ route('customs-brokerage') }}"> Customs Brokerage </a></li>
+                    @foreach($services as $route => $label)
+                        <li class="{{ request()->routeIs($route) ? 'post-active' : '' }}">
+                            <a href="{{ route($route) }}">{{ $label }}</a>
+                        </li>
+                    @endforeach
                 </ul>
             </div>
         </aside>
-     
+
     </aside>
 </div>

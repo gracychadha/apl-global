@@ -16,8 +16,8 @@
                         data-dim="w:1076px,941px,714px,440px;h:451px,394px,299px,184px;" data-frame_0="x:right;"
                         data-frame_1="st:600;sp:2000;sR:600;" data-frame_999="o:0;st:w;sR:6400;" data-loop_0="y:-10px;"
                         data-loop_999="y:10px;sp:6000;e:sine.inOut;yym:t;" style="z-index:8;"><img
-                            src="{{ asset('website/images/upload/hero-01.png') }}" alt="" class="tp-rs-img"
-                            width="1076" height="451" data-no-retina>
+                            src="{{ asset('website/images/upload/hero-01.png') }}" alt="" class="tp-rs-img" width="1076"
+                            height="451" data-no-retina>
                     </rs-layer><rs-layer id="slider-4-slide-4-layer-2" class="rev-btn" data-type="button"
                         data-color="#0b4bd3" data-rsp_ch="on"
                         data-xy="x:r;xo:49px,77px,58px,35px;yo:260px,324px,246px,151px;"
@@ -27,10 +27,12 @@
                         data-border="bor:50%,50%,50%,50%;" data-frame_0="sX:0.9;sY:0.9;"
                         data-frame_1="e:power2.inOut;st:1960;sp:1000;sR:1960;" data-frame_999="o:0;st:w;sR:6040;"
                         data-frame_hover="c:#000;bgc:#fff;bor:50%,50%,50%,50%;sp:200;e:power1.inOut;"
+                        data-actions='o:click;a:simplelink;target:_self;url:{{ route('contact-us') }}'
                         style="z-index:12;background-color:#ffffff;font-family:'Space Grotesk';">Learn<br> More
-                    </rs-layer><rs-layer id="slider-4-slide-4-layer-3" data-type="text" data-color="#000000"
-                        data-rsp_ch="on" data-xy="x:l,l,l,c;xo:0,30px,22px,-76px;yo:200px,225px,202px,188px;"
-                        data-text="w:normal;s:90,70,53,34;l:90,70,53,36;fw:700;" data-frame_0="x:175%;o:1;"
+                    </rs-layer>
+                    <rs-layer id="slider-4-slide-4-layer-3" data-type="text" data-color="#000000" data-rsp_ch="on"
+                        data-xy="x:l,l,l,c;xo:0,30px,22px,-76px;yo:180px,205px,182px,168px;"
+                        data-text="w:normal;s:90,70,53,34;l:100,80,60,42;fw:700;" data-frame_0="x:175%;o:1;"
                         data-frame_0_mask="u:t;x:-100%;" data-frame_1="e:power3.out;st:1360;sp:1000;sR:1360;"
                         data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;sR:6640;"
                         style="z-index:9;font-family:'Space Grotesk';text-transform:capitalize;">Safe &amp; Reliable
@@ -62,20 +64,22 @@
                         data-dim="w:1076px,941px,714px,440px;h:450px,371px,281px,173px;" data-frame_0="x:right;"
                         data-frame_1="st:600;sp:2000;sR:600;" data-frame_999="o:0;st:w;sR:6400;"
                         data-loop_999="sX:0.8;sY:0.8;o:0.6;sp:6000;e:power2.inOut;yys:t;yyf:t;" style="z-index:8;"><img
-                            src="{{ asset('website/images/upload/hero-02.png') }}" alt="" class="tp-rs-img"
-                            width="1140" height="450" data-no-retina>
-                    </rs-layer><rs-layer id="slider-4-slide-11-layer-2" class="rev-btn" data-type="button"
-                        data-color="#0b4bd3" data-rsp_ch="on"
-                        data-xy="x:r;xo:49px,77px,58px,35px;yo:260px,324px,246px,151px;"
+                            src="{{ asset('website/images/upload/hero-02.png') }}" alt="" class="tp-rs-img" width="1140"
+                            height="450" data-no-retina>
+                    </rs-layer>
+                    <rs-layer id="slider-4-slide-11-layer-2" class="rev-btn" data-type="button" data-color="#0b4bd3"
+                        data-rsp_ch="on" data-xy="x:r;xo:49px,77px,58px,35px;yo:260px,324px,246px,151px;"
                         data-text="w:normal;s:16,14,10,6;l:18,15,11,6;ls:-0.4px,0px,0px,0px;fw:500;"
                         data-dim="minh:0px,none,none,none;" data-vbility="t,t,f,f"
                         data-padding="t:55,40,30,19;r:50,40,30,19;b:55,40,30,19;l:50,40,30,19;"
                         data-border="bor:50%,50%,50%,50%;" data-frame_0="sX:0.9;sY:0.9;"
                         data-frame_1="e:power2.inOut;st:1960;sp:1000;sR:1960;" data-frame_999="o:0;st:w;sR:6040;"
                         data-frame_hover="c:#000;bgc:#fff;bor:50%,50%,50%,50%;sp:200;e:power1.inOut;"
+                        data-actions='o:click;a:simplelink;target:_self;url:{{ route('contact-us') }}'
                         style="z-index:12;background-color:#ffffff;font-family:'Space Grotesk';">Learn<br> More
-                    </rs-layer><rs-layer id="slider-4-slide-11-layer-3" data-type="text" data-color="#000000"
-                        data-rsp_ch="on" data-xy="x:l,l,l,c;xo:0,30px,22px,-76px;yo:200px,225px,202px,188px;"
+                    </rs-layer>
+                    <rs-layer id="slider-4-slide-11-layer-3" data-type="text" data-color="#000000" data-rsp_ch="on"
+                        data-xy="x:l,l,l,c;xo:0,30px,22px,-76px;yo:200px,225px,202px,188px;"
                         data-text="w:normal;s:90,70,53,34;l:90,70,53,36;fw:700;" data-frame_0="x:175%;o:1;"
                         data-frame_0_mask="u:t;x:-100%;" data-frame_1="e:power3.out;st:1360;sp:1000;sR:1360;"
                         data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;sR:6640;"
@@ -87,9 +91,8 @@
                         data-dim="w:877px,767px,582px,439px;h:79px,69px,52px,auto;" data-frame_0="x:175%;o:1;"
                         data-frame_0_mask="u:t;x:-100%;" data-frame_1="e:power3.out;st:1770;sp:1000;sR:1770;"
                         data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;sR:6230;"
-                        style="z-index:10;font-family:'Schibsted Grotesk';">Providing flexible, improved service levels,
-                        and accelerated delivery. <br>
-                        Reduced direct and indirect costs and much less complexity.
+                        style="z-index:10;font-family:'Schibsted Grotesk';">Smart air logistics solutions ensuring
+                        speed,<br> reliability, and precision across every shipment.
                     </rs-layer><rs-layer id="slider-4-slide-11-layer-6" data-type="image" data-rsp_ch="on"
                         data-xy="xo:105px,91px,69px,42px;yo:403px,407px,359px,292px;"
                         data-text="w:normal;s:20,17,12,7;l:0,21,15,9;"
@@ -109,8 +112,8 @@
                         data-dim="w:1076px,941px,714px,440px;h:450px,357px,271px,167px;" data-frame_0="x:right;"
                         data-frame_1="st:600;sp:2000;sR:600;" data-frame_999="o:0;st:w;sR:6400;" data-loop_0="y:-15px;"
                         data-loop_999="y:15px;sp:6000;e:sine.inOut;yym:t;" style="z-index:8;"><img
-                            src="{{ asset('website/images/upload/hero-03.png') }}" alt="" class="tp-rs-img"
-                            width="1187" height="450" data-no-retina>
+                            src="{{ asset('website/images/upload/hero-03.png') }}" alt="" class="tp-rs-img" width="1187"
+                            height="450" data-no-retina>
                     </rs-layer><rs-layer id="slider-4-slide-12-layer-2" class="rev-btn" data-type="button"
                         data-color="#0b4bd3" data-rsp_ch="on"
                         data-xy="x:r;xo:49px,77px,58px,35px;yo:260px,324px,246px,151px;"
@@ -120,6 +123,7 @@
                         data-border="bor:50%,50%,50%,50%;" data-frame_0="sX:0.9;sY:0.9;"
                         data-frame_1="e:power2.inOut;st:1960;sp:1000;sR:1960;" data-frame_999="o:0;st:w;sR:6040;"
                         data-frame_hover="c:#000;bgc:#fff;bor:50%,50%,50%,50%;sp:200;e:power1.inOut;"
+                        data-actions='o:click;a:simplelink;target:_self;url:{{ route('contact-us') }}'
                         style="z-index:12;background-color:#ffffff;font-family:'Space Grotesk';">Learn<br> More
                     </rs-layer><rs-layer id="slider-4-slide-12-layer-3" data-type="text" data-color="#000000"
                         data-rsp_ch="on" data-xy="x:l,l,l,c;xo:0,30px,22px,-76px;yo:200px,225px,202px,188px;"
@@ -134,9 +138,9 @@
                         data-dim="w:877px,767px,582px,445px;h:79px,69px,52px,auto;" data-frame_0="x:175%;o:1;"
                         data-frame_0_mask="u:t;x:-100%;" data-frame_1="e:power3.out;st:1770;sp:1000;sR:1770;"
                         data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;sR:6230;"
-                        style="z-index:10;font-family:'Schibsted Grotesk';">Providing flexible, improved service levels,
-                        and accelerated delivery. <br>
-                        Reduced direct and indirect costs and much less complexity.
+                        style="z-index:10;font-family:'Schibsted Grotesk';">Connecting businesses worldwide through
+                        advanced ocean freight <br> solutions, ensuring safe, timely, and seamless cargo movement. <br>
+
                     </rs-layer><rs-layer id="slider-4-slide-12-layer-6" data-type="image" data-rsp_ch="on"
                         data-xy="xo:105px,91px,69px,42px;yo:403px,407px,359px,292px;"
                         data-text="w:normal;s:20,17,12,7;l:0,21,15,9;"

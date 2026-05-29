@@ -10,9 +10,9 @@
                                 <span class="pbmit-number-rotate numinate" data-appear-animation="animateDigits"
                                     data-from="0" data-to="25" data-interval="5" data-before="" data-before-style=""
                                     data-after="" data-after-style="">25</span>
-                                <span class="pbmit-fid"></span>
+                                <span class="pbmit-fid">+</span>
                             </h4>
-                            <h3 class="pbmit-fid-title">Year of experience</h3>
+                            <h3 class="pbmit-fid-title">Years of Experience</h3>
                         </div>
                     </div>
                 </div>
@@ -60,7 +60,7 @@
                                     data-after="" data-after-style="">5154</span>
                                 <span class="pbmit-fid">M</span>
                             </h4>
-                            <h3 class="pbmit-fid-title">Delivered Goods </h3>
+                            <h3 class="pbmit-fid-title">Shipments Delivered </h3>
                         </div>
                     </div>
                 </div>

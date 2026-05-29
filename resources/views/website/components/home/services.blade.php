@@ -16,10 +16,10 @@
                         <div class="pbminfotech-box-content">
                             <div class="pbminfotech-box-number">01</div>
                             <h3 class="pbmit-service-title">
-                                <a href="#">Air Freight</a>
+                                <a href="{{ route('air-freight') }}">Air Freight</a>
                             </h3>
                             <div class="pbmit-svg-btn">
-                                <a class="btn-arrow" href="#">
+                                <a class="btn-arrow" href="{{ route('air-freight') }}">
                                     <i class="pbmit-base-icon-right-arrow-2"></i>
                                 </a>
                             </div>
@@ -43,10 +43,10 @@
                         <div class="pbminfotech-box-content">
                             <div class="pbminfotech-box-number">02</div>
                             <h3 class="pbmit-service-title">
-                                <a href="#">Packaging</a>
+                                <a href="{{ route('packaging') }}">Packaging</a>
                             </h3>
                             <div class="pbmit-svg-btn">
-                                <a class="btn-arrow" href="#">
+                                <a class="btn-arrow" href="{{ route('packaging') }}">
                                     <i class="pbmit-base-icon-right-arrow-2"></i>
                                 </a>
                             </div>
@@ -70,10 +70,10 @@
                         <div class="pbminfotech-box-content">
                             <div class="pbminfotech-box-number">03</div>
                             <h3 class="pbmit-service-title">
-                                <a href="#">Ocean Freight</a>
+                                <a href="{{ route('ocean-freight') }}">Ocean Freight</a>
                             </h3>
                             <div class="pbmit-svg-btn">
-                                <a class="btn-arrow" href="#">
+                                <a class="btn-arrow" href="{{ route('ocean-freight') }}">
                                     <i class="pbmit-base-icon-right-arrow-2"></i>
                                 </a>
                             </div>
@@ -97,10 +97,10 @@
                         <div class="pbminfotech-box-content">
                             <div class="pbminfotech-box-number">04</div>
                             <h3 class="pbmit-service-title">
-                                <a href="#">Road Freight</a>
+                                <a href="{{ route('road-freight') }}">Road Freight</a>
                             </h3>
                             <div class="pbmit-svg-btn">
-                                <a class="btn-arrow" href="#">
+                                <a class="btn-arrow" href="{{ route('road-freight') }}">
                                     <i class="pbmit-base-icon-right-arrow-2"></i>
                                 </a>
                             </div>
@@ -124,10 +124,10 @@
                         <div class="pbminfotech-box-content">
                             <div class="pbminfotech-box-number">05</div>
                             <h3 class="pbmit-service-title">
-                                <a href="#">Warehousing</a>
+                                <a href="{{ route('warehousing') }}">Warehousing</a>
                             </h3>
                             <div class="pbmit-svg-btn">
-                                <a class="btn-arrow" href="#">
+                                <a class="btn-arrow" href="{{ route('warehousing') }}">
                                     <i class="pbmit-base-icon-right-arrow-2"></i>
                                 </a>
                             </div>

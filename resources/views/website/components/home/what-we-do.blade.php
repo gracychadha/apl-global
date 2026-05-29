@@ -8,7 +8,7 @@
 					<div class="accordion-two_leftbox">
 						<div class="pbmit-heading-subheading animation-style1">
 							<h4 class="pbmit-subtitle">What We Do</h4>
-							<h2 class="pbmit-title">Reliable & Efficient Logistics Solutions</h2>
+							<h2 class="pbmit-title">Delivering Excellence Through Smart Logistics</h2>
 						</div>
 						<div class="accordion" id="accordionExample1">
 							<div class="accordion-item active" id="headingOne1">
