@@ -33,7 +33,7 @@
                                         </svg>
                                     </span>
                                     <ul class="navigation clearfix">
-                                        <li class="dropdown active">
+                                        <li class="active">
                                             <a href="{{ route('home') }}">Home</a>
 
                                         </li>

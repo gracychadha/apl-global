@@ -79,11 +79,11 @@
 							<div class="pbmit-client-wrapper pbmit-client-with-hover-img">
 								<h4 class="pbmit-hide">07</h4>
 								<div class="pbmit-client-hover-img">
-									<img src="{{ asset('website/images/upload/partner-09.png') }}" class="img-fluid" alt="">
+									<img src="{{ asset('website/images/upload/partner-01.png') }}" class="img-fluid" alt="">
 								</div>
 								<div class="pbmit-featured-img-wrapper">
 									<div class="pbmit-featured-wrapper">
-										<img src="{{ asset('website/images/upload/partner-09.png') }}" class="img-fluid" alt="">
+										<img src="{{ asset('website/images/upload/partner-01.png') }}" class="img-fluid" alt="">
 									</div>
 								</div>
 							</div>

@@ -10,7 +10,7 @@
                         @csrf
 
                         <div class="pbmit-footer-newsletter">
-                            <input type="email" name="email" placeholder="Your email address" value="{{ old('email') }}"
+                            <input type="email" name="email" placeholder="Your email" value="{{ old('email') }}"
                                 required>
 
                             <button class="pbmit-btn" type="submit">

@@ -11,6 +11,7 @@
     <!-- CSS
          ============================================ -->
     <!-- Bootstrap CSS -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="{{ asset('website/css/bootstrap.min.css') }}">
     <!-- Fontawesome -->
     <link rel="stylesheet" href="{{ asset('website/css/fontawesome.css') }}">
@@ -37,6 +38,11 @@
     <!-- REVOLUTION STYLE SHEETS -->
     <link rel="stylesheet" type="text/css" href="{{ asset('website/revolution/rs6.css') }}">
 
+    <style>
+        .grecaptcha-badge {
+            display: none !important;
+        }
+    </style>
 </head>
 
 <body>
