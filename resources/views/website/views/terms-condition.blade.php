@@ -7,7 +7,7 @@
                 <div class="pbmit-title-bar-content-inner">
                     <div class="pbmit-tbar">
                         <div class="pbmit-tbar-inner">
-                            <h1 class="pbmit-tbar-title">Terms Conditions</h1>
+                            <h1 class="pbmit-tbar-title">Terms and Conditions</h1>
                         </div>
                     </div>
                     <div class="pbmit-breadcrumb">
@@ -16,7 +16,7 @@
                             <span class="sep">
                                 <i class="pbmit-base-icon-angle-right"></i>
                             </span>
-                            <span><span class="post-root post post-post current-item">Terms Conditions</span></span>
+                            <span><span class="post-root post post-post current-item">Terms and Conditions</span></span>
                         </div>
                     </div>
                 </div>
