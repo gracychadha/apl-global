@@ -44,7 +44,7 @@
                             </div>
                         </div>
                         <div class="pbminfotech-ptable-btn pbmit-svg-btn">
-                            <a href="#" class="pbmit-btn">Purchase now</a>
+                            <a href="{{ route('contact-us') }}" class="pbmit-btn">Purchase now</a>
                         </div>
                     </div>
                 </div>
@@ -87,7 +87,7 @@
                             </div>
                         </div>
                         <div class="pbminfotech-ptable-btn pbmit-svg-btn">
-                            <a href="#" class="pbmit-btn">Purchase now</a>
+                            <a href="{{ route('contact-us') }}" class="pbmit-btn">Purchase now</a>
                         </div>
                     </div>
                 </div>
@@ -128,7 +128,7 @@
                             </div>
                         </div>
                         <div class="pbminfotech-ptable-btn pbmit-svg-btn">
-                            <a href="#" class="pbmit-btn">Purchase now</a>
+                            <a href="{{ route('contact-us') }}" class="pbmit-btn">Purchase now</a>
                         </div>
                     </div>
                 </div>

@@ -54,7 +54,7 @@
                         style="z-index:13;"><img src="{{ asset('website/revolution/images/slider-sharp.png') }}" alt=""
                             class="tp-rs-img" width="107" height="36" data-no-retina>
                     </rs-layer></rs-slide>
-                <rs-slide style="position: absolute;" data-key="rs-11" data-title="Slide"
+                <!-- <rs-slide style="position: absolute;" data-key="rs-11" data-title="Slide"
                     data-thumb="revolution/images/slider-1-50x100.jpg" data-in="o:0;" data-out="a:false;">
                     <img src="{{ asset('website/revolution/images/slider-1.jpg') }}" alt="" title="slider-1"
                         width="1920" height="771" class="rev-slidebg tp-rs-img" data-bg="p:center top;f:auto;"
@@ -149,7 +149,7 @@
                         data-loop_0="x:-10px;" data-loop_999="x:10px;sp:4500;e:sine.inOut;yym:t;"
                         style="z-index:13;"><img src="{{ asset('website/revolution/images/slider-sharp.png') }}" alt=""
                             class="tp-rs-img" width="107" height="36" data-no-retina>
-                    </rs-layer></rs-slide>
+                    </rs-layer></rs-slide> -->
             </rs-slides>
             <rs-static-layers></rs-static-layers>
         </rs-module>

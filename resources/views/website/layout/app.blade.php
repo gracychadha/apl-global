@@ -42,6 +42,9 @@
         .grecaptcha-badge {
             display: none !important;
         }
+        .rs-fw-forcer{
+            height:963px !important;
+        }
     </style>
 </head>
 

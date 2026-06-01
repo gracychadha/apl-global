@@ -97,7 +97,8 @@
                             <a href="#"><i class="pbmit-base-icon-search-1"></i></a>
                         </div> -->
                         <div class="pbmit-button-box">
-                            <a class="pbmit-btn" href="{{ route('track') }}">Track & Trace</a>
+                            <a class="pbmit-btn" href="https://www.track-trace.com/aircargo" target="_blank">Track & Trace</a>
+                            <!-- <a class="pbmit-btn" href="{{ route('track') }}">Track & Trace</a> -->
                         </div>
                     </div>
                 </div>
