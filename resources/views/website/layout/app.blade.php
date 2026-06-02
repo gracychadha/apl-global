@@ -121,6 +121,7 @@
     <script src="{{ asset('website/revolution/rslider.js') }}"></script>
     <script src="{{ asset('website/revolution/rbtools.min.js') }}"></script>
     <script src="{{ asset('website/revolution/rs6.min.js') }}"></script>
+    @stack('scripts')
     <!-- Google reCAPTCHA v3 -->
     <script src="https://www.google.com/recaptcha/api.js?render={{ config('services.recaptcha.site_key') }}"></script>
 
