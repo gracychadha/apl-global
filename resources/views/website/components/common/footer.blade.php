@@ -81,9 +81,11 @@
                     <div class="widget">
                         <h2 class="widget-title">Contact Us </h2>
                         <div class="textwidget">
-                            <div class="pbmit-contact-widget-phone">+971 56 759 0009</div>
-                            <div><a href="mailto:info@aplgloballogistic.com"
-                                    target="_blank">[info@aplgloballogistic.com]</a>
+                            <div class="pbmit-contact-widget-phone">
+                                <i class="pbmit-logistbiz-icon pbmit-logistbiz-icon-call-1"></i>
+                                <span>+971 56 759 0009</span>
+                            </div>
+                            <div class="pbmit-contact-widget-phone"><i class="pbmit-logistbiz-icon pbmit-logistbiz-icon-envelope"></i><span>info@aplgloballogistic.com</span>
                             </div>
 
 
@@ -95,7 +97,7 @@
                                         <span><i class="pbmit-base-icon-facebook-f"></i></span>
                                     </a>
                                 </li>
-                                
+
                                 <li class="pbmit-social-li pbmit-social-instagram">
                                     <a href="https://www.instagram.com/apl_global_logistics/?hl=en" target="_blank">
                                         <span><i class="pbmit-base-icon-instagram"></i></span>

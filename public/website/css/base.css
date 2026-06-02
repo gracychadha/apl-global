@@ -16,8 +16,10 @@ INDEX:
 /* @import url('../../css2');
 @import url('../../css2-1'); */
 :root {
-    --pbmit-global-color: #0b4bd3;
-    --pbmit-secondary-color: #ff5001;
+    /* --pbmit-global-color: #0b4bd3; */
+    --pbmit-global-color: #5fcdb5;
+    /* --pbmit-secondary-color: #ff5001; */
+    --pbmit-secondary-color: #de58a5;
     --pbmit-light-color: #edf7ff;
     --pbmit-white-color: #ffffff;
     --pbmit-blackish-color: #000000;
@@ -514,7 +516,7 @@ body .pbmit-color-global {
     color: var(--pbmit-blackish-color);
 }
 .site-header .site-navigation ul.navigation > li.active > a:after {
-    color: var(--pbmit-global-color);
+    color: var(--pbmit-secondary-color);
 }
 .site-navigation ul.navigation > li > a:hover:after {
     color: var(--pbmit-global-color);

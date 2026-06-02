@@ -90,8 +90,8 @@
                                                             <ul class="pbmit-single-team-info">
                                                                 <li>
                                                                     <i class="demo-icon pbmit-base-icon-phone"></i>
-                                                                    Tel: +971 4 2949439 <br>
-                                                                    WhatsApp: +971 56 7590009
+                                                                    <b>Tel</b>: +971 4 2949439 <br>
+                                                                    <b>WhatsApp</b>: +971 56 7590009
                                                                 </li>
 
                                                                 <li>
@@ -131,7 +131,7 @@
 
                                                                 <li>
                                                                     <i class="demo-icon pbmit-base-icon-phone"></i>
-                                                                    Tel: +971 4 2594007
+                                                                    <b>Tel</b>: +971 4 2594007
                                                                 </li>
 
                                                                 <li>
@@ -172,8 +172,8 @@
 
                                                                 <li>
                                                                     <i class="demo-icon pbmit-base-icon-phone"></i>
-                                                                    Tel: +31 (0) 252 250 600 <br>
-                                                                    WhatsApp: +31 687 997 300
+                                                                    <b>Tel</b>: +31 (0) 252 250 600 <br>
+                                                                    <b>WhatsApp</b>: +31 687 997 300
                                                                 </li>
 
                                                                 <li>

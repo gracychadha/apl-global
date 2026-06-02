@@ -22,6 +22,11 @@
                 </ul>
             </div>
         </aside>
+        <aside class="widget post-list">
+            <div class="all-post-list">
+               <img src="{{ asset('website/images/services/service-single-01.png') }}" alt="Service Image" class="img-fluid">
+            </div>
+        </aside>
 
     </aside>
 </div>

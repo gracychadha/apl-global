@@ -5,7 +5,7 @@
     @include('website.components.home.slider')
 
     <!-- Marquee -->
-    @include('website.components.home.marque')
+    <!-- @include('website.components.home.marque') -->
 
     <!-- About us Start -->
     @include('website.components.home.about-us')
@@ -19,8 +19,7 @@
     @include('website.components.home.what-we-do')
 
 
-    <!-- Flip Box Start -->
-    @include('website.components.home.award')
+   
 
     <!-- Fid Start -->
     @include('website.components.home.counter')
