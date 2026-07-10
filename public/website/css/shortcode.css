@@ -145,7 +145,11 @@
 }
 .pbmit-ihbox-style-1 .pbmit-heading-desc {
     font-size: 18px;
+    text-align: justify;
     color: var(--pbmit-global-color);
+}
+.pbmit-ihbox-contents .pbmit-heading-desc{
+    text-align: justify;
 }
 /** Style 2 **/
 .pbmit-ihbox-style-2 .pbmit-ihbox-icon-type-text {

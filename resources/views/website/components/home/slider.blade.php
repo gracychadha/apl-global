@@ -35,16 +35,16 @@
                         data-text="w:normal;s:90,70,53,34;l:100,80,60,42;fw:700;" data-frame_0="x:175%;o:1;"
                         data-frame_0_mask="u:t;x:-100%;" data-frame_1="e:power3.out;st:1360;sp:1000;sR:1360;"
                         data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;sR:6640;"
-                        style="z-index:9;font-family:'Space Grotesk';text-transform:capitalize;">Safe &amp; Reliable
-                        <br> Cargo Solutions.
+                        style="z-index:9;font-family:'Space Grotesk';text-transform:capitalize;">Direction that Matters
                     </rs-layer><rs-layer id="slider-4-slide-4-layer-4" data-type="text" data-color="#000000"
-                        data-rsp_ch="on" data-xy="x:l,r,r,r;xo:275px,30px,22px,27px;yo:398px,398px,344px,278px;"
+                        data-rsp_ch="on" data-xy="x:l,r,r,r;xo:275px,30px,22px,27px;yo:300px,398px,344px,278px;"
                         data-text="w:normal;s:22,19,17,17;l:26,22,24,28;fw:500;"
                         data-dim="w:877px,767px,582px,425px;h:79px,69px,52px,auto;" data-frame_0="x:175%;o:1;"
                         data-frame_0_mask="u:t;x:-100%;" data-frame_1="e:power3.out;st:1770;sp:1000;sR:1770;"
                         data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;sR:6230;"
-                        style="z-index:10;font-family:'Schibsted Grotesk';">Providing flexible, improved service levels,
-                        and accelerated delivery. <br>Reduced direct and indirect costs with much less complexity.
+                        style="z-index:10;font-family:'Schibsted Grotesk';">Providing flexible,improved service
+                        levels,and accelerated delivery.<br>Reduced direct and indirect costs and much less complexity
+
                     </rs-layer><rs-layer id="slider-4-slide-4-layer-6" data-type="image" data-rsp_ch="on"
                         data-xy="xo:105px,91px,69px,42px;yo:403px,407px,359px,292px;"
                         data-text="w:normal;s:20,17,12,7;l:0,21,15,9;"
@@ -54,7 +54,7 @@
                         style="z-index:13;"><img src="{{ asset('website/revolution/images/slider-sharp.png') }}" alt=""
                             class="tp-rs-img" width="107" height="36" data-no-retina>
                     </rs-layer></rs-slide>
-                <!-- <rs-slide style="position: absolute;" data-key="rs-11" data-title="Slide"
+                <rs-slide style="position: absolute;" data-key="rs-11" data-title="Slide"
                     data-thumb="revolution/images/slider-1-50x100.jpg" data-in="o:0;" data-out="a:false;">
                     <img src="{{ asset('website/revolution/images/slider-1.jpg') }}" alt="" title="slider-1"
                         width="1920" height="771" class="rev-slidebg tp-rs-img" data-bg="p:center top;f:auto;"
@@ -149,7 +149,7 @@
                         data-loop_0="x:-10px;" data-loop_999="x:10px;sp:4500;e:sine.inOut;yym:t;"
                         style="z-index:13;"><img src="{{ asset('website/revolution/images/slider-sharp.png') }}" alt=""
                             class="tp-rs-img" width="107" height="36" data-no-retina>
-                    </rs-layer></rs-slide> -->
+                    </rs-layer></rs-slide>
             </rs-slides>
             <rs-static-layers></rs-static-layers>
         </rs-module>

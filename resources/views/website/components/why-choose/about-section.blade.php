@@ -4,7 +4,7 @@
             <div class="col-md-12 col-xl-6">
                 <div class="pbmit-col-stretched-left">
                     <div class="about-us-two_img">
-                        <img src="{{ asset('website/images/upload/whychoose.png') }}" class="img-fluid" alt="">
+                        <img src="{{ asset('website/images/upload/about-02.jpg') }}" class="img-fluid" alt="">
                     </div>
                 </div>
             </div>
@@ -12,16 +12,20 @@
                 <div class="about-us-two_content">
                     <div class="pbmit-heading-subheading">
                         <h4 class="pbmit-subtitle">Why Choose Us</h4>
-                        <h2 class="pbmit-title">Smart Logistics Solutions That Save Your Time</h2>
+                        <h2 class="pbmit-title">Logistic & Transport
+                            Solutions Saves Your Time!
+                        </h2>
                         <p class="pbmit-heading_desc">
-                            APL Logistics is a trusted logistics and freight service provider offering complete
-                            transportation and cargo solutions across the globe. We specialize in secure shipping,
-                            customs clearance, warehousing, and supply chain management for all types of cargo.
+                            Logisti Group is a representative logistics operator providing full range of service in the
+                            sphere of customs clearance and transportation worldwide for any type of cargo.
+
+
                             <br>
-                            With experienced professionals, advanced tracking systems, and efficient logistics
-                            operations, we ensure safe, timely, and cost-effective delivery services. Our integrated
-                            logistics solutions help businesses streamline operations and achieve reliable global
-                            transportation support.
+                            We pride ourselves on providing the best transport and shipping services available allover
+                            the world. Our skilled personnel, utilising the latest communications, tracking and
+                            processing software, combined with decades of experience! Through integrated supply chain
+                            solutions, Logisti drives sustainable competitive advantages to some of Australia’s largest
+                            companies.
 
                         </p>
                     </div>

@@ -73,10 +73,11 @@
                             <h4 class="pbmit-subtitle">Get in touch</h4>
                             <h2 class="pbmit-title">Chat with Our Support Team to Learn More</h2>
                             <div class="pbmit-heading_desc">
-                                We deliver professional solutions tailored to our clients’ needs, backed by a skilled team of experts who provide guidance and support across various areas of expertise.
+                                We deliver professional solutions tailored to our clients’ needs, backed by a skilled
+                                team of experts who provide guidance and support across various areas of expertise.
                             </div>
                         </div>
-                        <div class="swiper-slider" data-loop="true" data-autoplay="false" data-dots="false"
+                        <!-- <div class="swiper-slider" data-loop="true" data-autoplay="false" data-dots="false"
                             data-arrows="true" data-columns="1" data-margin="30" data-effect="slide">
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide">
@@ -203,7 +204,7 @@
                                     </article>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
                 <div class="col-md-12 col-xl-6">
@@ -305,7 +306,176 @@
         </div>
     </section>
     <!-- Contact Form -->
+    <section class="office-location-section">
+        <div class="container">
 
+            <div class="section-heading text-center">
+                <span>Global Presence</span>
+                <h4>Our Office Locations</h4>
+                <p>Serving clients worldwide through our strategically located offices.</p>
+            </div>
+
+            <div class="office-location-grid">
+
+                <!-- Card -->
+                <div class="office-location-card">
+
+                    <div class="office-card-head">
+                        <i class=" pbmit-logistbiz-icon pbmit-base-icon-location"></i>
+                        <h4>Dubai Office</h4>
+                    </div>
+
+                    <div class="office-card-body">
+
+                        <div class="office-row">
+                            <i class="pbmit-logistbiz-icon pbmit-logistbiz-icon-call-1"></i>
+                            <div>
+                                <strong>Phone</strong>
+                                <span>+971 4 2949439</span>
+                            </div>
+                        </div>
+
+                        <div class="office-row">
+                            <i class="pbmit-logistbiz-icon pbmit-logistbiz-icon-call-1"></i>
+                            <div>
+                                <strong>WhatsApp</strong>
+                                <span>+971 56 7590009</span>
+                            </div>
+                        </div>
+
+                        <div class="office-row">
+                            <i class="pbmit-logistbiz-icon pbmit-logistbiz-icon-envelope"></i>
+                            <div>
+                                <strong>Email</strong>
+                                <span>info@aplgloballogistic.com</span>
+                            </div>
+                        </div>
+
+                        <div class="office-row">
+                            <i class="pbmit-logistbiz-icon pbmit-base-icon-location"></i>
+                            <div>
+                                <strong>Address</strong>
+                                <span>APL Global Logistics LLC Warehouse D-26, Dubai Airport Free Zone (DAFZA), Dubai -
+                                    UAE</span>
+                            </div>
+                        </div>
+
+                        <div class="office-row">
+                            <i class="pbmit-logistbiz-icon pbmit-logistbiz-icon-clock"></i>
+                            <div>
+                                <strong>Hours</strong>
+                                <span>Mon - Sat : 10:00 AM - 12:00 AM</span>
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
+
+                <!-- Repeat for Office 2 -->
+                <div class="office-location-card">
+
+                    <div class="office-card-head">
+                        <i class="  pbmit-logistbiz-icon pbmit-base-icon-location"></i>
+                        <h4>Dubai Office 2</h4>
+                    </div>
+
+                    <div class="office-card-body">
+
+                        <div class="office-row">
+                            <i class="pbmit-logistbiz-icon pbmit-logistbiz-icon-call-1"></i>
+                            <div>
+                                <strong>Phone</strong>
+                                <span>+971 4 2594007</span>
+                            </div>
+                        </div>
+
+                        <div class="office-row">
+                            <i class="pbmit-logistbiz-icon pbmit-logistbiz-icon-envelope"></i>
+                            <div>
+                                <strong>Email</strong>
+                                <span>info@aplgloballogistic.com</span>
+                            </div>
+                        </div>
+
+                        <div class="office-row">
+                            <i class="pbmit-logistbiz-icon pbmit-base-icon-location"></i>
+                            <div>
+                                <strong>Address</strong>
+                                <span>Warehouse 1405, Dubai International Airport, Cargo Village, Dubai - UAE</span>
+                            </div>
+                        </div>
+
+                        <div class="office-row">
+                            <i class="pbmit-logistbiz-icon pbmit-logistbiz-icon-clock"></i>
+                            <div>
+                                <strong>Hours</strong>
+                                <span>Mon - Sat : 9:00 AM - 6:00 PM</span>
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
+
+                <!-- Repeat for Netherlands -->
+                <div class="office-location-card">
+
+                    <div class="office-card-head">
+                        <i class=" pbmit-logistbiz-icon pbmit-base-icon-location"></i>
+                        <h4>Netherlands</h4>
+                    </div>
+
+                    <div class="office-card-body">
+
+                        <div class="office-row">
+                            <i class="pbmit-logistbiz-icon pbmit-logistbiz-icon-call-1"></i>
+                            <div>
+                                <strong>Phone</strong>
+                                <span>+31 (0) 252 250 600</span>
+                            </div>
+                        </div>
+
+                        <div class="office-row">
+                            <i class="pbmit-logistbiz-icon pbmit-logistbiz-icon-call-1"></i>
+                            <div>
+                                <strong>WhatsApp</strong>
+                                <span>+31 687 997 300</span>
+                            </div>
+                        </div>
+
+                        <div class="office-row">
+                            <i class="pbmit-logistbiz-icon pbmit-logistbiz-icon-envelope"></i>
+                            <div>
+                                <strong>Email</strong>
+                                <span>info@aplgloballogistic.nl</span>
+                            </div>
+                        </div>
+
+                        <div class="office-row">
+                            <i class="pbmit-logistbiz-icon pbmit-base-icon-location"></i>
+                            <div>
+                                <strong>Address</strong>
+                                <span>Noorderdreef 74, 2153LL Nieuw-Vennep, The Netherlands</span>
+                            </div>
+                        </div>
+
+                        <div class="office-row">
+                            <i class="pbmit-logistbiz-icon pbmit-logistbiz-icon-clock"></i>
+                            <div>
+                                <strong>Hours</strong>
+                                <span>Mon - Fri : 8:30 AM - 6:00 PM</span>
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+    </section>
     <!-- Iframe -->
     <section class="iframe_section">
         <div class="container">

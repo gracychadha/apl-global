@@ -1,4 +1,16 @@
 <section class="section-lgt pbmit-element-service-style-1 service_one">
+    <div class="container">
+        <div class="pbmit-heading-subheading text-center">
+            <h4 class="pbmit-subtitle">Services We Offer</h4>
+            <h2 class="pbmit-title">We Manage Lead Logistics
+                For World’s Multinational
+                Companies.</h2>
+            <p>Our freight forwarding experts bring you a of personalized customer service and focus on level delivering
+                our services ON TIME, EVERY TIME. Our expertise and customized service allows you to focus on deploying
+                your resources towards efficiently managing your businesses while our team and our worldwide agent
+                network direct the transit of goods to their destination, meeting all your specifications and needs.</p>
+        </div>
+    </div>
     <div class="container pbmit-col-stretched-yes pbmit-col-right ">
         <div class="pbmit-col-stretched-right">
             <div class="pbmit-element-posts-wrapper row">
@@ -8,8 +20,8 @@
                             style="background-image: url('{{ asset("website/images/upload/air-main.png") }}')">
                             <div class="pbmit-featured-img-wrapper">
                                 <div class="pbmit-featured-wrapper">
-                                    <img src="{{ asset('website/images/upload/air-main.png') }}"
-                                        class="img-fluid" alt="">
+                                    <img src="{{ asset('website/images/upload/air-main.png') }}" class="img-fluid"
+                                        alt="">
                                 </div>
                             </div>
                         </div>
@@ -35,8 +47,8 @@
                             style="background-image: url('{{ asset("website/images/upload/packaging-main.png") }}')">
                             <div class="pbmit-featured-img-wrapper">
                                 <div class="pbmit-featured-wrapper">
-                                    <img src="{{ asset('website/images/upload/packaging-main.png') }}"
-                                        class="img-fluid" alt="">
+                                    <img src="{{ asset('website/images/upload/packaging-main.png') }}" class="img-fluid"
+                                        alt="">
                                 </div>
                             </div>
                         </div>
@@ -62,8 +74,8 @@
                             style="background-image: url('{{ asset('website/images/upload/ocean-main.png') }}')">
                             <div class="pbmit-featured-img-wrapper">
                                 <div class="pbmit-featured-wrapper">
-                                    <img src="{{ asset('website/images/upload/ocean-main.png') }}"
-                                        class="img-fluid" alt="">
+                                    <img src="{{ asset('website/images/upload/ocean-main.png') }}" class="img-fluid"
+                                        alt="">
                                 </div>
                             </div>
                         </div>
@@ -89,8 +101,8 @@
                             style="background-image: url('{{ asset("website/images/upload/road-main.png") }}')">
                             <div class="pbmit-featured-img-wrapper">
                                 <div class="pbmit-featured-wrapper">
-                                    <img src="{{ asset('website/images/upload/road-main.png') }}"
-                                        class="img-fluid" alt="">
+                                    <img src="{{ asset('website/images/upload/road-main.png') }}" class="img-fluid"
+                                        alt="">
                                 </div>
                             </div>
                         </div>
@@ -116,8 +128,8 @@
                             style="background-image: url('{{ asset("website/images/upload/warehousing.png") }}')">
                             <div class="pbmit-featured-img-wrapper">
                                 <div class="pbmit-featured-wrapper">
-                                    <img src="{{ asset('website/images/upload/warehousing.png') }}"
-                                        class="img-fluid" alt="">
+                                    <img src="{{ asset('website/images/upload/warehousing.png') }}" class="img-fluid"
+                                        alt="">
                                 </div>
                             </div>
                         </div>

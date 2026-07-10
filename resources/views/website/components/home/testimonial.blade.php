@@ -29,9 +29,13 @@
                                     <div class="pbminfotech-box-desc">
                                         <blockquote class="pbminfotech-testimonial-text">
                                             <p>
-                                                “APL Logistics provided excellent freight services with timely delivery
-                                                and complete cargo safety. Their professional team made the entire
-                                                shipping process smooth and hassle-free.”
+                                                “Logisti team is the best of the best, and expertly trained team members
+                                                who take the extra step and go the extra mile, all to fulfill our
+                                                dedicated promise to deliver innovative and dynamic solutions to our
+                                                customers to fit the needs of a rapidly changing global environment.
+
+
+                                                ”
                                             </p>
                                         </blockquote>
                                     </div>
@@ -45,8 +49,8 @@
                                             </div>
                                         </div>
                                         <div class="pbmit-auther-content">
-                                            <h3 class="pbminfotech-box-title">Michael Anderson</h3>
-                                            <div class="pbminfotech-testimonial-detail">Import Export Manager</div>
+                                            <h3 class="pbminfotech-box-title">John Peter</h3>
+                                            <div class="pbminfotech-testimonial-detail">Mov Inc</div>
                                         </div>
                                     </div>
                                 </div>
@@ -59,9 +63,12 @@
                                     <div class="pbminfotech-box-desc">
                                         <blockquote class="pbminfotech-testimonial-text">
                                             <p>
-                                                “We have been working with APL Logistics for years and their reliable
-                                                transportation services and customer support have always exceeded our
-                                                expectations.”
+                                                “Logisti team is the best of the best, and expertly trained team members
+                                                who take the extra step and go the extra mile, all to fulfill our
+                                                dedicated promise to deliver innovative and dynamic solutions to our
+                                                customers to fit the needs of a rapidly changing global environment.
+
+                                                ”
                                             </p>
                                         </blockquote>
                                     </div>
@@ -75,8 +82,8 @@
                                             </div>
                                         </div>
                                         <div class="pbmit-auther-content">
-                                            <h3 class="pbminfotech-box-title">David Wilson</h3>
-                                            <div class="pbminfotech-testimonial-detail">Supply Chain Director</div>
+                                            <h3 class="pbminfotech-box-title">Martin Hope</h3>
+                                            <div class="pbminfotech-testimonial-detail">ProMov</div>
                                         </div>
                                     </div>
                                 </div>
@@ -89,8 +96,10 @@
                                     <div class="pbminfotech-box-desc">
                                         <blockquote class="pbminfotech-testimonial-text">
                                             <p>
-                                                “Their global logistics network and on-time delivery services helped our
-                                                business manage international shipments efficiently and securely.”
+                                                “Logisti team is the best of the best, and expertly trained team members
+                                                who take the extra step and go the extra mile, all to fulfill our
+                                                dedicated promise to deliver innovative and dynamic solutions to our
+                                                customers to fit the needs of a rapidly changing global environment.”
                                             </p>
                                         </blockquote>
                                     </div>
@@ -104,8 +113,8 @@
                                             </div>
                                         </div>
                                         <div class="pbmit-auther-content">
-                                            <h3 class="pbminfotech-box-title">Sarah Johnson</h3>
-                                            <div class="pbminfotech-testimonial-detail">Operations Head</div>
+                                            <h3 class="pbminfotech-box-title">Sami Wade</h3>
+                                            <div class="pbminfotech-testimonial-detail">WhiteMov</div>
                                         </div>
                                     </div>
                                 </div>

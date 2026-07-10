@@ -36,80 +36,31 @@
                                 alt="">
                         </div>
                         <div class="pbmit-entry-content">
-                            <h4 class="pbmit_title">Customs Brokerage Solutions for Smooth Global Trade</h4>
+                            <h4 class="pbmit_title">Overview</h4>
 
-                            <p text-align="justify">
-                                APL Logistics provides professional customs brokerage services to ensure fast, smooth, and
-                                hassle-free clearance of international shipments across global borders.
+                            <p align="justify">
+                                Our supply chain staff attaches great importance to customizing the booking process for our
+                                customers. That’s why we strive to find the air freight solution that best suits your needs.
+                                We’ll ask you when the freight is available, what the required delivery date is, and if
+                                there’s potential to save on time or cost. Your answers to these and other questions help us
+                                decide if you should book the air freight as direct. We’ll also see if our sea-air service
+                                is a better solution for you.
+                                <br>
+
+                                We have more than twenty years of experience. During that time, we’ve become expert in
+                                freight transportation by air and all its related services. We work closely with all major
+                                airlines around the world. Ongoing negotiations ensure that we always have the cargo space
+                                we need and the ability to offer you competitive rates – even during the high season.
+                                <br>
+
+                                Where possible, we’ll erect and dismantle Unit Load Devices (ULDs), reducing significantly
+                                the risk of damage to your shipment and saving you time and expense. We can do this because
+                                many of our freight stations have their own ground transportation at or around the airport.
+
+
                             </p>
 
-                            <p text-align="justify">
-                                Our experienced customs experts handle documentation, compliance procedures, import-export
-                                regulations, and cargo clearance efficiently to minimize delays and ensure seamless
-                                transportation. We help businesses simplify international trade with reliable and
-                                cost-effective customs support services.
-                            </p>
-                            <div class="service-list-group">
-                                <div class="row">
-                                    <div class="col-md-6">
-                                        <ul class="list-group list-group-borderless">
-                                            <li class="list-group-item">
-                                                <span class="pbmit-icon-list-icon">
-                                                    <i aria-hidden="true" class="fa fa-check"></i>
-                                                </span>
-                                                <span class="pbmit-icon-list-text">Import & Export Customs Clearance</span>
-                                            </li>
-                                            <li class="list-group-item">
-                                                <span class="pbmit-icon-list-icon">
-                                                    <i aria-hidden="true" class="fa fa-check"></i>
-                                                </span>
-                                                <span class="pbmit-icon-list-text">Accurate Documentation Support</span>
-                                            </li>
-                                            <li class="list-group-item">
-                                                <span class="pbmit-icon-list-icon">
-                                                    <i aria-hidden="true" class="fa fa-check"></i>
-                                                </span>
-                                                <span class="pbmit-icon-list-text">International Trade Compliance</span>
-                                            </li>
-                                            <li class="list-group-item">
-                                                <span class="pbmit-icon-list-icon">
-                                                    <i aria-hidden="true" class="fa fa-check"></i>
-                                                </span>
-                                                <span class="pbmit-icon-list-text">Fast Cargo Clearance Services</span>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                    <div class="col-md-6">
-                                        <ul class="list-group list-group-borderless">
-                                            <li class="list-group-item">
-                                                <span class="pbmit-icon-list-icon">
-                                                    <i aria-hidden="true" class="fa fa-check"></i>
-                                                </span>
-                                                <span class="pbmit-icon-list-text">Duty & Tax Consultation Support</span>
-                                            </li>
-                                            <li class="list-group-item">
-                                                <span class="pbmit-icon-list-icon">
-                                                    <i aria-hidden="true" class="fa fa-check"></i>
-                                                </span>
-                                                <span class="pbmit-icon-list-text">Professional Customs Handling</span>
-                                            </li>
-                                            <li class="list-group-item">
-                                                <span class="pbmit-icon-list-icon">
-                                                    <i aria-hidden="true" class="fa fa-check"></i>
-                                                </span>
-                                                <span class="pbmit-icon-list-text">Worldwide Shipping Assistance</span>
-                                            </li>
-                                            <li class="list-group-item">
-                                                <span class="pbmit-icon-list-icon">
-                                                    <i aria-hidden="true" class="fa fa-check"></i>
-                                                </span>
-                                                <span class="pbmit-icon-list-text">Reliable Freight Documentation
-                                                    Management</span>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
+
                             <div class="service-img_box">
                                 <div class="row">
                                     <div class="col-md-6">
@@ -126,6 +77,42 @@
                                     </div>
                                 </div>
                             </div>
+
+                            <h4 class="pbmit_title">Stats & Charts
+                            </h4>
+
+                            <p align="justify">
+                                Our mix of company-owned and contractor assets allows us to retain optimal levels of control
+                                whilst expanding our reach to over 96% of towns in Australia. With 40 years of LTL
+                                experience, we are now a trusted LTL freight provider for shippers of all sizes and
+                                commodity types.
+                                <br>
+
+                                Our LTL service extends to all states and territories, and includes multiple per-week
+                                services to places many others only serve occasionally, including Darwin, Alice Springs,
+                                Newman, Mt. Isa, Launceston and Burnie.
+                                <br>
+
+                                We pride ourselves on providing the best transport and shipping services currently available
+                                in Australia. Our skilled personnel, utilising the latest communications, tracking and
+                                processing software, combined with decades of experience, ensure all freight is are shipped,
+                                trans-shipped and delivered as safely, securely, and promptly as possible.
+
+
+
+
+                            </p>
+                            <h4 class="pbmit_title">How It Works?
+
+                            </h4>
+
+                            <p align="justify">
+                                We have more than twenty years of experience. During that time, we’ve become expert in
+                                freight transportation by air and all its related services. We work closely with all major
+                                airlines around the world. Ongoing negotiations ensure that we always have the cargo space
+                                we need and offer you competitive rates.
+
+                            </p>
                             <div class="service-detail-accordion_box">
                                 <h4 class="pbmit_title">Frequently Asked Questions</h4>
 
@@ -147,14 +134,15 @@
                                                         <i class="fa fa-minus"></i>
                                                     </span>
                                                 </span>
-                                                <span class="pbmit-accordion-title">01. What is customs brokerage?</span>
+                                                <span class="pbmit-accordion-title">01. Which Plan Is Right For Me?</span>
                                             </button>
                                         </h2>
                                         <div id="collapseOne1" class="accordion-collapse collapse show"
                                             aria-labelledby="headingOne1" data-bs-parent="#accordionExample1">
                                             <div class="accordion-body">
-                                                Customs brokerage is a service that helps businesses manage import-export
-                                                documentation, customs clearance, duties, and trade compliance requirements.
+                                                Our skilled personnel, utilising the latest communications, tracking and
+                                                processing software, combined with decades of experience, ensure all freight
+                                                is are shipped, trans-shipped and delivered as safely.
                                             </div>
                                         </div>
                                     </div>
@@ -171,15 +159,16 @@
                                                         <i class="fa fa-minus"></i>
                                                     </span>
                                                 </span>
-                                                <span class="pbmit-accordion-title">02. Do you handle international customs
-                                                    documentation?</span>
+                                                <span class="pbmit-accordion-title">02. Do I have to commit to a
+                                                    contract?</span>
                                             </button>
                                         </h2>
                                         <div id="collapseTwo1" class="accordion-collapse collapse"
                                             aria-labelledby="headingTwo1" data-bs-parent="#accordionExample1">
                                             <div class="accordion-body">
-                                                Yes, we manage all necessary customs documents and compliance procedures for
-                                                smooth international cargo clearance.
+                                                Our skilled personnel, utilising the latest communications, tracking and
+                                                processing software, combined with decades of experience, ensure all freight
+                                                is are shipped, trans-shipped and delivered as safely.
                                             </div>
                                         </div>
                                     </div>
@@ -196,16 +185,16 @@
                                                         <i class="fa fa-minus"></i>
                                                     </span>
                                                 </span>
-                                                <span class="pbmit-accordion-title">03. How do you help avoid shipment
-                                                    delays?</span>
+                                                <span class="pbmit-accordion-title">03. What Payment Methods Are
+                                                    Available?</span>
                                             </button>
                                         </h2>
                                         <div id="collapseThree1" class="accordion-collapse collapse"
                                             aria-labelledby="headingThree1" data-bs-parent="#accordionExample1">
                                             <div class="accordion-body">
-                                                Our experienced customs team ensures accurate documentation and compliance
-                                                with international regulations to minimize delays and speed up cargo
-                                                clearance.
+                                                Our skilled personnel, utilising the latest communications, tracking and
+                                                processing software, combined with decades of experience, ensure all freight
+                                                is are shipped, trans-shipped and delivered as safely.
                                             </div>
                                         </div>
                                     </div>

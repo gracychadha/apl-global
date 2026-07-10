@@ -35,80 +35,27 @@
                             <img src="{{ asset('website/images/upload/warehousing.png') }}" class="img-fluid" alt="">
                         </div>
                         <div class="pbmit-entry-content">
-                            <h4 class="pbmit_title">Warehousing Solutions For Safe & Organized Storage</h4>
+                            <h4 class="pbmit_title">Overview</h4>
 
-                            <p text-align="justify">
-                                APL Logistics provides secure and efficient warehousing services designed to support smooth
-                                inventory management and safe cargo storage for businesses of all sizes.
+                            <p align="justify">
+                                Our warehousing staff attaches great importance to customizing the booking process for our
+                                customers. That’s why we strive to find the air freight solution that best suits your needs.
+                                We’ll ask you when the freight is available, what the required delivery date is, and if
+                                there’s potential to save on time or cost. Your answers to these and other questions help us
+                                decide if you should book the air freight as direct. We’ll also see if our sea-air service
+                                is a better solution for you.
+                                <br>
+                                We have more than twenty years of experience. During that time, we’ve become expert in
+                                freight transportation by air and all its related services. We work closely with all major
+                                airlines around the world. Ongoing negotiations ensure that we always have the cargo space
+                                we need and the ability to offer you competitive rates – even during the high season.
+                                <br>
+                                Where possible, we’ll erect and dismantle Unit Load Devices (ULDs), reducing significantly
+                                the risk of damage to your shipment and saving you time and expense. We can do this because
+                                many of our freight stations have their own ground transportation at or around the airport.
                             </p>
 
-                            <p text-align="justify">
-                                Our modern warehousing facilities are equipped with advanced storage systems, inventory
-                                tracking, and professional handling solutions to ensure maximum safety and operational
-                                efficiency. We offer flexible storage options and seamless distribution support to meet your
-                                business requirements.
-                            </p>
-                            <div class="service-list-group">
-                                <div class="row">
-                                    <div class="col-md-6">
-                                        <ul class="list-group list-group-borderless">
-                                            <li class="list-group-item">
-                                                <span class="pbmit-icon-list-icon">
-                                                    <i aria-hidden="true" class="fa fa-check"></i>
-                                                </span>
-                                                <span class="pbmit-icon-list-text">Secure Cargo Storage Facilities</span>
-                                            </li>
-                                            <li class="list-group-item">
-                                                <span class="pbmit-icon-list-icon">
-                                                    <i aria-hidden="true" class="fa fa-check"></i>
-                                                </span>
-                                                <span class="pbmit-icon-list-text">Advanced Inventory Management</span>
-                                            </li>
-                                            <li class="list-group-item">
-                                                <span class="pbmit-icon-list-icon">
-                                                    <i aria-hidden="true" class="fa fa-check"></i>
-                                                </span>
-                                                <span class="pbmit-icon-list-text">24/7 Warehouse Security</span>
-                                            </li>
-                                            <li class="list-group-item">
-                                                <span class="pbmit-icon-list-icon">
-                                                    <i aria-hidden="true" class="fa fa-check"></i>
-                                                </span>
-                                                <span class="pbmit-icon-list-text">Flexible Short & Long-Term Storage</span>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                    <div class="col-md-6">
-                                        <ul class="list-group list-group-borderless">
-                                            <li class="list-group-item">
-                                                <span class="pbmit-icon-list-icon">
-                                                    <i aria-hidden="true" class="fa fa-check"></i>
-                                                </span>
-                                                <span class="pbmit-icon-list-text">Efficient Order Fulfillment
-                                                    Services</span>
-                                            </li>
-                                            <li class="list-group-item">
-                                                <span class="pbmit-icon-list-icon">
-                                                    <i aria-hidden="true" class="fa fa-check"></i>
-                                                </span>
-                                                <span class="pbmit-icon-list-text">Safe Packaging & Handling Support</span>
-                                            </li>
-                                            <li class="list-group-item">
-                                                <span class="pbmit-icon-list-icon">
-                                                    <i aria-hidden="true" class="fa fa-check"></i>
-                                                </span>
-                                                <span class="pbmit-icon-list-text">Real-Time Inventory Tracking</span>
-                                            </li>
-                                            <li class="list-group-item">
-                                                <span class="pbmit-icon-list-icon">
-                                                    <i aria-hidden="true" class="fa fa-check"></i>
-                                                </span>
-                                                <span class="pbmit-icon-list-text">Reliable Distribution Solutions</span>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
+
                             <div class="service-img_box">
                                 <div class="row">
                                     <div class="col-md-6">
@@ -125,6 +72,35 @@
                                     </div>
                                 </div>
                             </div>
+                            <h4 class="pbmit_title">Stats & Charts
+                            </h4>
+
+                            <p align="justify">
+                                Our mix of company-owned and contractor assets allows us to retain optimal levels of control
+                                whilst expanding our reach to over 96% of towns in Australia. With 40 years of LTL
+                                experience, we are now a trusted LTL freight provider for shippers of all sizes and
+                                commodity types.
+                                <br>
+                                Our LTL service extends to all states and territories, and includes multiple per-week
+                                services to places many others only serve occasionally, including Darwin, Alice Springs,
+                                Newman, Mt. Isa, Launceston and Burnie.
+                                <br>
+
+                                We pride ourselves on providing the best transport and shipping services currently available
+                                in Australia. Our skilled personnel, utilising the latest communications, tracking and
+                                processing software, combined with decades of experience, ensure all freight is are shipped,
+                                trans-shipped and delivered as safely, securely, and promptly as possible.
+                            </p>
+                            <h4 class="pbmit_title">How It Works?
+
+                            </h4>
+
+                            <p align="justify">
+                                We have more than twenty years of experience. During that time, we’ve become expert in
+                                freight transportation by air and all its related services. We work closely with all major
+                                airlines around the world. Ongoing negotiations ensure that we always have the cargo space
+                                we need and offer you competitive rates.
+                            </p>
                             <div class="service-detail-accordion_box">
                                 <h4 class="pbmit_title">Frequently Asked Questions</h4>
 
@@ -147,16 +123,15 @@
                                                         <i class="fa fa-minus"></i>
                                                     </span>
                                                 </span>
-                                                <span class="pbmit-accordion-title">01. What types of goods can be stored in
-                                                    your warehouse?</span>
+                                                <span class="pbmit-accordion-title">01. Which Plan Is Right For Me?</span>
                                             </button>
                                         </h2>
                                         <div id="collapseOne1" class="accordion-collapse collapse show"
                                             aria-labelledby="headingOne1" data-bs-parent="#accordionExample1">
                                             <div class="accordion-body">
-                                                We provide storage solutions for commercial goods, retail products,
-                                                industrial materials, and various types of cargo with secure handling
-                                                facilities.
+                                                Our skilled personnel, utilising the latest communications, tracking and
+                                                processing software, combined with decades of experience, ensure all freight
+                                                is are shipped, trans-shipped and delivered as safely.
                                             </div>
                                         </div>
                                     </div>
@@ -173,15 +148,16 @@
                                                         <i class="fa fa-minus"></i>
                                                     </span>
                                                 </span>
-                                                <span class="pbmit-accordion-title">02. Do you provide inventory tracking
-                                                    services?</span>
+                                                <span class="pbmit-accordion-title">02. Do I have to commit to a
+                                                    contract?</span>
                                             </button>
                                         </h2>
                                         <div id="collapseTwo1" class="accordion-collapse collapse"
                                             aria-labelledby="headingTwo1" data-bs-parent="#accordionExample1">
                                             <div class="accordion-body">
-                                                Yes, we offer advanced inventory management and real-time tracking systems
-                                                for accurate stock monitoring and efficient warehouse operations.
+                                                Our skilled personnel, utilising the latest communications, tracking and
+                                                processing software, combined with decades of experience, ensure all freight
+                                                is are shipped, trans-shipped and delivered as safely.
                                             </div>
                                         </div>
                                     </div>
@@ -198,15 +174,16 @@
                                                         <i class="fa fa-minus"></i>
                                                     </span>
                                                 </span>
-                                                <span class="pbmit-accordion-title">03. Are your warehousing facilities
-                                                    secure?</span>
+                                                <span class="pbmit-accordion-title">03. What Payment Methods Are
+                                                    Available?</span>
                                             </button>
                                         </h2>
                                         <div id="collapseThree1" class="accordion-collapse collapse"
                                             aria-labelledby="headingThree1" data-bs-parent="#accordionExample1">
                                             <div class="accordion-body">
-                                                Yes, our warehouses are equipped with modern security systems and
-                                                professional cargo handling procedures to ensure maximum safety.
+                                                Our skilled personnel, utilising the latest communications, tracking and
+                                                processing software, combined with decades of experience, ensure all freight
+                                                is are shipped, trans-shipped and delivered as safely.
                                             </div>
                                         </div>
                                     </div>

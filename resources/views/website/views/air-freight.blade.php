@@ -35,18 +35,17 @@
                             <img src="{{ asset('website/images/upload/air-main.png') }}" class="img-fluid" alt="">
                         </div>
                         <div class="pbmit-entry-content">
-                            <h4 class="pbmit_title">Fast & Secure Air Freight Solutions</h4>
+                            <h4 class="pbmit_title">Overview</h4>
 
-                            <p text-align="justify">
-                                APL Logistics provides reliable and time-sensitive air freight services for businesses
-                                worldwide. We ensure fast, secure, and efficient transportation of cargo with complete
-                                shipment monitoring and professional handling.
+                            <p align="justify">
+                                APL Global Logistics offers comprehensive airfreight services that are fast and reliable
+                                from any point to any destination in the world at very competitive rates. We diligently
+                                choose air carriers to provide you with flexible services to meet your every need.<br>
+                                So, be it charter delivery, express delivery, standard delivery or economy delivery we meet
+                                the expectations and needs of each particular customer.
                             </p>
-                            <p text-align="justify">
-                                Our air freight solutions are designed to meet urgent delivery requirements while
-                                maintaining safety, speed, and cost efficiency. With a strong global network and experienced
-                                logistics professionals, we simplify international cargo transportation and customs
-                                clearance for smooth worldwide shipping operations.
+                            <p align="justify">
+                                <b>Our Air Freight Services include:</b>
                             </p>
                             <div class="service-list-group">
                                 <div class="row">
@@ -56,26 +55,34 @@
                                                 <span class="pbmit-icon-list-icon">
                                                     <i aria-hidden="true" class="fa fa-check"></i>
                                                 </span>
-                                                <span class="pbmit-icon-list-text">Fast Worldwide Air Cargo Delivery</span>
+                                                <span class="pbmit-icon-list-text">Air freight direct and non-stop services
+                                                    to locations with available service.
+                                                </span>
                                             </li>
                                             <li class="list-group-item">
                                                 <span class="pbmit-icon-list-icon">
                                                     <i aria-hidden="true" class="fa fa-check"></i>
                                                 </span>
-                                                <span class="pbmit-icon-list-text">Secure Shipment Handling Services</span>
+                                                <span class="pbmit-icon-list-text">Flexible services utilizing a network of
+                                                    dedicated carriers and agents.
+                                                </span>
                                             </li>
                                             <li class="list-group-item">
                                                 <span class="pbmit-icon-list-icon">
                                                     <i aria-hidden="true" class="fa fa-check"></i>
                                                 </span>
-                                                <span class="pbmit-icon-list-text">Real-Time Cargo Tracking System</span>
+                                                <span class="pbmit-icon-list-text">Delivery to the local airport.
+                                                </span>
                                             </li>
                                             <li class="list-group-item">
                                                 <span class="pbmit-icon-list-icon">
                                                     <i aria-hidden="true" class="fa fa-check"></i>
                                                 </span>
-                                                <span class="pbmit-icon-list-text">Customs Clearance Assistance</span>
+                                                <span class="pbmit-icon-list-text">Warehousing: storage, packing, crating,
+                                                    consolidation, etc.
+                                                </span>
                                             </li>
+
                                         </ul>
                                     </div>
                                     <div class="col-md-6">
@@ -84,26 +91,23 @@
                                                 <span class="pbmit-icon-list-icon">
                                                     <i aria-hidden="true" class="fa fa-check"></i>
                                                 </span>
-                                                <span class="pbmit-icon-list-text">Affordable International Freight
-                                                    Solutions</span>
+                                                <span class="pbmit-icon-list-text">Handling and shipping of oversized cargo.
+                                                </span>
                                             </li>
                                             <li class="list-group-item">
                                                 <span class="pbmit-icon-list-icon">
                                                     <i aria-hidden="true" class="fa fa-check"></i>
                                                 </span>
-                                                <span class="pbmit-icon-list-text">Door-To-Door Delivery Support</span>
+                                                <span class="pbmit-icon-list-text">Up-to-minute information on the location
+                                                    / Status of your shipment.
+                                                </span>
                                             </li>
                                             <li class="list-group-item">
                                                 <span class="pbmit-icon-list-icon">
                                                     <i aria-hidden="true" class="fa fa-check"></i>
                                                 </span>
-                                                <span class="pbmit-icon-list-text">Professional Logistics Management</span>
-                                            </li>
-                                            <li class="list-group-item">
-                                                <span class="pbmit-icon-list-icon">
-                                                    <i aria-hidden="true" class="fa fa-check"></i>
+                                                <span class="pbmit-icon-list-text">Door to door delivery.
                                                 </span>
-                                                <span class="pbmit-icon-list-text">Safe & Timely Cargo Transportation</span>
                                             </li>
                                         </ul>
                                     </div>
@@ -125,6 +129,34 @@
                                     </div>
                                 </div>
                             </div>
+                            <h4 class="pbmit_title">Stats & Charts</h4>
+
+                            <p align="justify">
+                                Our mix of company-owned and contractor assets allows us to retain optimal levels of control
+                                whilst expanding our reach to over 96% of towns in Australia. With 40 years of LTL
+                                experience, we are now a trusted LTL freight provider for shippers of all sizes and
+                                commodity types.
+                                <br>
+
+                                Our LTL service extends to all states and territories, and includes multiple per-week
+                                services to places many others only serve occasionally, including Darwin, Alice Springs,
+                                Newman, Mt. Isa, Launceston and Burnie.
+                                <br>
+
+                                We pride ourselves on providing the best transport and shipping services currently available
+                                in Australia. Our skilled personnel, utilising the latest communications, tracking and
+                                processing software, combined with decades of experience, ensure all freight is are shipped,
+                                trans-shipped and delivered as safely, securely, and promptly as possible.
+                            </p>
+                            <h4 class="pbmit_title">How It Works?
+                            </h4>
+
+                            <p align="justify">
+                                We have more than twenty years of experience. During that time, we’ve become expert in
+                                freight transportation by air and all its related services. We work closely with all major
+                                airlines around the world. Ongoing negotiations ensure that we always have the cargo space
+                                we need and offer you competitive rates.
+                            </p>
                             <div class="service-detail-accordion_box">
                                 <h4 class="pbmit_title">Frequently Asked Questions</h4>
 
@@ -147,15 +179,15 @@
                                                         <i class="fa fa-minus"></i>
                                                     </span>
                                                 </span>
-                                                <span class="pbmit-accordion-title">01. How long does air freight delivery
-                                                    take?</span>
+                                                <span class="pbmit-accordion-title">01. Which Plan Is Right For Me?</span>
                                             </button>
                                         </h2>
                                         <div id="collapseOne1" class="accordion-collapse collapse show"
                                             aria-labelledby="headingOne1" data-bs-parent="#accordionExample1">
                                             <div class="accordion-body">
-                                                Air freight is one of the fastest shipping methods. Delivery timelines
-                                                depend on the destination, customs process, and shipment type.
+                                                Our skilled personnel, utilising the latest communications, tracking and
+                                                processing software, combined with decades of experience, ensure all freight
+                                                is are shipped, trans-shipped and delivered as safely.
                                             </div>
                                         </div>
                                     </div>
@@ -172,15 +204,16 @@
                                                         <i class="fa fa-minus"></i>
                                                     </span>
                                                 </span>
-                                                <span class="pbmit-accordion-title">02. Do you provide international air
-                                                    cargo services?</span>
+                                                <span class="pbmit-accordion-title">02. Do I have to commit to a
+                                                    contract?</span>
                                             </button>
                                         </h2>
                                         <div id="collapseTwo1" class="accordion-collapse collapse"
                                             aria-labelledby="headingTwo1" data-bs-parent="#accordionExample1">
                                             <div class="accordion-body">
-                                                Yes, we offer reliable international air freight solutions with secure cargo
-                                                handling and worldwide delivery support.
+                                                Our skilled personnel, utilising the latest communications, tracking and
+                                                processing software, combined with decades of experience, ensure all freight
+                                                is are shipped, trans-shipped and delivered as safely.
                                             </div>
                                         </div>
                                     </div>
@@ -197,15 +230,16 @@
                                                         <i class="fa fa-minus"></i>
                                                     </span>
                                                 </span>
-                                                <span class="pbmit-accordion-title">03. Can I track my shipment
-                                                    online?</span>
+                                                <span class="pbmit-accordion-title">03. What Payment Methods Are
+                                                    Available?</span>
                                             </button>
                                         </h2>
                                         <div id="collapseThree1" class="accordion-collapse collapse"
                                             aria-labelledby="headingThree1" data-bs-parent="#accordionExample1">
                                             <div class="accordion-body">
-                                                Yes, we provide real-time shipment tracking so customers can monitor their
-                                                cargo throughout the transportation process.
+                                                Our skilled personnel, utilising the latest communications, tracking and
+                                                processing software, combined with decades of experience, ensure all freight
+                                                is are shipped, trans-shipped and delivered as safely.
                                             </div>
                                         </div>
                                     </div>

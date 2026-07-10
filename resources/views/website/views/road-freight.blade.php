@@ -35,81 +35,27 @@
                             <img src="{{ asset('website/images/upload/road-main.png') }}" class="img-fluid" alt="">
                         </div>
                         <div class="pbmit-entry-content">
-                            <h4 class="pbmit_title">Safe & Reliable Road Freight Solutions</h4>
+                            <h4 class="pbmit_title">Overview</h4>
 
-                            <p text-align="justify">
-                                APL Logistics provides reliable road freight services designed to ensure smooth and
-                                efficient transportation of goods across local and international routes. We focus on safe
-                                cargo handling, timely delivery, and cost-effective logistics solutions.
+                            <p align="justify">
+                                Our road freight staff attaches great importance to customizing the booking process for our
+                                customers. That’s why we strive to find the air freight solution that best suits your needs.
+                                We’ll ask you when the freight is available, what the required delivery date is, and if
+                                there’s potential to save on time or cost. Your answers to these and other questions help us
+                                decide if you should book the air freight as direct. We’ll also see if our sea-air service
+                                is a better solution for you.
+                                <br>
+                                We have more than twenty years of experience. During that time, we’ve become expert in
+                                freight transportation by air and all its related services. We work closely with all major
+                                airlines around the world. Ongoing negotiations ensure that we always have the cargo space
+                                we need and the ability to offer you competitive rates – even during the high season.
+                                <br>
+                                Where possible, we’ll erect and dismantle Unit Load Devices (ULDs), reducing significantly
+                                the risk of damage to your shipment and saving you time and expense. We can do this because
+                                many of our freight stations have their own ground transportation at or around the airport.
                             </p>
-                            <p text-align="justify">
-                                Our road freight network supports businesses with flexible transportation options, real-time
-                                tracking, and professional logistics management. With experienced drivers and modern
-                                transport facilities, we ensure secure and dependable cargo delivery for every shipment.
 
 
-                            </p>
-                            <div class="service-list-group">
-                                <div class="row">
-                                    <div class="col-md-6">
-                                        <ul class="list-group list-group-borderless">
-                                            <li class="list-group-item">
-                                                <span class="pbmit-icon-list-icon">
-                                                    <i aria-hidden="true" class="fa fa-check"></i>
-                                                </span>
-                                                <span class="pbmit-icon-list-text">Domestic & International Road
-                                                    Transport</span>
-                                            </li>
-                                            <li class="list-group-item">
-                                                <span class="pbmit-icon-list-icon">
-                                                    <i aria-hidden="true" class="fa fa-check"></i>
-                                                </span>
-                                                <span class="pbmit-icon-list-text">Safe & Secure Cargo Delivery</span>
-                                            </li>
-                                            <li class="list-group-item">
-                                                <span class="pbmit-icon-list-icon">
-                                                    <i aria-hidden="true" class="fa fa-check"></i>
-                                                </span>
-                                                <span class="pbmit-icon-list-text">Real-Time Vehicle Tracking</span>
-                                            </li>
-                                            <li class="list-group-item">
-                                                <span class="pbmit-icon-list-icon">
-                                                    <i aria-hidden="true" class="fa fa-check"></i>
-                                                </span>
-                                                <span class="pbmit-icon-list-text">Flexible Transportation Solutions</span>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                    <div class="col-md-6">
-                                        <ul class="list-group list-group-borderless">
-                                            <li class="list-group-item">
-                                                <span class="pbmit-icon-list-icon">
-                                                    <i aria-hidden="true" class="fa fa-check"></i>
-                                                </span>
-                                                <span class="pbmit-icon-list-text">Fast Door-To-Door Delivery</span>
-                                            </li>
-                                            <li class="list-group-item">
-                                                <span class="pbmit-icon-list-icon">
-                                                    <i aria-hidden="true" class="fa fa-check"></i>
-                                                </span>
-                                                <span class="pbmit-icon-list-text">Experienced Logistics Support Team</span>
-                                            </li>
-                                            <li class="list-group-item">
-                                                <span class="pbmit-icon-list-icon">
-                                                    <i aria-hidden="true" class="fa fa-check"></i>
-                                                </span>
-                                                <span class="pbmit-icon-list-text">Efficient Supply Chain Management</span>
-                                            </li>
-                                            <li class="list-group-item">
-                                                <span class="pbmit-icon-list-icon">
-                                                    <i aria-hidden="true" class="fa fa-check"></i>
-                                                </span>
-                                                <span class="pbmit-icon-list-text">Affordable Freight Transportation</span>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
                             <div class="service-img_box">
                                 <div class="row">
                                     <div class="col-md-6">
@@ -126,6 +72,34 @@
                                     </div>
                                 </div>
                             </div>
+
+                            <h4 class="pbmit_title">Stats & Charts</h4>
+
+                            <p align="justify">
+                                Our mix of company-owned and contractor assets allows us to retain optimal levels of control
+                                whilst expanding our reach to over 96% of towns in Australia. With 40 years of LTL
+                                experience, we are now a trusted LTL freight provider for shippers of all sizes and
+                                commodity types.
+
+                                <br>
+                                Our LTL service extends to all states and territories, and includes multiple per-week
+                                services to places many others only serve occasionally, including Darwin, Alice Springs,
+                                Newman, Mt. Isa, Launceston and Burnie.
+
+                                <br>
+                                We pride ourselves on providing the best transport and shipping services currently available
+                                in Australia. Our skilled personnel, utilising the latest communications, tracking and
+                                processing software, combined with decades of experience, ensure all freight is are shipped,
+                                trans-shipped and delivered as safely, securely, and promptly as possible.
+                            </p>
+                            <h4 class="pbmit_title">How It Works?</h4>
+
+                            <p align="justify">
+                                We have more than twenty years of experience. During that time, we’ve become expert in
+                                freight transportation by air and all its related services. We work closely with all major
+                                airlines around the world. Ongoing negotiations ensure that we always have the cargo space
+                                we need and offer you competitive rates.
+                            </p>
                             <div class="service-detail-accordion_box">
                                 <h4 class="pbmit_title">Frequently Asked Questions</h4>
 
@@ -147,15 +121,15 @@
                                                         <i class="fa fa-minus"></i>
                                                     </span>
                                                 </span>
-                                                <span class="pbmit-accordion-title">01. What areas do you cover for road
-                                                    freight services?</span>
+                                                <span class="pbmit-accordion-title">01. Which Plan Is Right For Me?</span>
                                             </button>
                                         </h2>
                                         <div id="collapseOne1" class="accordion-collapse collapse show"
                                             aria-labelledby="headingOne1" data-bs-parent="#accordionExample1">
                                             <div class="accordion-body">
-                                                We provide reliable road freight transportation services across domestic and
-                                                international routes with timely delivery support.
+                                                Our skilled personnel, utilising the latest communications, tracking and
+                                                processing software, combined with decades of experience, ensure all freight
+                                                is are shipped, trans-shipped and delivered as safely.
                                             </div>
                                         </div>
                                     </div>
@@ -172,15 +146,16 @@
                                                         <i class="fa fa-minus"></i>
                                                     </span>
                                                 </span>
-                                                <span class="pbmit-accordion-title">02. Is cargo tracking available for road
-                                                    shipments?</span>
+                                                <span class="pbmit-accordion-title">02. Do I have to commit to a
+                                                    contract?</span>
                                             </button>
                                         </h2>
                                         <div id="collapseTwo1" class="accordion-collapse collapse"
                                             aria-labelledby="headingTwo1" data-bs-parent="#accordionExample1">
                                             <div class="accordion-body">
-                                                Yes, we offer real-time tracking services so customers can monitor their
-                                                shipments throughout the transportation process.
+                                                Our skilled personnel, utilising the latest communications, tracking and
+                                                processing software, combined with decades of experience, ensure all freight
+                                                is are shipped, trans-shipped and delivered as safely.
                                             </div>
                                         </div>
                                     </div>
@@ -197,15 +172,16 @@
                                                         <i class="fa fa-minus"></i>
                                                     </span>
                                                 </span>
-                                                <span class="pbmit-accordion-title">03. How do you ensure cargo safety
-                                                    during transportation?</span>
+                                                <span class="pbmit-accordion-title">03. What Payment Methods Are
+                                                    Available?</span>
                                             </button>
                                         </h2>
                                         <div id="collapseThree1" class="accordion-collapse collapse"
                                             aria-labelledby="headingThree1" data-bs-parent="#accordionExample1">
                                             <div class="accordion-body">
-                                                We use secure handling procedures, experienced drivers, and modern
-                                                transportation systems to ensure maximum cargo safety.
+                                                Our skilled personnel, utilising the latest communications, tracking and
+                                                processing software, combined with decades of experience, ensure all freight
+                                                is are shipped, trans-shipped and delivered as safely.
                                             </div>
                                         </div>
                                     </div>

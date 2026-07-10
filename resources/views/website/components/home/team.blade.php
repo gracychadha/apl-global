@@ -1,7 +1,7 @@
 <section class="pbmit-bg-color-light team_one" data-cursor="white-color">
     <div class="container-fluid p-0">
         <div class="row g-0 align-items-center">
-            <div class="col-md-12 col-xl-5">
+            <div class="col-md-12 col-xl-10">
                 <div class="team-one-left_col">
                     <div class="pbmit-heading-subheading">
                         <h4 class="pbmit-subtitle">Explore Our Team</h4>
@@ -33,7 +33,7 @@
                     </a>
                 </div>
             </div>
-            <div class="col-md-12 col-xl-5">
+            <!-- <div class="col-md-12 col-xl-5">
                 <div class="row g-0">
                     <div class="col-md-6">
                         <article class="pbmit-team-style-1">
@@ -125,7 +125,7 @@
                     </div>
                    
                 </div>
-            </div>
+            </div> -->
         </div>
     </div>
 </section>

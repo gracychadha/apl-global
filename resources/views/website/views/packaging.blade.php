@@ -35,82 +35,30 @@
                             <img src="{{ asset('website/images/upload/packaging-main.png') }}" class="img-fluid" alt="">
                         </div>
                         <div class="pbmit-entry-content">
-                            <h4 class="pbmit_title">Professional Packaging Solutions for Safe Cargo Handling</h4>
+                            <h4 class="pbmit_title">Overview</h4>
 
-                            <p text-align="justify">
-                                APL Logistics offers reliable packaging solutions designed to protect goods during storage
-                                and transportation. We ensure secure handling and high-quality packaging for all types of
-                                cargo.
+                            <p align="justify">
+                                Our packaging staff attaches great importance to customizing the booking process for our
+                                customers. That’s why we strive to find the air freight solution that best suits your needs.
+                                We’ll ask you when the freight is available, what the required delivery date is, and if
+                                there’s potential to save on time or cost. Your answers to these and other questions help us
+                                decide if you should book the air freight as direct. We’ll also see if our sea-air service
+                                is a better solution for you.
+
+                                <br>
+                                We have more than twenty years of experience. During that time, we’ve become expert in
+                                freight transportation by air and all its related services. We work closely with all major
+                                airlines around the world. Ongoing negotiations ensure that we always have the cargo space
+                                we need and the ability to offer you competitive rates – even during the high season.
+
+                                <br>
+                                Where possible, we’ll erect and dismantle Unit Load Devices (ULDs), reducing significantly
+                                the risk of damage to your shipment and saving you time and expense. We can do this because
+                                many of our freight stations have their own ground transportation at or around the airport.
                             </p>
 
-                            <p text-align="justify">
-                                Our packaging services are tailored to meet different shipping requirements using durable
-                                materials and professional packing methods. From fragile items to heavy cargo, we focus on
-                                safety, protection, and efficient transportation support for domestic and international
-                                shipments.
-                            </p>
-                            <div class="service-list-group">
-                                <div class="row">
-                                    <div class="col-md-6">
-                                        <ul class="list-group list-group-borderless">
-                                            <li class="list-group-item">
-                                                <span class="pbmit-icon-list-icon">
-                                                    <i aria-hidden="true" class="fa fa-check"></i>
-                                                </span>
-                                                <span class="pbmit-icon-list-text">Safe & Secure Cargo Packaging</span>
-                                            </li>
-                                            <li class="list-group-item">
-                                                <span class="pbmit-icon-list-icon">
-                                                    <i aria-hidden="true" class="fa fa-check"></i>
-                                                </span>
-                                                <span class="pbmit-icon-list-text">Custom Packaging Solutions</span>
-                                            </li>
-                                            <li class="list-group-item">
-                                                <span class="pbmit-icon-list-icon">
-                                                    <i aria-hidden="true" class="fa fa-check"></i>
-                                                </span>
-                                                <span class="pbmit-icon-list-text">Fragile Item Protection Services</span>
-                                            </li>
-                                            <li class="list-group-item">
-                                                <span class="pbmit-icon-list-icon">
-                                                    <i aria-hidden="true" class="fa fa-check"></i>
-                                                </span>
-                                                <span class="pbmit-icon-list-text">Industrial & Commercial Packaging</span>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                    <div class="col-md-6">
-                                        <ul class="list-group list-group-borderless">
-                                            <li class="list-group-item">
-                                                <span class="pbmit-icon-list-icon">
-                                                    <i aria-hidden="true" class="fa fa-check"></i>
-                                                </span>
-                                                <span class="pbmit-icon-list-text">Durable Export Packaging Materials</span>
-                                            </li>
-                                            <li class="list-group-item">
-                                                <span class="pbmit-icon-list-icon">
-                                                    <i aria-hidden="true" class="fa fa-check"></i>
-                                                </span>
-                                                <span class="pbmit-icon-list-text">Professional Cargo Handling
-                                                    Support</span>
-                                            </li>
-                                            <li class="list-group-item">
-                                                <span class="pbmit-icon-list-icon">
-                                                    <i aria-hidden="true" class="fa fa-check"></i>
-                                                </span>
-                                                <span class="pbmit-icon-list-text">Cost-Effective Packaging Services</span>
-                                            </li>
-                                            <li class="list-group-item">
-                                                <span class="pbmit-icon-list-icon">
-                                                    <i aria-hidden="true" class="fa fa-check"></i>
-                                                </span>
-                                                <span class="pbmit-icon-list-text">Packaging For Domestic & International
-                                                    Shipping</span>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
+
+
                             <div class="service-img_box">
                                 <div class="row">
                                     <div class="col-md-6">
@@ -127,6 +75,38 @@
                                     </div>
                                 </div>
                             </div>
+                            <h4 class="pbmit_title">Stats & Charts</h4>
+
+                            <p align="justify">
+                                Our mix of company-owned and contractor assets allows us to retain optimal levels of control
+                                whilst expanding our reach to over 96% of towns in Australia. With 40 years of LTL
+                                experience, we are now a trusted LTL freight provider for shippers of all sizes and
+                                commodity types.
+                                <br>
+
+                                Our LTL service extends to all states and territories, and includes multiple per-week
+                                services to places many others only serve occasionally, including Darwin, Alice Springs,
+                                Newman, Mt. Isa, Launceston and Burnie.
+                                <br>
+
+                                We pride ourselves on providing the best transport and shipping services currently available
+                                in Australia. Our skilled personnel, utilising the latest communications, tracking and
+                                processing software, combined with decades of experience, ensure all freight is are shipped,
+                                trans-shipped and delivered as safely, securely, and promptly as possible.
+
+
+                            </p>
+                            <h4 class="pbmit_title">How It Works?
+                            </h4>
+
+                            <p align="justify">
+                                We have more than twenty years of experience. During that time, we’ve become expert in
+                                freight transportation by air and all its related services. We work closely with all major
+                                airlines around the world. Ongoing negotiations ensure that we always have the cargo space
+                                we need and offer you competitive rates.
+
+
+                            </p>
                             <div class="service-detail-accordion_box">
                                 <h4 class="pbmit_title">Frequently Asked Questions</h4>
 
@@ -149,15 +129,15 @@
                                                         <i class="fa fa-minus"></i>
                                                     </span>
                                                 </span>
-                                                <span class="pbmit-accordion-title">01. What types of products can you
-                                                    package?</span>
+                                                <span class="pbmit-accordion-title">01. Which Plan Is Right For Me?</span>
                                             </button>
                                         </h2>
                                         <div id="collapseOne1" class="accordion-collapse collapse show"
                                             aria-labelledby="headingOne1" data-bs-parent="#accordionExample1">
                                             <div class="accordion-body">
-                                                We provide packaging solutions for commercial goods, fragile products,
-                                                industrial equipment, retail items, and export cargo.
+                                                Our skilled personnel, utilising the latest communications, tracking and
+                                                processing software, combined with decades of experience, ensure all freight
+                                                is are shipped, trans-shipped and delivered as safely.
                                             </div>
                                         </div>
                                     </div>
@@ -174,15 +154,16 @@
                                                         <i class="fa fa-minus"></i>
                                                     </span>
                                                 </span>
-                                                <span class="pbmit-accordion-title">02. Do you provide customized packaging
-                                                    solutions?</span>
+                                                <span class="pbmit-accordion-title">02. Do I have to commit to a
+                                                    contract?</span>
                                             </button>
                                         </h2>
                                         <div id="collapseTwo1" class="accordion-collapse collapse"
                                             aria-labelledby="headingTwo1" data-bs-parent="#accordionExample1">
                                             <div class="accordion-body">
-                                                Yes, we offer customized packaging services based on cargo type, size, and
-                                                transportation requirements to ensure maximum protection.
+                                                Our skilled personnel, utilising the latest communications, tracking and
+                                                processing software, combined with decades of experience, ensure all freight
+                                                is are shipped, trans-shipped and delivered as safely.
                                             </div>
                                         </div>
                                     </div>
@@ -199,15 +180,16 @@
                                                         <i class="fa fa-minus"></i>
                                                     </span>
                                                 </span>
-                                                <span class="pbmit-accordion-title">03. How do you ensure cargo safety
-                                                    during packaging?</span>
+                                                <span class="pbmit-accordion-title">03. What Payment Methods Are
+                                                    Available?</span>
                                             </button>
                                         </h2>
                                         <div id="collapseThree1" class="accordion-collapse collapse"
                                             aria-labelledby="headingThree1" data-bs-parent="#accordionExample1">
                                             <div class="accordion-body">
-                                                We use high-quality packaging materials and professional handling techniques
-                                                to protect cargo from damage during transportation and storage.
+                                                Our skilled personnel, utilising the latest communications, tracking and
+                                                processing software, combined with decades of experience, ensure all freight
+                                                is are shipped, trans-shipped and delivered as safely.
                                             </div>
                                         </div>
                                     </div>

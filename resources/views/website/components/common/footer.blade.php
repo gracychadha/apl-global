@@ -85,7 +85,8 @@
                                 <i class="pbmit-logistbiz-icon pbmit-logistbiz-icon-call-1"></i>
                                 <span>+971 56 759 0009</span>
                             </div>
-                            <div class="pbmit-contact-widget-phone"><i class="pbmit-logistbiz-icon pbmit-logistbiz-icon-envelope"></i><span>info@aplgloballogistic.com</span>
+                            <div class="pbmit-contact-widget-phone"><i
+                                    class="pbmit-logistbiz-icon pbmit-logistbiz-icon-envelope"></i><span>info@aplgloballogistic.com</span>
                             </div>
 
 

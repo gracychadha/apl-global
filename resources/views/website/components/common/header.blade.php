@@ -39,11 +39,11 @@
 
                                         <li
                                             class="dropdown {{ request()->routeIs('about-us', 'why-choose') ? 'active' : '' }}">
-                                            <a href="#">About Company</a>
+                                            <a href="{{ route('about-us') }}">About Us</a>
                                             <ul>
-                                                <li class="{{ request()->routeIs('about-us') ? 'active' : '' }}">
+                                                <!-- <li class="{{ request()->routeIs('about-us') ? 'active' : '' }}">
                                                     <a href="{{ route('about-us') }}">About Us</a>
-                                                </li>
+                                                </li> -->
                                                 <li class="{{ request()->routeIs('why-choose') ? 'active' : '' }}">
                                                     <a href="{{ route('why-choose') }}">Why Choose Us</a>
                                                 </li>

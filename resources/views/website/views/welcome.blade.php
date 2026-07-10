@@ -31,7 +31,6 @@
     <!-- Testimonial Start -->
     @include('website.components.home.testimonial')
 
-    @include('website.components.home.blog-section')
 
 
 @endsection
