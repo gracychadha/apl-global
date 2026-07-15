@@ -57,12 +57,17 @@
                                                 <li class="{{ request()->routeIs('air-freight') ? 'active' : '' }}">
                                                     <a href="{{ route('air-freight') }}">Air Freight</a>
                                                 </li>
+                                                <li
+                                                    class="{{ request()->routeIs('door-to-door-freight') ? 'active' : '' }}">
+                                                    <a href="{{ route('door-to-door-freight') }}">Door to Door
+                                                        Frieght</a>
+                                                </li>
                                                 <li class="{{ request()->routeIs('ocean-freight') ? 'active' : '' }}">
                                                     <a href="{{ route('ocean-freight') }}">Ocean Freight</a>
                                                 </li>
-                                                <li class="{{ request()->routeIs('road-freight') ? 'active' : '' }}">
+                                                <!-- <li class="{{ request()->routeIs('road-freight') ? 'active' : '' }}">
                                                     <a href="{{ route('road-freight') }}">Road Freight</a>
-                                                </li>
+                                                </li> -->
                                                 <li class="{{ request()->routeIs('warehousing') ? 'active' : '' }}">
                                                     <a href="{{ route('warehousing') }}">Warehousing</a>
                                                 </li>
@@ -97,9 +102,54 @@
                             <a href="#"><i class="pbmit-base-icon-search-1"></i></a>
                         </div> -->
                         <div class="pbmit-button-box">
-                            <a class="pbmit-btn" href="https://www.track-trace.com/aircargo" target="_blank">Track & Trace</a>
-                            <!-- <a class="pbmit-btn" href="{{ route('track') }}">Track & Trace</a> -->
+                            <a class="pbmit-btn" href="https://www.track-trace.com/aircargo" target="_blank">Track &
+                                Trace</a>
+                            <!-- WhatsApp Floating Button -->
+
                         </div>
+                        <a href="https://wa.me/+971567590009" class="whatsapp-btn" target="_blank"
+                            aria-label="Chat on WhatsApp">
+                            <i class="fab fa-whatsapp"></i>
+                        </a>
+
+                        <!-- Font Awesome -->
+                        <link rel="stylesheet"
+                            href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+
+                        <style>
+                            .whatsapp-btn {
+                                position: fixed;
+                                right: 80px;
+                                top: 20px;
+                                width: 60px;
+                                height: 60px;
+                                background: #25D366;
+                                color: #fff;
+                                border-radius: 50%;
+                                display: flex;
+                                align-items: center;
+                                justify-content: center;
+                                font-size: 34px;
+                                text-decoration: none;
+                                box-shadow: 0 6px 15px rgba(0, 0, 0, .25);
+                                z-index: 9999;
+                                transition: .3s ease;
+                            }
+
+                            .whatsapp-btn:hover {
+                                background: #1ebe5d;
+                                color: #fff;
+                                transform: scale(1.1);
+                            }
+
+                            @media (max-width:786px) {
+                                .whatsapp-btn {
+                                    right: 60px !important;
+                                    position: relative;
+                                    top: 0px;
+                                }
+                            }
+                        </style>
                     </div>
                 </div>
             </div>

@@ -35,7 +35,7 @@
 
 @endsection
 @push('scripts')
-    <script>
+    <!-- <script>
                     var url = 'https://wati-integration-service.clare.ai/ShopifyWidget/shopifyWidget.js?86687';
                     var s = document.createElement('script');
                     s.type = 'text/javascript';
@@ -70,7 +70,7 @@
                     };
                     var x = document.getElementsByTagName('script')[0];
                     x.parentNode.insertBefore(s, x);
-                </script>
+                </script> -->
 
 
 @endpush

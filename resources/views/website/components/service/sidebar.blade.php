@@ -5,8 +5,9 @@
                 @php
                     $services = [
                         'air-freight' => 'Air Freight',
+                        'door-to-door-freight' => 'Door to Door Freight',
                         'ocean-freight' => 'Ocean Freight',
-                        'road-freight' => 'Road Freight',
+                      
                         'warehousing' => 'Warehousing',
                         'packaging' => 'Packaging',
                         'customs-brokerage' => 'Customs Brokerage',

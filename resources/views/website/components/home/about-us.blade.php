@@ -11,7 +11,7 @@
             <div class="col-md-12 col-xl-6">
                 <div class="pbmit-heading-subheading">
                     <h4 class="pbmit-subtitle">About Us</h4>
-                    <h2 class="pbmit-title">Safe, Reliable And Express Logistic & Transport Solutions That Saves Your
+                    <h2 class="apl-title">Safe, Reliable And Express Logistic & Transport Solutions That Saves Your
                         Time!</h2>
                     <div class="pbmit-heading_desc">
                         As international freight forwarders, our mission is to provide world class logistic service to

@@ -73,7 +73,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <h4 class="pbmit_title">Stats & Charts</h4>
+                            <!-- <h4 class="pbmit_title">Stats & Charts</h4>
                             <p align="justify">
                                 Our mix of company-owned and contractor assets allows us to retain optimal levels of control
                                 whilst expanding our reach to over 96% of towns in Australia. With 40 years of LTL
@@ -184,7 +184,7 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>

@@ -36,6 +36,9 @@ Route::get('/our-team', function () {
 Route::get('/air-freight', function () {
     return view('website.views.air-freight');
 })->name('air-freight');
+Route::get('/door-to-door-freight', function () {
+    return view('website.views.door-to-door-freight');
+})->name('door-to-door-freight');
 Route::get('/ocean-freight', function () {
     return view('website.views.ocean-freight');
 })->name('ocean-freight');

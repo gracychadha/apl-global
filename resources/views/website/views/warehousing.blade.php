@@ -72,7 +72,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <h4 class="pbmit_title">Stats & Charts
+                            <!-- <h4 class="pbmit_title">Stats & Charts
                             </h4>
 
                             <p align="justify">
@@ -188,7 +188,7 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>
