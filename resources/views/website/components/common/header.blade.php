@@ -60,7 +60,7 @@
                                                 <li
                                                     class="{{ request()->routeIs('door-to-door-freight') ? 'active' : '' }}">
                                                     <a href="{{ route('door-to-door-freight') }}">Door to Door
-                                                        Frieght</a>
+                                                        Service</a>
                                                 </li>
                                                 <li class="{{ request()->routeIs('ocean-freight') ? 'active' : '' }}">
                                                     <a href="{{ route('ocean-freight') }}">Ocean Freight</a>

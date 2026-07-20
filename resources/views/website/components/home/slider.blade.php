@@ -7,7 +7,7 @@
             <rs-slides style="overflow: hidden; position: absolute;">
                 <rs-slide style="position: absolute;" data-key="rs-4" data-title="Slide"
                     data-thumb="revolution/images/slider-1-50x100.jpg" data-in="o:0;" data-out="a:false;">
-                    <img src="{{ asset('website/revolution/images/slider-1.jpg') }}" alt="" title="slider-1"
+                    <img src="{{ asset('website/images/upload/slider-1.png') }}" alt="" title="slider-1"
                         width="1920" height="771" class="rev-slidebg tp-rs-img" data-bg="p:center top;f:auto;"
                         data-no-retina>
                     <rs-layer id="slider-4-slide-4-layer-0" data-type="image" data-rsp_ch="on"
@@ -16,7 +16,7 @@
                         data-dim="w:1076px,941px,714px,440px;h:451px,394px,299px,184px;" data-frame_0="x:right;"
                         data-frame_1="st:600;sp:2000;sR:600;" data-frame_999="o:0;st:w;sR:6400;" data-loop_0="y:-10px;"
                         data-loop_999="y:10px;sp:6000;e:sine.inOut;yym:t;" style="z-index:8;"><img
-                            src="{{ asset('website/images/upload/hero-01.png') }}" alt="" class="tp-rs-img" width="1076"
+                            src="{{ asset('website/images/upload/hero-truck.png') }}" alt="" class="tp-rs-img" width="1076"
                             height="451" data-no-retina>
                     </rs-layer><rs-layer id="slider-4-slide-4-layer-2" class="rev-btn" data-type="button"
                         data-color="#0b4bd3" data-rsp_ch="on"
@@ -54,7 +54,7 @@
                         style="z-index:13;"><img src="{{ asset('website/revolution/images/slider-sharp.png') }}" alt=""
                             class="tp-rs-img" width="107" height="36" data-no-retina>
                     </rs-layer></rs-slide>
-                <rs-slide style="position: absolute;" data-key="rs-11" data-title="Slide"
+                <!-- <rs-slide style="position: absolute;" data-key="rs-11" data-title="Slide"
                     data-thumb="revolution/images/slider-1-50x100.jpg" data-in="o:0;" data-out="a:false;">
                     <img src="{{ asset('website/revolution/images/slider-1.jpg') }}" alt="" title="slider-1"
                         width="1920" height="771" class="rev-slidebg tp-rs-img" data-bg="p:center top;f:auto;"
@@ -149,7 +149,7 @@
                         data-loop_0="x:-10px;" data-loop_999="x:10px;sp:4500;e:sine.inOut;yym:t;"
                         style="z-index:13;"><img src="{{ asset('website/revolution/images/slider-sharp.png') }}" alt=""
                             class="tp-rs-img" width="107" height="36" data-no-retina>
-                    </rs-layer></rs-slide>
+                    </rs-layer></rs-slide> -->
             </rs-slides>
             <rs-static-layers></rs-static-layers>
         </rs-module>

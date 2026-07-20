@@ -68,7 +68,7 @@
                         <div class="textwidget">
                             <ul>
                                 <li><a href="{{ route('air-freight') }}">Air Freight</a></li>
-                                <li><a href="{{ route('door-to-door-freight') }}">Door to Door Freight</a></li>
+                                <li><a href="{{ route('door-to-door-freight') }}">Door to Door Service</a></li>
                                 <li><a href="{{ route('ocean-freight') }}">Ocean Freight</a></li>
                                 <!-- <li><a href="{{ route('road-freight') }}">Road Freight</a></li> -->
                                 <li><a href="{{ route('warehousing') }}">Warehousing</a></li>

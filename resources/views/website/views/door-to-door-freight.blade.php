@@ -1,5 +1,5 @@
 @extends('website.layout.app')
-@section('title', 'Door to Door Freight - APL GLOBAL LOGISTICS')
+@section('title', 'Door to Door Service - APL GLOBAL LOGISTICS')
 @section('content')
     <div class="pbmit-title-bar-wrapper">
         <div class="container">
@@ -7,7 +7,7 @@
                 <div class="pbmit-title-bar-content-inner">
                     <div class="pbmit-tbar">
                         <div class="pbmit-tbar-inner">
-                            <h1 class="pbmit-tbar-title"> Door to Door Freight </h1>
+                            <h1 class="pbmit-tbar-title"> Door to Door Service </h1>
                         </div>
                     </div>
                     <div class="pbmit-breadcrumb">
@@ -16,7 +16,7 @@
                             <span class="sep">
                                 <i class="pbmit-base-icon-angle-right"></i>
                             </span>
-                            <span><span class="post-root post post-post current-item"> Door to Door Freight</span></span>
+                            <span><span class="post-root post post-post current-item"> Door to Door Service</span></span>
                         </div>
                     </div>
                 </div>

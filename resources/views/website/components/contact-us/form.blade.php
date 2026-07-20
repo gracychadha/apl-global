@@ -71,11 +71,15 @@
                     <div class="contact-form_leftbox">
                         <div class="pbmit-heading-subheading">
                             <h4 class="pbmit-subtitle">Get in touch</h4>
-                            <h2 class="pbmit-title">Chat with Our Support Team to Learn More</h2>
-                            <div class="pbmit-heading_desc">
+                            <h2 class="pbmit-title">Chat with Our Support Team</h2>
+                            <!-- <div class="pbmit-heading_desc">
                                 We deliver professional solutions tailored to our clients’ needs, backed by a skilled
                                 team of experts who provide guidance and support across various areas of expertise.
+                            </div> -->
+                            <div class="contact-image d-flex justify-content-center align-item-center">
+                                <img src="{{ asset('website/images/upload/contact-location.png') }}">
                             </div>
+
                         </div>
                         <!-- <div class="swiper-slider" data-loop="true" data-autoplay="false" data-dots="false"
                             data-arrows="true" data-columns="1" data-margin="30" data-effect="slide">
@@ -207,7 +211,7 @@
                         </div> -->
                     </div>
                 </div>
-                <div class="col-md-12 col-xl-6">
+                <div class="col-md-12 col-xl-6 my-auto">
                     <div class="contact-form_main">
                         <div class="pbmit-heading-subheading animation-style2">
                             <h4 class="">Send Us a Message</h4>
@@ -435,7 +439,7 @@
                                 <span>+31 (0) 687 997 300</span>
                             </div>
                         </div>
-                       
+
 
                         <div class="office-row">
                             <i class="pbmit-logistbiz-icon pbmit-logistbiz-icon-call-1"></i>
