@@ -307,7 +307,7 @@
     </section>
     <!-- Contact Form -->
     <section class="office-location-section">
-        <div class="container">
+        <div class="container-fluid">
 
             <div class="section-heading text-center">
                 <span>Global Presence</span>
@@ -432,9 +432,10 @@
                             <i class="pbmit-logistbiz-icon pbmit-logistbiz-icon-call-1"></i>
                             <div>
                                 <strong>Phone</strong>
-                                <span>+31 (0) 252 250 600</span>
+                                <span>+31 (0) 687 997 300</span>
                             </div>
                         </div>
+                       
 
                         <div class="office-row">
                             <i class="pbmit-logistbiz-icon pbmit-logistbiz-icon-call-1"></i>
@@ -456,7 +457,9 @@
                             <i class="pbmit-logistbiz-icon pbmit-base-icon-location"></i>
                             <div>
                                 <strong>Address</strong>
-                                <span>Noorderdreef 74, 2153LL Nieuw-Vennep, The Netherlands</span>
+                                <span>APL Global Logistics B.V
+                                    Barnsteen 6
+                                    2132MV Hoofddorp, The Netherlands</span>
                             </div>
                         </div>
 
@@ -465,6 +468,54 @@
                             <div>
                                 <strong>Hours</strong>
                                 <span>Mon - Fri : 8:30 AM - 6:00 PM</span>
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="office-location-card">
+
+                    <div class="office-card-head">
+                        <i class=" pbmit-logistbiz-icon pbmit-base-icon-location"></i>
+                        <h4>Hong Kong</h4>
+                    </div>
+
+                    <div class="office-card-body">
+
+                        <div class="office-row">
+                            <i class="pbmit-logistbiz-icon pbmit-logistbiz-icon-call-1"></i>
+                            <div>
+                                <strong>Phone</strong>
+                                <span>+85 239 051 042</span>
+                            </div>
+                        </div>
+
+
+
+                        <div class="office-row">
+                            <i class="pbmit-logistbiz-icon pbmit-logistbiz-icon-envelope"></i>
+                            <div>
+                                <strong>Email</strong>
+                                <span>info@aplgloballogistic.nl</span>
+                            </div>
+                        </div>
+
+                        <div class="office-row">
+                            <i class="pbmit-logistbiz-icon pbmit-base-icon-location"></i>
+                            <div>
+                                <strong>Address</strong>
+                                <span>Vigor Industrial Building Block 2, unit F, 23rd Floor 49-53 Ta Chuen Ping Street,
+                                    Kwai Chung New Territories
+                                </span>
+                            </div>
+                        </div>
+
+                        <div class="office-row">
+                            <i class="pbmit-logistbiz-icon pbmit-logistbiz-icon-clock"></i>
+                            <div>
+                                <strong>Hours</strong>
+                                <span>Sat- Thu : 9:00AM - 6:00 AM</span>
                             </div>
                         </div>
 

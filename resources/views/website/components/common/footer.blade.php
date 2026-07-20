@@ -46,7 +46,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="pbmit-footer-widget-col-3 col-md-12 col-lg-3">
+                <div class="pbmit-footer-widget-col-3 col-md-12 col-lg-2">
                     <div class="widget">
                         <h2 class="widget-title">Who We Are</h2>
                         <div class="textwidget">
@@ -62,7 +62,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="pbmit-footer-widget-col-3 col-md-12 col-lg-3">
+                <div class="pbmit-footer-widget-col-3 col-md-12 col-lg-2">
                     <div class="widget">
                         <h2 class="widget-title">What We Do</h2>
                         <div class="textwidget">
@@ -78,7 +78,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="pbmit-footer-widget-col-3 col-md-12 col-lg-3">
+                <div class="pbmit-footer-widget-col-3 col-md-12 col-lg-4">
                     <div class="widget">
                         <h2 class="widget-title">Contact Us </h2>
                         <div class="textwidget">
@@ -86,8 +86,17 @@
                                 <i class="pbmit-logistbiz-icon pbmit-logistbiz-icon-call-1"></i>
                                 <span>+971 56 759 0009</span>
                             </div>
+                            <div class="pbmit-contact-widget-phone">
+                                <i class="pbmit-logistbiz-icon pbmit-logistbiz-icon-call-1"></i>
+                                <span>+971 4 2949439</span>
+                            </div>
                             <div class="pbmit-contact-widget-phone"><i
                                     class="pbmit-logistbiz-icon pbmit-logistbiz-icon-envelope"></i><span>info@aplgloballogistic.com</span>
+                            </div>
+                            <div class="pbmit-contact-widget-phone"> <i
+                                    class="pbmit-logistbiz-icon pbmit-base-icon-location"></i><span>D-26, Dubai Airport
+                                    Free Zone
+                                    A-1405, Dubai Cargo Village</span>
                             </div>
 
 

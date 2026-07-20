@@ -2318,7 +2318,7 @@ body {
     }
     .footer-style-2 .pbmit-footer-widget-col-3 {
         flex: 0 0 18%;
-        max-width: 18%;
+        max-width: 25%;
     }
     /*=== Blog Classic ===*/
     .blog-right-col {

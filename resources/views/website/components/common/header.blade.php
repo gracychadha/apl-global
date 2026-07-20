@@ -104,9 +104,12 @@
                         <div class="pbmit-button-box">
                             <a class="pbmit-btn" href="https://www.track-trace.com/aircargo" target="_blank">Track &
                                 Trace</a>
-                            <!-- WhatsApp Floating Button -->
+
 
                         </div>
+                        <a href="tel:+971567590009" class="vc-floating-call-btn" aria-label="Call Us">
+                            <i class="fas fa-phone-alt"></i>
+                        </a>
                         <a href="https://wa.me/+971567590009" class="whatsapp-btn" target="_blank"
                             aria-label="Chat on WhatsApp">
                             <i class="fab fa-whatsapp"></i>
@@ -119,7 +122,7 @@
                         <style>
                             .whatsapp-btn {
                                 position: fixed;
-                                right: 80px;
+                                right: 30px;
                                 top: 20px;
                                 width: 60px;
                                 height: 60px;
@@ -144,9 +147,62 @@
 
                             @media (max-width:786px) {
                                 .whatsapp-btn {
-                                    right: 60px !important;
+                                    right: 115px !important;
                                     position: relative;
                                     top: 0px;
+                                    width: 45px !important;
+                                    height: 45px !important;
+                                    font-size: 25px !important;
+                                }
+
+                                .vc-floating-call-btn {
+                                    right: 15px !important;
+                                    width: 45px !important;
+                                    font-size: 20px !important;
+                                    height: 45px !important;
+                                    position: relative !important; 
+                                    top: 0px !important;
+                                }
+                            }
+
+                            /* Floating Call Button */
+                            .vc-floating-call-btn {
+                                position: fixed;
+                                top: 20px;
+                                right: 105px;
+                                width: 58px;
+                                height: 58px;
+                                background: #ff001a;
+                                color: #fff;
+                                border-radius: 50%;
+                                display: flex;
+                                align-items: center;
+                                justify-content: center;
+                                font-size: 24px;
+                                text-decoration: none;
+                                box-shadow: 0 8px 20px rgba(0, 0, 0, 0.25);
+                                z-index: 9999;
+                                transition: all .3s ease;
+                                animation: vcCallPulse 1.8s infinite;
+                            }
+
+                            .vc-floating-call-btn:hover {
+                                background: #b20718;
+                                color: #fff;
+                                transform: scale(1.08);
+                            }
+
+                            @keyframes vcCallPulse {
+                                0% {
+                                    box-shadow: 0 0 0 0 #ff001a;
+                                }
+
+                                70% {
+                                    box-shadow: 0 0 0 18px rgba(40, 167, 69, 0);
+                                }
+
+                                100% {
+                                    box-shadow: 0 0 0 0 rgba(40, 167, 69, 0);
                                 }
                             }
                         </style>
